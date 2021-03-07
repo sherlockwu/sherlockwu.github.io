@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+title: ""
 permalink: /experience/
 author_profile: true
 ---
@@ -11,10 +11,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## Teaching Experience
+## Experience
+
+### Teaching Experience
 Teaching Assistant for [CS564 Database Management Systems](https://klklassy.com/cs564-fall19/), Fall 2019
 
-## Research Experience
+### Research Experience
 
 
-## Working Experience
+### Working Experience

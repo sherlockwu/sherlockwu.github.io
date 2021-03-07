@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -14,6 +14,8 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
+## Publications
 
 ### Cornus: One-Phase Commit for Cloud Databases with Storage Disaggregation
 <span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>\*, Xinyu Zeng\*, Ziwei Ren, Xiangyao Yu \

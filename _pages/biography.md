@@ -1,10 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: ""
-excerpt: "About me"
+permalink: /biography/
 author_profile: true
-redirect_from: 
-  - /biography/
 ---
 
 ## Biography

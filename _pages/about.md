@@ -10,39 +10,25 @@ redirect_from:
 
 ## Biography
 
-I am a Ph.D. student at Department of Computer Sciences, University of Wisconsin-Madison starting from Fall 2018. I am currently advised by [Prof. Xiangyao Yu](http://pages.cs.wisc.edu/~yxy/). Before 2019 Fall, I was advised by [Prof. Theodoros Rekatsinas](http://pages.cs.wisc.edu/~thodrek/) in my first year of PhD working on ML-driven data integration and data cleaning. I obtained my Bachelor's degree with honors in Computer Sciences from UW-Madison in 2018. 
+I am a fifth-year Ph.D. student at Department of Computer Sciences, [University of Wisconsin-Madison](http://cs.wisc.edu/). My advisors are [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). I study storage systems, aiming to build high-performance applications, caching and system software for emerging storage devices (e.g., Flash, Persistent Memory).
 
-My research interests lie in the area of database systems, with a focus on transaction processing, distributed and parallel databases.
+Before coming to wisconsin, I got my B.Eng. from [University of Science and Technology of China](http://en.ustc.edu.cn) (USTC, 2016). During my undergraduate study, I was fortunate to work with Prof. [Patrick P. C. Lee](http://www.cse.cuhk.edu.hk/~pclee/www/index.html), Chinese University of Hong Kong.
 
 ## Publications 
 
-<b>Cornus: One-Phase Commit for Cloud Databases with Storage Disaggregation</b>
-<br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>\*, Xinyu Zeng\*, Ziwei Ren, Xiangyao Yu
-<br>*under submission* <a href="https://arxiv.org/pdf/2102.10185">[*preprint*]</a> 
-
 <b>Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</b>
-<br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Kan Wu, Cong Yan, Xiangyao Yu 
+<br>Zhihan Guo, <span style="color:rgb(64, 115, 158)">*Kan Wu*</span>, Cong Yan, Xiangyao Yu 
 <br>SIGMOD 2021 (to appear)
 
 <b>The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
-<br>Kan Wu, <span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau 
+<br><span style="color:rgb(64, 115, 158)">*Kan Wu*</span>, Zhihan Guo, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau 
 <br>FAST 2021 <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan.pdf">[*paper*]</a> 
 
 <b>The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
-<br>Kan Wu, <span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau 
+<br><span style="color:rgb(64, 115, 158)">*Kan Wu*</span>, Zhihan Guo, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau 
 <br>NVMW 2021 <a href="https://research.cs.wisc.edu/adsl/Publications/nvmw21-kan.pdf">[*paper*]</a> 
 
-<b>A Statistical Perspective on Discovering Functional Dependencies in Noisy Data</b>
-<br>Yunjia Zhang, <span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span> and Theodoros Rekatsinas 
-<br>SIGMOD 2020 <a href="http://pages.cs.wisc.edu/~zhihan/publications/mod0552-zhangA.pdf">[*paper*]</a> 
 
-<b>Unsupervised Functional Dependency Discovery for Data Preparation</b>
-<br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span> and Theodoros Rekatsinas 
-<br>ICLR Learning from Limited Data Workshop 2019  <a href="https://arxiv.org/abs/1905.01425">[*preprint*]</a>  <a href="files/ICLR_poster_final_tiff.tiff">[*poster*]</a> 
-
-<b>Data profiling methods for interactive data cleaning</b>
-<br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span> and Theodoros Rekatsinas 
-<br>MMLS 2018
 
 ## Research & Work Experience
 <img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/fb-logo.png" width="80px" >

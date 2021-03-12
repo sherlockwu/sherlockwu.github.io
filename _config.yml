@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Zhihan (Scarlet) Guo"
   avatar           : "profile.png"
-  bio              : "Ph.D Candidate @ UW-Madison" #"Your biography for the left-hand sidebar"
+  bio              : "Ph.D Candidate \n@ UW-Madison" #"Your biography for the left-hand sidebar"
   location         : "CS4384 @ CS Department"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "zhihan \"at\" cs.wisc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "files/Resume_ZhihanGuo.pdf"
   bitbucket        :
   codepen          :
   dribbble         :

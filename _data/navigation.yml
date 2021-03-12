@@ -1,14 +1,20 @@
 # main links links
 main:
 
-  - title: "Biography"
-    url: /biography/
+  # - title: "Biography"
+  #   url: /biography/
 
   - title: "Publications"
-    url: /publications/
+    url: "https://scarletguo.github.io#publications"
 
-  - title: "Experience"
-    url: /experience/   
+  - title: "Research & Work Experience"
+    url: "https://scarletguo.github.io#research--work-experience"   
+
+  - title: "Teaching"
+    url: "https://scarletguo.github.io#teaching" 
+
+  # - title: "Education"
+  #   url: "education"   
     
   # - title: "Portfolio"
   #   url: /portfolio/

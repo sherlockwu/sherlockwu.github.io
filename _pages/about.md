@@ -20,9 +20,9 @@ My research interests lie in the area of database systems, with a focus on trans
 <br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>\*, Xinyu Zeng\*, Ziwei Ren, Xiangyao Yu
 <br>*under submission* <a href="https://arxiv.org/pdf/2102.10185">[*preprint*]</a> 
 
-<b>Improving Locking Protocol to Reduce Contention</b>
-<br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span> et al. 
-<br>*under revision (title altered due to double-blind)*
+<b>Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</b>
+<br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Kan Wu, Cong Yan, Xiangyao Yu 
+<br>SIGMOD 2021
 
 <b>The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
 <br>Kan Wu, <span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau and Remzi 

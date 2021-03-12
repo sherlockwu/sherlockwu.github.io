@@ -47,10 +47,10 @@ Storage system, persistent memory and caching.
 
 ## Experience
 <img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/ms-logo.png" width="80px" >
-<b>Research Assistant</b><br>Microsoft Gray System Lab</a> <br> 2018 - Now 
+<b>Research Assistant</b><br>Microsoft Gray System Lab <br> 2018 - Now 
 
 <img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/vw-logo.png" width="80px" >
-<b>Software Engineering Intern, vSAN team</b><br>VMWare</a> <br> 2019 Summer 
+<b>Software Engineering Intern, vSAN team</b><br>VMWare <br> 2019 Summer 
 
 ## Teaching
 Teaching Assistant for [CS564 Database Management Systems](https://klklassy.com/cs564-fall19/), Fall 2019

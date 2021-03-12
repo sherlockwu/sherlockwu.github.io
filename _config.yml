@@ -89,7 +89,7 @@ author:
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "zhihan \"at\" cs.wisc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "files/Resume_ZhihanGuo.pdf"
+  uri              : #"files/Resume_ZhihanGuo.pdf"
   bitbucket        :
   codepen          :
   dribbble         :

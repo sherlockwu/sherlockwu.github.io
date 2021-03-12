@@ -14,6 +14,10 @@ I am a fifth-year Ph.D. student at Department of Computer Sciences, [University 
 
 Before coming to wisconsin, I got my B.Eng. from [University of Science and Technology of China](http://en.ustc.edu.cn) (USTC, 2016). During my undergraduate study, I was fortunate to work with Prof. [Patrick P. C. Lee](http://www.cse.cuhk.edu.hk/~pclee/www/index.html), Chinese University of Hong Kong.
 
+
+## Research Interests
+Storage system, persistent memory and caching.
+
 ## Publications 
 
 <b>Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</b>

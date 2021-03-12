@@ -15,9 +15,9 @@ I am a fifth-year Ph.D. student at Department of Computer Sciences, [University 
 Before coming to wisconsin, I got my B.Eng. from [University of Science and Technology of China](http://en.ustc.edu.cn) (USTC, 2016). During my undergraduate study, I was fortunate to work with Prof. [Patrick P. C. Lee](http://www.cse.cuhk.edu.hk/~pclee/www/index.html), Chinese University of Hong Kong.
 
 ## Latest
-<span style="color:rgb(64, 115, 158)">[March 2021]</span> Bamboo, which reduces contention of hotspots, has been accepted to SIGMOD 2021! 
+<span style="color:rgb(64, 115, 158)">[March 2021]</span> Bamboo, a concurrency control protocol which reduces contention of hotspots, has been accepted to SIGMOD 2021! 
 <br><span style="color:rgb(64, 115, 158)">[Feb 2021]</span> I will serve as a student reviewer of Journal for Computer System Research. 
-<br><span style="color:rgb(64, 115, 158)">[Dec 2020]</span> Non-Hierarchical Caching for NVM hierarchies has been accepted to FAST 2021!
+<br><span style="color:rgb(64, 115, 158)">[Dec 2020]</span> Non-Hierarchical Caching, a generic method to optimize classic caching for NVM hierarchies, has been accepted to FAST 2021!
 
 ## Research Interests
 Storage system, persistent memory and caching.
@@ -33,7 +33,7 @@ Storage system, persistent memory and caching.
 
 <b>The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
 <br><span style="color:rgb(64, 115, 158)">*Kan Wu*</span>, Zhihan Guo, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau 
-<br>FAST'2021 <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan.pdf">[*paper*]</a> 
+<br>FAST'2021 <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan.pdf">[*paper*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-slides.pdf">[*slides*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-video.mp4">[*video*]</a>
 
 <b>Read as Needed: Building WiSER, a Flash-Optimized Search Engine</b>
 <br>Jun He, <span style="color:rgb(64, 115, 158)">*Kan Wu*</span>, Sudarsun Kannan, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
@@ -45,17 +45,14 @@ Storage system, persistent memory and caching.
 
 <b>Exploiting Intel Optane SSD for Microsoft SQL Server</b>
 <br><span style="color:rgb(64, 115, 158)">*Kan Wu*</span>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, Rathijit Sen, Kwanghyun Park
-<br>SIGMOD, DaMoN Workshop'2019 <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
+<br>SIGMOD, DaMoN'2019 <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
 
 
 
 ## Experience
-<img style="float: left; margin-right: 15px;" src="images/logo/ms-logo.png" width="80px" >
 <b>Research Assistant</b><br>Microsoft Gray System Lab <br> 2018 - Now 
-
-<img style="float: left; margin-right: 15px;" src="images/logo/vw-logo.png" width="80px" >
-<b>Software Engineering Intern (vSAN team)</b><br>VMWare <br> 2019 Summer 
-
+<b>Software Engineering Intern (vSAN team)</b><br>VMWare <br> May - Aug 2019
+<b>Research Assistant</b><br>Chinese University of Hong Kong <br> Jan - May 2016
 
 
 ## Teaching

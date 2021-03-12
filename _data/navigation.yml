@@ -7,11 +7,11 @@ main:
   - title: "Publications"
     url: "https://sherlockwu.github.io#publications"
 
-  - title: "Research & Work Experience"
+  - title: "Experience"
     url: "https://sherlockwu.github.io#research--work-experience"   
 
-  - title: "Teaching"
-    url: "https://sherlockwu.github.io#teaching" 
+  #- title: "Teaching"
+  #  url: "https://sherlockwu.github.io#teaching" 
 
   # - title: "Education"
   #   url: "education"   

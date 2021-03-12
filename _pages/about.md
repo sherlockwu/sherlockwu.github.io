@@ -45,21 +45,12 @@ Storage system, persistent memory and caching.
 
 
 
-## Research & Work Experience
-<img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/fb-logo.png" width="80px" >
-<b>Software Engineer Intern in System & Infrastructure</b><br><a href="https://research.fb.com/category/systems-infrastructure/">Facebook</a> in Seattle, WA<br>Summer 2021 
+## Experience
+<img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/ms-logo.png" width="80px" >
+<b>Research Assistant</b><br>Microsoft Gray System Lab</a> <br> 2018 - Now 
 
-<img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/uwm-logo.png" width="80px" >
-<b>Research Assistant</b><br><a href="https://database.cs.wisc.edu/">UW-Madison Database Group</a> in Madison, WI<br>2018.02 - present 
-
-<img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/uwm-logo.png" width="80px" >
-<b>Research Assistant</b><br><a href="https://hci.cs.wisc.edu/">UW-Madison HCI Group</a> in Madison, WI<br>2017.02 - 2018.05
-
-<img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/hm-logo.jpg" width="80px" >
-<b>Research Assistant</b><br><a href="https://centerhealthyminds.org/">Center for Healthy Minds</a> in Madison, WI<br>2017.01 - 2017.09
-
-<img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/waisman-logo.png" width="80px" >
-<b>Research Assistant</b><br><a href="https://childemotion.waisman.wisc.edu/">Child Emotion Lab @ Waisman Center</a> in Madison, WI<br>2016.01 - 2017.09
+<img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/vw-logo.png" width="80px" >
+<b>Software Engineering Intern, vSAN team</b><br>VMWare</a> <br> 2019 Summer 
 
 ## Teaching
 Teaching Assistant for [CS564 Database Management Systems](https://klklassy.com/cs564-fall19/), Fall 2019

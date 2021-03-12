@@ -52,6 +52,8 @@ Storage system, persistent memory and caching.
 <img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/vw-logo.png" width="80px" >
 <b>Software Engineering Intern, vSAN team</b><br>VMWare <br> 2019 Summer 
 
+
+
 ## Teaching
 Teaching Assistant for [CS537 Operating System], Spring 2018
 
@@ -59,5 +61,5 @@ Teaching Assistant for [CS537 Operating System], Spring 2018
 
 ## Professional Services
 Student Editorial Board, Journal of Systems Research (JSys) 2021 
-External Reviewer, NSDI 2020 
-External Reviewer, FAST 2018
+<br>External Reviewer, NSDI 2020 
+<br>External Reviewer, FAST 2018

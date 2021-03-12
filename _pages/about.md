@@ -15,8 +15,9 @@ I am a fifth-year Ph.D. student at Department of Computer Sciences, [University 
 Before coming to wisconsin, I got my B.Eng. from [University of Science and Technology of China](http://en.ustc.edu.cn) (USTC, 2016). During my undergraduate study, I was fortunate to work with Prof. [Patrick P. C. Lee](http://www.cse.cuhk.edu.hk/~pclee/www/index.html), Chinese University of Hong Kong.
 
 ## Latest
-Storage system, persistent memory and caching.
-
+[March 2021] Our work Bamboo, which reduces contention of hotspots has been accepted to SIGMOD 2021! 
+<br>[Feb 2021] I will serve as a student reviewer of JSys, a diamond open-access journal for computer system research. 
+<br>[Dec 2020] Our work on Non-Hierarchical Caching for NVM hierarchies has been accepted to FAST 2021!
 
 ## Research Interests
 Storage system, persistent memory and caching.

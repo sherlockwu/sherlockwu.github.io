@@ -63,3 +63,10 @@ Teaching Assistant for [CS537 Operating System], Spring 2018
 Student Editorial Board, Journal of Systems Research (JSys) 2021 
 <br>External Reviewer, NSDI 2020 
 <br>External Reviewer, FAST 2018
+
+
+## Invited / Conference Talks
+Caching for Modern Storage Hierarchies @ Microsoft Gray System Lab 2021 
+<br>Optimizing Caching on Modern Storage Devices with Orthus @ FAST 2021 
+<br>Unwritten Contract of Optane SSD @ HotStorage 2019 
+<br>Optane SSD Caching for Microsoft SQL Server @ DaMoN 2019

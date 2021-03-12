@@ -22,14 +22,14 @@ My research interests lie in the area of database systems, with a focus on trans
 
 <b>Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</b>
 <br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Kan Wu, Cong Yan, Xiangyao Yu 
-<br>SIGMOD 2021
+<br>SIGMOD 2021 (to appear)
 
 <b>The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
-<br>Kan Wu, <span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau and Remzi 
+<br>Kan Wu, <span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau 
 <br>FAST 2021 <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan.pdf">[*paper*]</a> 
 
 <b>The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
-<br>Kan Wu, <span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau and Remzi 
+<br>Kan Wu, <span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau 
 <br>NVMW 2021 <a href="https://research.cs.wisc.edu/adsl/Publications/nvmw21-kan.pdf">[*paper*]</a> 
 
 <b>A Statistical Perspective on Discovering Functional Dependencies in Noisy Data</b>

@@ -50,9 +50,9 @@ Storage system, persistent memory and caching.
 
 
 ## Experience
-<b>Research Assistant</b><br>Microsoft Gray System Lab <br> 2018 - Now 
-<b>Software Engineering Intern (vSAN team)</b><br>VMWare <br> May - Aug 2019
-<b>Research Assistant</b><br>Chinese University of Hong Kong <br> Jan - May 2016
+<b>Research Assistant</b> Microsoft Gray System Lab, 2018 - Now 
+<br><b>Software Engineering Intern (vSAN team) </b> VMWare, May - Aug 2019
+<br><b>Research Assistant</b> Chinese University of Hong Kong, Jan - May 2016
 
 
 ## Teaching

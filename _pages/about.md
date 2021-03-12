@@ -15,9 +15,9 @@ I am a fifth-year Ph.D. student at Department of Computer Sciences, [University 
 Before coming to wisconsin, I got my B.Eng. from [University of Science and Technology of China](http://en.ustc.edu.cn) (USTC, 2016). During my undergraduate study, I was fortunate to work with Prof. [Patrick P. C. Lee](http://www.cse.cuhk.edu.hk/~pclee/www/index.html), Chinese University of Hong Kong.
 
 ## Latest
-<span style="color:rgb(64, 115, 158)">[March 2021]</span> Bamboo, a concurrency control protocol which reduces contention of hotspots, has been accepted to SIGMOD 2021! 
-<br><span style="color:rgb(64, 115, 158)">[Feb 2021]</span> I will serve as a student reviewer of Journal for Computer System Research. 
-<br><span style="color:rgb(64, 115, 158)">[Dec 2020]</span> Non-Hierarchical Caching, a generic method to optimize classic caching for NVM hierarchies, has been accepted to FAST 2021!
+<span style="color:rgb(64, 115, 158)">[Mar. 2021]</span> Bamboo, a concurrency control protocol which reduces contention of hotspots, has been accepted to SIGMOD 2021! 
+<br><span style="color:rgb(64, 115, 158)">[Feb. 2021]</span> I will serve as a student reviewer of Journal for Computer System Research. 
+<br><span style="color:rgb(64, 115, 158)">[Dec. 2020]</span> Non-Hierarchical Caching, a generic method to optimize classic caching for NVM hierarchies, has been accepted to FAST 2021!
 
 ## Research Interests
 Storage system, persistent memory and caching.

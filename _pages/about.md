@@ -18,7 +18,7 @@ My research interests lie in the area of database systems, with a focus on trans
 
 <b>Cornus: One-Phase Commit for Cloud Databases with Storage Disaggregation</b>
 <br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span>\*, Xinyu Zeng\*, Ziwei Ren, Xiangyao Yu
-<br><a href="https://arxiv.org/pdf/2102.10185">[*preprint*]</a> 
+<br>*under submission* <a href="https://arxiv.org/pdf/2102.10185">[*preprint*]</a> 
 
 <b>Improving Locking Protocol to Reduce Contention</b>
 <br><span style="color:rgb(64, 115, 158)">*Zhihan Guo*</span> et al. 

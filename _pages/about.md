@@ -37,27 +37,27 @@ Persistent Memory, Caching, Storage systems and Flash.
 <b style="color:rgb(64, 115, 158)"> Optimizing Two-Phase Commit for Disaggregated Storage Architecture</b> 
 <br> Third Author, Under Submission (Title Altered to Avoid Conflicts)
 
-<b style="color:rgb(64, 115, 158)>Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</b> 
+<b style="color:rgb(64, 115, 158)">Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</b> 
 <br> Zhihan Guo, <span style="color:rgb(64, 115, 158)">*Kan Wu*</span>, Cong Yan, Xiangyao Yu 
 <br>Proceedings of SIGMOD, 2021 <a href="https://scarletguo.github.io/files/rdm447-guoA.pdf">[*paper*]</a>
 
-<b style="color:rgb(64, 115, 158)>The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
+<b style="color:rgb(64, 115, 158)">The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
 <br><span style="color:rgb(64, 115, 158)">*Kan Wu*</span>, Zhihan Guo, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau 
 <br>19th USENIX Conference on File and Storage Technologies (FAST), 2021 <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan.pdf">[*paper*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-slides.pdf">[*slides*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-video.mp4">[*video*]</a>
 
-<b style="color:rgb(64, 115, 158)>Read as Needed: Building WiSER, a Flash-Optimized Search Engine</b>
+<b style="color:rgb(64, 115, 158)">Read as Needed: Building WiSER, a Flash-Optimized Search Engine</b>
 <br>Jun He, <span style="color:rgb(64, 115, 158)">*Kan Wu*</span>, Sudarsun Kannan, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
 <br>18th USENIX Conference on File and Storage Technologies (FAST), 2020 <a href="https://research.cs.wisc.edu/adsl/Publications/fast20-wiser.pdf">[*paper*]</a> 
 
-<b style="color:rgb(64, 115, 158)>Towards an Unwritten Contract of Intel Optane SSD </b>
+<b style="color:rgb(64, 115, 158)">Towards an Unwritten Contract of Intel Optane SSD </b>
 <br><span style="color:rgb(64, 115, 158)">*Kan Wu*</span>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
 <br>HotStorage'2019 <a href="https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf">[*paper*]</a> <a href="https://www.usenix.org/sites/default/files/conference/protected-files/hotstorage19_slides-wu.pdf">[*slides*]</a>
 
-<b style="color:rgb(64, 115, 158)>Exploiting Intel Optane SSD for Microsoft SQL Server</b>
+<b style="color:rgb(64, 115, 158)">Exploiting Intel Optane SSD for Microsoft SQL Server</b>
 <br><span style="color:rgb(64, 115, 158)">*Kan Wu*</span>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, Rathijit Sen, Kwanghyun Park
 <br>SIGMOD, DaMoN'2019 <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
 
-<b style="color:rgb(64, 115, 158)>The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
+<b style="color:rgb(64, 115, 158)">The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
 <br><span style="color:rgb(64, 115, 158)">*Kan Wu*</span> et al. 
 <br>Non-Volatile Memories Workshop (NVMW'2021) <a href="https://research.cs.wisc.edu/adsl/Publications/nvmw21-kan.pdf">[*paper*]</a> 
 

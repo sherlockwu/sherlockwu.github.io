@@ -26,17 +26,17 @@ I got my B.E. from [University of Science and Technology of China](http://en.ust
 Persistent Memory, Caching, Storage systems and Flash.
 
 ## Publications 
-<b> Shared Persistent Memory Caching </b> 
-<br> First Author, Under Submission
+<b> Shared Persistent Memory Caching  </b> 
+<br> First Author, Under Submission (Title Altered to Avoid Conflicts)
 
 <b> Field-granularity Caching for Persistent Memory-based OLTP databases</b> 
-<br> Second Author, Under Submission 
+<br> Second Author, Under Submission (Title Altered to Avoid Conflicts)
 
-<b> LSTM-based Cache Admission Policy for CDN</b> 
-<br> Third Author, Under Submission
+<b> Segmented Cache Admission Policy for CDN</b> 
+<br> Third Author, Under Submission (Title Altered to Avoid Conflicts)
 
-<b> Optimizing 2PC for Disaggregated Storage Architecture</b> 
-<br> Third Author, Under Submission
+<b> Optimizing Two-Phase Commit for Disaggregated Storage Architecture</b> 
+<br> Third Author, Under Submission (Title Altered to Avoid Conflicts)
 
 <b>The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
 <br><span style="color:rgb(64, 115, 158)">*Kan Wu*</span> et al. 

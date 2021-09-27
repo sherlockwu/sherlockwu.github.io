@@ -20,12 +20,24 @@ I got my B.E. from [University of Science and Technology of China](http://en.ust
 <span style="color:rgb(64, 115, 158)">[Sep. 2021]&#128293;</span> Two papers are submitted to FAST and two to SIGMOD!
 <br><span style="color:rgb(64, 115, 158)">[Mar. 2021]</span> Bamboo, a concurrency control protocol which reduces contention of hotspots, has been accepted to SIGMOD 2021! 
 <br><span style="color:rgb(64, 115, 158)">[Feb. 2021]</span> I will serve as a student reviewer of Journal for Computer System Research. 
-<br><span style="color:rgb(64, 115, 158)">[Dec. 2020]</span> Non-Hierarchical Caching, a generic method to optimize classic caching for NVM hierarchies, has been accepted to FAST 2021!
+<br><span style="color:rgb(64, 115, 158)">[Dec. 2020]</span> Non-Hierarchical Caching, a generic method to optimize caching for Persitent Memory hierarchies, has been accepted to FAST 2021!
 
 ## Research Interests
-Storage systems, Persistent Memory, Flash and caching.
+Persistent Memory, Caching, Storage systems and Flash.
 
 ## Publications 
+<b> Shared Persistent Memory Caching </b> 
+<br> First Author, Under Submission
+
+<b> Field-granularity Caching for Persistent Memory-based OLTP databases</b> 
+<br> Second Author, Under Submission 
+
+<b> LSTM-based Cache Admission Policy for CDN</b> 
+<br> Third Author, Under Submission
+
+<b> Optimizing 2PC for Disaggregated Storage Architecture</b> 
+<br> Third Author, Under Submission
+
 <b>The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
 <br><span style="color:rgb(64, 115, 158)">*Kan Wu*</span> et al. 
 <br>Non-Volatile Memories Workshop (NVMW'2021) <a href="https://research.cs.wisc.edu/adsl/Publications/nvmw21-kan.pdf">[*paper*]</a> 

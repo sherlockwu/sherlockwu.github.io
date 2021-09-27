@@ -11,7 +11,7 @@ redirect_from:
 ## Biography
 
 I am a final-year Ph.D. student at Department of Computer Sciences, [University of Wisconsin-Madison](http://cs.wisc.edu/). My advisors are [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
-I research **Caching + Persistent Memory**, as well as operating systems, storage systems, and databases in general.
+I'm interested in **Caching + Persistent Memory**, as well as operating systems, storage systems, and databases in general.
 
 I got my B.E. from [University of Science and Technology of China](http://en.ustc.edu.cn) (USTC, 2016). During my undergraduate, I was fortunate to work with [Patrick P. C. Lee](http://www.cse.cuhk.edu.hk/~pclee/www/index.html), Chinese University of Hong Kong.
 
@@ -28,7 +28,7 @@ Persistent Memory, Caching, Storage systems and Flash.
 <b style="color:rgb(64, 115, 158)"> Shared Persistent Memory Caching  </b> 
 <br> **First Author**, Under Submission (Title Altered to Avoid Conflicts)
 
-<b style="color:rgb(64, 115, 158)"> Field-granularity Caching for Persistent Memory-based OLTP databases</b> 
+<b style="color:rgb(64, 115, 158)"> Field-granularity Caching for Persistent Memory-based OLTP Databases</b> 
 <br> **Second Author**, Under Submission (Title Altered to Avoid Conflicts)
 
 <b style="color:rgb(64, 115, 158)"> Segmented Cache Admission Policy for CDN</b> 

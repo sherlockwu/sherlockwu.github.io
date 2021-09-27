@@ -11,18 +11,19 @@ redirect_from:
 ## Biography
 
 I am a final-year Ph.D. student at Department of Computer Sciences, [University of Wisconsin-Madison](http://cs.wisc.edu/). My advisors are [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
-
 I research **Caching + Persistent Memory**, as well as operating systems, storage systems, and databases in general.
 
-I got my B.Eng. from [University of Science and Technology of China](http://en.ustc.edu.cn) (USTC, 2016). During my undergraduate, I was fortunate to work with [Patrick P. C. Lee](http://www.cse.cuhk.edu.hk/~pclee/www/index.html), Chinese University of Hong Kong.
+I got my B.E. from [University of Science and Technology of China](http://en.ustc.edu.cn) (USTC, 2016). During my undergraduate, I was fortunate to work with [Patrick P. C. Lee](http://www.cse.cuhk.edu.hk/~pclee/www/index.html), Chinese University of Hong Kong.
+
 
 ## Latest
+<span style="color:rgb(64, 115, 158)">[Sep. 2021]</span> :fire: Two papers are submitted to FAST and two to SIGMOD!
 <span style="color:rgb(64, 115, 158)">[Mar. 2021]</span> Bamboo, a concurrency control protocol which reduces contention of hotspots, has been accepted to SIGMOD 2021! 
 <br><span style="color:rgb(64, 115, 158)">[Feb. 2021]</span> I will serve as a student reviewer of Journal for Computer System Research. 
 <br><span style="color:rgb(64, 115, 158)">[Dec. 2020]</span> Non-Hierarchical Caching, a generic method to optimize classic caching for NVM hierarchies, has been accepted to FAST 2021!
 
 ## Research Interests
-Storage system, persistent memory and caching.
+Storage systems, Persistent Memory, Flash and caching.
 
 ## Publications 
 <b>The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>

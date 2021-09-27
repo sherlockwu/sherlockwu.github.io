@@ -55,7 +55,7 @@ Persistent Memory, Caching, Storage systems and Flash.
 
 <b style="color:rgb(64, 115, 158)">Exploiting Intel Optane SSD for Microsoft SQL Server</b>
 <br>**Kan Wu**, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, Rathijit Sen, Kwanghyun Park
-<br>ACM SIGMOD/PODS International Conference on Management of Data (<b>SIGMOD, DaMoN </b>), 2019 <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
+<br>ACM SIGMOD/PODS International Conference on Management of Data (<b>DaMoN@SIGMOD</b>), 2019 <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
 
 <b style="color:rgb(64, 115, 158)">The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
 <br>**Kan Wu** et al. 

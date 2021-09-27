@@ -10,7 +10,9 @@ redirect_from:
 
 ## Biography
 
-I am a fifth-year Ph.D. student at Department of Computer Sciences, [University of Wisconsin-Madison](http://cs.wisc.edu/). My advisors are [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). I study storage systems, aiming to build high-performance applications, caching and system software for emerging storage devices (e.g., Flash, Persistent Memory).
+I am a final-year Ph.D. student at Department of Computer Sciences, [University of Wisconsin-Madison](http://cs.wisc.edu/). My advisors are [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
+
+I research Caching + Persistent Memory, as well as operating systems, storage systems, and databases in general.
 
 Before coming to wisconsin, I got my B.Eng. from [University of Science and Technology of China](http://en.ustc.edu.cn) (USTC, 2016). During my undergraduate study, I was fortunate to work with Prof. [Patrick P. C. Lee](http://www.cse.cuhk.edu.hk/~pclee/www/index.html), Chinese University of Hong Kong.
 

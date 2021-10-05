@@ -11,7 +11,7 @@ redirect_from:
 ## Biography
 
 I am a Ph.D. student at Department of Computer Sciences, [University of Wisconsin-Madison](http://cs.wisc.edu/). My advisors are great [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
-I'm interested in **Caching + Persistent Memory**, as well as operating systems, storage systems, and databases in general.
+I'm interested in **Caching + Persistent Memory**, as well as operating systems, cloud computing and databases in general.
 
 I got my B.E. from [University of Science and Technology of China](http://en.ustc.edu.cn) (USTC, 2016). During my undergraduate, I worked with [Patrick P. C. Lee](http://www.cse.cuhk.edu.hk/~pclee/www/index.html), Chinese University of Hong Kong.
 
@@ -19,10 +19,10 @@ I got my B.E. from [University of Science and Technology of China](http://en.ust
 ## Latest
 <span style="color:rgb(64, 115, 158)">[Sep. 2021]&#128293;</span> Two papers are submitted to FAST and two to SIGMOD!
 <br><span style="color:rgb(64, 115, 158)">[Mar. 2021]</span> Bamboo, a concurrency control protocol which reduces contention of hotspots, has been accepted to SIGMOD 2021! 
-<br><span style="color:rgb(64, 115, 158)">[Dec. 2020]&#128293;</span> Non-Hierarchical Caching, a generic method to optimize caching for Persitent Memory hierarchies, has been accepted to FAST 2021!
+<br><span style="color:rgb(64, 115, 158)">[Dec. 2020]&#128293;</span> Non-Hierarchical Caching, a generic method to optimize caching for Persistent Memory hierarchies, has been accepted to FAST 2021!
 
 ## Research Interests
-Storage systems, Caching and Databases.
+Storage systems, Cloud Computing and Databases.
 
 ## Publications 
 <b style="color:rgb(64, 115, 158)"> Shared Persistent Memory Caching  </b> 
@@ -55,7 +55,7 @@ Storage systems, Caching and Databases.
 
 <b style="color:rgb(64, 115, 158)">Exploiting Intel Optane SSD for Microsoft SQL Server</b>
 <br>**Kan Wu**, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, Rathijit Sen, Kwanghyun Park
-<br>ACM SIGMOD/PODS International Conference on Management of Data (<b>DaMoN@SIGMOD</b>), 2019 <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
+<br>ACM SIGMOD/PODS International Conference on Management of Data (<b>SIGMOD, DaMoN</b>), 2019 <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
 
 <b style="color:rgb(64, 115, 158)">The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
 <br>**Kan Wu** et al. 

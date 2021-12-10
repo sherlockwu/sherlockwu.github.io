@@ -25,43 +25,43 @@ I got my B.E. from [University of Science and Technology of China](http://en.ust
 Storage System, Cloud Computing and Databases.
 
 ## Publications 
-<b style="color:rgb(64, 115, 158)"> Field-granularity Caching for Persistent Memory-based OLTP Databases</b> 
-<br> Under Submission (Title Altered to Avoid Conflicts)
+<b style="color:rgb(64, 115, 158)"> [10] Field-granularity Caching for Persistent Memory-based OLTP Databases</b> 
+Under Submission (Title Altered to Avoid Conflicts)
 
-<b style="color:rgb(64, 115, 158)"> Optimizing Two-Phase Commit for Disaggregated Storage Architecture</b> 
-<br> Under Submission (Title Altered to Avoid Conflicts)
+<b style="color:rgb(64, 115, 158)"> [9] Optimizing Two-Phase Commit for Disaggregated Storage Architecture</b> 
+Under Submission (Title Altered to Avoid Conflicts)
 
-<b style="color:rgb(64, 115, 158)"> Segmented Cache Admission Policy for CDN</b> 
-<br> Under Submission (Title Altered to Avoid Conflicts)
+<b style="color:rgb(64, 115, 158)"> [8] Segmented Cache Admission Policy for CDN</b> 
+Under Submission (Title Altered to Avoid Conflicts)
 
 
-<b style="color:rgb(64, 115, 158)"> NyxCache: NyxCache: Flexible and Efficient Multi-tenant Persistent-Memory Caching  </b> 
+<b style="color:rgb(64, 115, 158)"> [7] NyxCache: NyxCache: Flexible and Efficient Multi-tenant Persistent-Memory Caching  </b> 
 <br> **Kan Wu**, Kaiwei Tu, Yuvraj Patel, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau 
 <br>20th USENIX Conference on File and Storage Technologies (<b style="color:rgb(64, 115, 158)">FAST'2022</b>)
 
-<b style="color:rgb(64, 115, 158)">The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
+<b style="color:rgb(64, 115, 158)"> [6] The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
 <br>**Kan Wu**, Zhihan Guo, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau 
 <br>19th USENIX Conference on File and Storage Technologies (<b style="color:rgb(64, 115, 158)">FAST'2021</b>) <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan.pdf">[*paper*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-slides.pdf">[*slides*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-video.mp4">[*video*]</a> <a href="https://github.com/josehu07/open-cas-linux-mf
 ">[*code*]</a>
 
-<b style="color:rgb(64, 115, 158)">Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</b> 
+<b style="color:rgb(64, 115, 158)"> [5] Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</b> 
 <br> Zhihan Guo, **Kan Wu**, Cong Yan, Xiangyao Yu 
 <br>ACM SIGMOD/PODS International Conference on Management of Data (<b style="color:rgb(64, 115, 158)">SIGMOD'2021</b>) <a href="https://scarletguo.github.io/files/rdm447-guoA.pdf">[*paper*]</a>
 
 
-<b style="color:rgb(64, 115, 158)">Read as Needed: Building WiSER, a Flash-Optimized Search Engine</b>
+<b style="color:rgb(64, 115, 158)"> [4] Read as Needed: Building WiSER, a Flash-Optimized Search Engine</b>
 <br>Jun He, **Kan Wu**, Sudarsun Kannan, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
 <br>18th USENIX Conference on File and Storage Technologies (<b style="color:rgb(64, 115, 158)">FAST'2020</b>) <a href="https://research.cs.wisc.edu/adsl/Publications/fast20-wiser.pdf">[*paper*]</a> 
 
-<b style="color:rgb(64, 115, 158)">Towards an Unwritten Contract of Intel Optane SSD </b>
+<b style="color:rgb(64, 115, 158)"> [3] Towards an Unwritten Contract of Intel Optane SSD </b>
 <br>**Kan Wu**, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
 <br>Usenix <b style="color:rgb(64, 115, 158)">HotStorage'2019</b> <a href="https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf">[*paper*]</a> <a href="https://www.usenix.org/sites/default/files/conference/protected-files/hotstorage19_slides-wu.pdf">[*slides*]</a> <a href="https://github.com/sherlockwu/OptaneBench">[*code*]</a>
 
-<b style="color:rgb(64, 115, 158)">Exploiting Intel Optane SSD for Microsoft SQL Server</b>
+<b style="color:rgb(64, 115, 158)"> [2] Exploiting Intel Optane SSD for Microsoft SQL Server</b>
 <br>**Kan Wu**, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, Rathijit Sen, Kwanghyun Park
-<br>ACM SIGMOD/PODS International Conference on Management of Data (<b style="color:rgb(64, 115, 158)"> SIGMOD'2019, DaMoN</b>) <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
+<br>ACM SIGMOD/PODS International Conference on Management of Data (<b style="color:rgb(64, 115, 158)">SIGMOD'2019, DaMoN</b>) <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
 
-<b style="color:rgb(64, 115, 158)">The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
+<b style="color:rgb(64, 115, 158)"> [1] The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
 <br>**Kan Wu** et al. 
 <br>Non-Volatile Memories Workshop (<b style="color:rgb(64, 115, 158)">NVMW'2021</b>) <a href="https://research.cs.wisc.edu/adsl/Publications/nvmw21-kan.pdf">[*paper*]</a> 
 

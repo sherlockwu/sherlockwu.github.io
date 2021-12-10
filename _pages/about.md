@@ -45,7 +45,7 @@ Under Submission (Title Altered to Avoid Conflicts)
 
 <b style="color:rgb(64, 115, 158)"> [6] Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</b> 
 <br> Zhihan Guo, **Kan Wu**, Cong Yan, Xiangyao Yu 
-<br>ACM SIGMOD/PODS International Conference on Management of Data (<b style="color:rgb(64, 115, 158)">SIGMOD'2021</b>) <a href="https://scarletguo.github.io/files/rdm447-guoA.pdf">[*paper*]</a>
+<br>ACM SIGMOD International Conference on Management of Data (<b style="color:rgb(64, 115, 158)">SIGMOD'2021</b>) <a href="https://scarletguo.github.io/files/rdm447-guoA.pdf">[*paper*]</a>
 
 
 <b style="color:rgb(64, 115, 158)"> [7] Read as Needed: Building WiSER, a Flash-Optimized Search Engine</b>
@@ -58,7 +58,7 @@ Under Submission (Title Altered to Avoid Conflicts)
 
 <b style="color:rgb(64, 115, 158)"> [9] Exploiting Intel Optane SSD for Microsoft SQL Server</b>
 <br>**Kan Wu**, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, Rathijit Sen, Kwanghyun Park
-<br>ACM SIGMOD/PODS International Conference on Management of Data (<b style="color:rgb(64, 115, 158)">SIGMOD'2019, DaMoN</b>) <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
+<br>ACM SIGMOD International Conference on Management of Data (<b style="color:rgb(64, 115, 158)">SIGMOD'2019, DaMoN</b>) <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
 
 <b style="color:rgb(64, 115, 158)"> [10] The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
 <br>**Kan Wu** et al. 

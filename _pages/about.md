@@ -31,7 +31,7 @@ Under Submission (Title Altered to Avoid Conflicts)
 <b style="color:rgb(64, 115, 158)"> [2] Optimizing Two-Phase Commit for Disaggregated Storage Architecture</b> 
 Under Submission (Title Altered to Avoid Conflicts)
 
-<b style="color:rgb(64, 115, 158)"> [3] Segmented Cache Admission Policy for CDN</b> 
+<b style="color:rgb(64, 115, 158)"> [3] Segmented Cache Admission Policy</b> 
 Under Submission (Title Altered to Avoid Conflicts)
 
 <b style="color:rgb(64, 115, 158)"> [4] NyxCache: Flexible and Efficient Multi-tenant Persistent-Memory Caching  </b> 

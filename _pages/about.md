@@ -55,15 +55,15 @@ Storage System, Cloud Computing and Databases.
 
 <b style="color:rgb(64, 115, 158)">Towards an Unwritten Contract of Intel Optane SSD </b>
 <br>**Kan Wu**, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
-<br><b style="color:rgb(64, 115, 158)">HotStorage'2019</b> <a href="https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf">[*paper*]</a> <a href="https://www.usenix.org/sites/default/files/conference/protected-files/hotstorage19_slides-wu.pdf">[*slides*]</a> <a href="https://github.com/sherlockwu/OptaneBench">[*code*]</a>
+<br>Usenix <b style="color:rgb(64, 115, 158)">HotStorage'2019</b> <a href="https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf">[*paper*]</a> <a href="https://www.usenix.org/sites/default/files/conference/protected-files/hotstorage19_slides-wu.pdf">[*slides*]</a> <a href="https://github.com/sherlockwu/OptaneBench">[*code*]</a>
 
 <b style="color:rgb(64, 115, 158)">Exploiting Intel Optane SSD for Microsoft SQL Server</b>
 <br>**Kan Wu**, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, Rathijit Sen, Kwanghyun Park
-<br>ACM SIGMOD/PODS International Conference on Management of Data (<b style="color:rgb(64, 115, 158)"> SIGMOD, DaMoN</b>), 2019 <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
+<br>ACM SIGMOD/PODS International Conference on Management of Data (<b style="color:rgb(64, 115, 158)"> SIGMOD'2019, DaMoN</b>) <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
 
 <b style="color:rgb(64, 115, 158)">The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
 <br>**Kan Wu** et al. 
-<br>Non-Volatile Memories Workshop (<b style="color:rgb(64, 115, 158)">NVMW</b>), 2021 <a href="https://research.cs.wisc.edu/adsl/Publications/nvmw21-kan.pdf">[*paper*]</a> 
+<br>Non-Volatile Memories Workshop (<b style="color:rgb(64, 115, 158)">NVMW'2021</b>) <a href="https://research.cs.wisc.edu/adsl/Publications/nvmw21-kan.pdf">[*paper*]</a> 
 
 
 

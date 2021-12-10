@@ -17,7 +17,7 @@ I got my B.E. from [University of Science and Technology of China](http://en.ust
 
 
 ## Latest
-<span style="color:rgb(64, 115, 158)">[Sep. 2021]&#128293;</span> Two papers are submitted to FAST and two to SIGMOD!
+<br><span style="color:rgb(64, 115, 158)">[Dec. 2021]&#128293;</span> NyxCache, a multi-tenant KV-cache framework on persistent memory, will appear at FAST 2022!
 <br><span style="color:rgb(64, 115, 158)">[Mar. 2021]</span> Bamboo, a concurrency control protocol which reduces contention of hotspots, has been accepted to SIGMOD 2021! 
 <br><span style="color:rgb(64, 115, 158)">[Dec. 2020]&#128293;</span> Non-Hierarchical Caching, a generic method to optimize caching for Persistent Memory hierarchies, has been accepted to FAST 2021!
 

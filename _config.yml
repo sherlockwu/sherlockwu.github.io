@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kan Wu"
   avatar           : "profile-2.png"
-  bio              : "Ph.D Candidate \n@ UW-Madison" #"Your biography for the left-hand sidebar"
+  bio              : "Ph.D \n@ UW-Madison" #"Your biography for the left-hand sidebar"
   location         : "CS7354 @ CS Department"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

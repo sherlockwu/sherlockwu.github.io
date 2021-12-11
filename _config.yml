@@ -86,7 +86,7 @@ author:
   location         : "CS7354 @ CS Department"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=p8gr3OEAAAAJ"
   email            : "kanwu \"at\" cs.wisc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://research.cs.wisc.edu/adsl/"

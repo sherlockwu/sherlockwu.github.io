@@ -40,7 +40,7 @@ Under Submission (Title Altered to Avoid Conflicts)
 
 <b style="color:rgb(64, 115, 158)"> [5] The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
 <br>**Kan Wu**, Zhihan Guo, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau 
-<br>19th USENIX Conference on File and Storage Technologies (<b style="color:rgb(64, 115, 158)">FAST'2021</b>) <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan.pdf">[*paper*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-slides.pdf">[*slides*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-video.mp4">[*video*]</a> <a href="https://github.com/josehu07/open-cas-linux-mf
+<br>19th USENIX Conference on File and Storage Technologies (<b style="color:rgb(64, 115, 158)">FAST'2021</b>) <a href="https://www.usenix.org/system/files/fast21-wu-kan.pdf">[*paper*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-slides.pdf">[*slides*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-video.mp4">[*video*]</a> <a href="https://github.com/josehu07/open-cas-linux-mf
 ">[*code*]</a>
 
 <b style="color:rgb(64, 115, 158)"> [6] Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</b> 
@@ -50,7 +50,7 @@ Under Submission (Title Altered to Avoid Conflicts)
 
 <b style="color:rgb(64, 115, 158)"> [7] Read as Needed: Building WiSER, a Flash-Optimized Search Engine</b>
 <br>Jun He, **Kan Wu**, Sudarsun Kannan, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
-<br>18th USENIX Conference on File and Storage Technologies (<b style="color:rgb(64, 115, 158)">FAST'2020</b>) <a href="https://research.cs.wisc.edu/adsl/Publications/fast20-wiser.pdf">[*paper*]</a> 
+<br>18th USENIX Conference on File and Storage Technologies (<b style="color:rgb(64, 115, 158)">FAST'2020</b>) <a href="https://www.usenix.org/system/files/fast20-he.pdf">[*paper*]</a> 
 
 <b style="color:rgb(64, 115, 158)"> [8] Towards an Unwritten Contract of Intel Optane SSD </b>
 <br>**Kan Wu**, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau

@@ -84,7 +84,7 @@ Under Submission (Title Altered to Avoid Conflicts)
 
 
 ## Teaching
-Teaching Assistant for CS537 Operating System, UW-Madison, Spring 2018
+Teaching Assistant, Operating System, UW-Madison, Spring 2018
 
 
 ## Professional Services

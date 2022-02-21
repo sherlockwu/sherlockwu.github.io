@@ -11,7 +11,7 @@ redirect_from:
 ## Biography
 
 I am a Ph.D. student at Department of Computer Sciences, [University of Wisconsin-Madison](http://cs.wisc.edu/). My advisors are great [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
-I'm interested in **Caching + Persistent Memory**, as well as operating systems, cloud computing and databases in general.
+I'm interested in storage systems, databases, and cloud computing. Most recently, I research **evolving system stack for Persistent Memory**, with a special focus on caching, multi-tenancy and distributed systems.
 
 I got my B.E. from [University of Science and Technology of China](http://en.ustc.edu.cn) (USTC, 2016). During my undergraduate, I worked with [Patrick P. C. Lee](http://www.cse.cuhk.edu.hk/~pclee/www/index.html), Chinese University of Hong Kong.
 
@@ -25,13 +25,13 @@ I got my B.E. from [University of Science and Technology of China](http://en.ust
 Storage System, Cloud Computing and Databases.
 
 ## Publications 
-<b style="color:rgb(64, 115, 158)"> [1] Field-granularity Caching for Persistent Memory-based OLTP Databases</b> 
+<b style="color:rgb(64, 115, 158)"> [1] Field-granularity Caching for Persistent Memory OLTP Databases</b> 
 Under Submission (Title Altered to Avoid Conflicts)
 
-<b style="color:rgb(64, 115, 158)"> [2] Optimizing Two-Phase Commit for Disaggregated Storage Architecture</b> 
+<b style="color:rgb(64, 115, 158)"> [2] Optimizing Two-Phase Commit for Distributed Databases with a Shared Log </b> 
 Under Submission (Title Altered to Avoid Conflicts)
 
-<b style="color:rgb(64, 115, 158)"> [3] Segmented Cache Admission Policy</b> 
+<b style="color:rgb(64, 115, 158)"> [3] Learned, Segmented, Cache Admission Policies for Content-Delivery Networks</b> 
 Under Submission (Title Altered to Avoid Conflicts)
 
 <b style="color:rgb(64, 115, 158)"> [4] NyxCache: Flexible and Efficient Multi-tenant Persistent-Memory Caching  </b> 

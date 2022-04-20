@@ -95,7 +95,7 @@ External Reviewer, FAST 2018, 2022 <br>
 
 ## Invited / Conference Talks
 <br>Evolving System Stack for Persistent Memory - Caching and Sharing Perspectives @ Google Madison 2022
-<br>Evolving System Stack for Persistent Memory - Caching and Sharing Perspectives @ VMWare Research Group 2022
+<br>Evolving System Stack for Persistent Memory - Caching and Sharing Perspectives @ VMware Research Group 2022
 <br>Evolving System Stack for Persistent Memory - Caching and Sharing Perspectives @ CMU, PDL 2022
 <br>Multi-tenant Persistent Memory Caching @ FAST 2022
 <br>Caching for Modern Storage Hierarchies @ ChinaSys 2021 

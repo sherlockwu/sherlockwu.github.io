@@ -63,6 +63,9 @@ Under Submission (Title Altered to Avoid Conflicts)
 <b style="color:rgb(64, 115, 158)"> [10] Learned, Segmented, Cache Admission Policies for Content-Delivery Networks</b> 
 Under Submission (Title Altered to Avoid Conflicts)
 
+<b style="color:rgb(64, 115, 158)"> [11] Scalable Approximate Graph Mining with Pattern Decomposition</b> 
+Under Submission (Title Altered to Avoid Conflicts)
+
 
 ## Experience
 
@@ -94,9 +97,7 @@ External Reviewer, FAST 2018, 2022 <br>
 
 
 ## Invited / Conference Talks
-<br>Evolving System Stack for Persistent Memory - Caching and Sharing Perspectives @ Google Madison 2022
-<br>Evolving System Stack for Persistent Memory - Caching and Sharing Perspectives @ VMware Research Group 2022
-<br>Evolving System Stack for Persistent Memory - Caching and Sharing Perspectives @ CMU, PDL 2022
+<br>Evolving System Stack for Persistent Memory - Caching and Sharing Perspectives @ Google Madison, VMware Research Group, CMU 2022
 <br>Multi-tenant Persistent Memory Caching @ FAST 2022
 <br>Caching for Modern Storage Hierarchies @ ChinaSys 2021 
 <br>Caching for Modern Storage Hierarchies @ Microsoft Gray System Lab 2021 

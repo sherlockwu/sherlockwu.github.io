@@ -42,34 +42,34 @@ Storage System, Cloud Computing and Databases.
 
 <b> NyxCache: Flexible and Efficient Multi-tenant Persistent-Memory Caching  </b> 
 <br> **Kan Wu**, Kaiwei Tu, Yuvraj Patel, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau 
-<br>20th USENIX Conference on File and Storage Technologies (<b style="color:rgb(64, 115, 158)">FAST'2022</b>) <a href="https://sherlockwu.github.io/files/NyxCache_Final.pdf">[*paper*]</a> <a href="https://www.usenix.org/system/files/fast22_slides_wu.pdf">[*slides*]</a> <a href="">[*code coming*]</a>
+<br><b style="color:rgb(64, 115, 158)">FAST'2022</b>: 20th USENIX Conference on File and Storage Technologies<a href="https://sherlockwu.github.io/files/NyxCache_Final.pdf">[*paper*]</a> <a href="https://www.usenix.org/system/files/fast22_slides_wu.pdf">[*slides*]</a> <a href="">[*code coming*]</a>
 
 
 
 <b> The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
 <br>**Kan Wu**, Zhihan Guo, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau 
-<br>19th USENIX Conference on File and Storage Technologies (<b style="color:rgb(64, 115, 158)">FAST'2021</b>) <a href="https://www.usenix.org/system/files/fast21-wu-kan.pdf">[*paper*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-slides.pdf">[*slides*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-video.mp4">[*video*]</a> <a href="https://github.com/josehu07/open-cas-linux-mf
+<br><b style="color:rgb(64, 115, 158)">FAST'2021</b>: 19th USENIX Conference on File and Storage Technologies <a href="https://www.usenix.org/system/files/fast21-wu-kan.pdf">[*paper*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-slides.pdf">[*slides*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-video.mp4">[*video*]</a> <a href="https://github.com/josehu07/open-cas-linux-mf
 ">[*code*]</a>
 
 <b> Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</b> 
 <br> Zhihan Guo, **Kan Wu**, Cong Yan, Xiangyao Yu 
-<br>ACM SIGMOD International Conference on Management of Data (<b style="color:rgb(64, 115, 158)">SIGMOD'2021</b>) <a href="https://scarletguo.github.io/files/rdm447-guoA.pdf">[*paper*]</a>
+<br><b style="color:rgb(64, 115, 158)">SIGMOD'2021</b>: ACM SIGMOD International Conference on Management of Data <a href="https://scarletguo.github.io/files/rdm447-guoA.pdf">[*paper*]</a>
 
 <b> Read as Needed: Building WiSER, a Flash-Optimized Search Engine</b>
 <br>Jun He, **Kan Wu**, Sudarsun Kannan, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
-<br>18th USENIX Conference on File and Storage Technologies (<b style="color:rgb(64, 115, 158)">FAST'2020</b>) <a href="https://www.usenix.org/system/files/fast20-he.pdf">[*paper*]</a> 
+<br><b style="color:rgb(64, 115, 158)">FAST'2020</b>: 18th USENIX Conference on File and Storage Technologies <a href="https://www.usenix.org/system/files/fast20-he.pdf">[*paper*]</a> 
 
 <b> Towards an Unwritten Contract of Intel Optane SSD </b>
 <br>**Kan Wu**, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
-<br>11th USENIX <b style="color:rgb(64, 115, 158)">HotStorage'2019</b> <a href="https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf">[*paper*]</a> <a href="https://www.usenix.org/sites/default/files/conference/protected-files/hotstorage19_slides-wu.pdf">[*slides*]</a> <a href="https://github.com/sherlockwu/OptaneBench">[*code*]</a>
+<br><b style="color:rgb(64, 115, 158)">HotStorage'2019</b>: 11th USENIX Workshop on Hot Topics in Storage and File Systems<a href="https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf">[*paper*]</a> <a href="https://www.usenix.org/sites/default/files/conference/protected-files/hotstorage19_slides-wu.pdf">[*slides*]</a> <a href="https://github.com/sherlockwu/OptaneBench">[*code*]</a>
 
 <b> Exploiting Intel Optane SSD for Microsoft SQL Server</b>
 <br>**Kan Wu**, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, Rathijit Sen, Kwanghyun Park
-<br>ACM SIGMOD International Conference on Management of Data (<b style="color:rgb(64, 115, 158)">SIGMOD'2019, DaMoN</b>) <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
+<br><b style="color:rgb(64, 115, 158)">SIGMOD'2019, DaMoN</b>: ACM SIGMOD International Conference on Management of Data <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
 
 <b> The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
 <br>**Kan Wu** et al. 
-<br>12th Non-Volatile Memories Workshop (<b style="color:rgb(64, 115, 158)">NVMW'2021</b>) <a href="https://research.cs.wisc.edu/adsl/Publications/nvmw21-kan.pdf">[*paper*]</a> 
+<br><b style="color:rgb(64, 115, 158)">NVMW'2021</b>: 12th Non-Volatile Memories Workshop <a href="https://research.cs.wisc.edu/adsl/Publications/nvmw21-kan.pdf">[*paper*]</a> 
 
 
 
@@ -94,21 +94,21 @@ Storage System, Cloud Computing and Databases.
 
 
 ## Teaching
-Teaching Assistant, Operating System, UW-Madison, Spring 2018
+Teaching Assistant, Operating System(CS537), UW-Madison, Spring 2018
 
 
 ## Professional Services
 Shadow PC, Eurosys 2022 <br>
-Student Editorial Board, Journal of Systems Research 2021,2022 <br>
 Reviewer, ACM Transactions on Storage (TOS) 2021 <br>
+Student Editorial Board, Journal of Systems Research 2021,2022 <br>
 External Reviewer, NSDI 2020 <br>
 External Reviewer, FAST 2018, 2022 <br>
 
 
 ## Invited / Conference Talks
-<br>Evolving System Stack for PMEM - Caching and Sharing Perspectives @ Google Madison 2022
-<br>Evolving System Stack for PMEM - Caching and Sharing Perspectives @ VMware Research 2022
-<br>Evolving System Stack for PMEM - Caching and Sharing Perspectives @ CMU, PDL 2022
+<br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google Madison 2022
+<br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ VMware Research 2022
+<br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ CMU, PDL 2022
 <br>Multi-tenant Persistent Memory Caching @ FAST 2022
 <br>Caching for Modern Storage Hierarchies @ ChinaSys 2021 
 <br>Caching for Modern Storage Hierarchies @ Microsoft Gray System Lab 2021 

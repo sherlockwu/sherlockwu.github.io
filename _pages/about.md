@@ -11,7 +11,7 @@ redirect_from:
 ## Biography
 
 I am a Ph.D. student at Department of Computer Sciences, University of Wisconsin-Madison. My advisors are great [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
-I'm interested in storage systems, databases, and cloud computing. Most recently, I research **evolving system stack for Persistent Memory**, with a special focus on caching, multi-tenancy and distributed systems.
+I'm interested in storage systems, databases, and cloud computing. Most recently, I research **evolving system stack for Persistent Memory**, with a special focus on caching, multi-tenancy, and distributed systems.
 
 I got my B.E. from University of Science and Technology of China (USTC, 2016). During my undergraduate, I worked with [Patrick P. C. Lee](http://www.cse.cuhk.edu.hk/~pclee/www/index.html), Chinese University of Hong Kong.
 
@@ -24,21 +24,22 @@ style="color:rgb(64, 115, 158)"
 -->
 
 ## Research Interests
-Storage System, Cloud Computing and Databases.
+Operating Systems, Storage Systems, Cloud Computing and Databases.
 
 
 ## Publications 
-<b> Field-granularity Caching for Persistent Memory OLTP Databases</b> 
+<b> Alchemy: Field-granularity Caching for Persistent Memory OLTP Databases</b> 
 <br> In Submission (Title Altered to Avoid Conflicts)
 
-<b> Optimizing Two-Phase Commit for Distributed Databases with a Shared Log </b> 
+<b> SLAP: Adapting Learned Cache Admission Policies to Dynamic Cache Capacities in Production Content-Delivery Networks</b> 
 <br> In Submission 
 
-<b> Learned, Segmented, Cache Admission Policies for Content-Delivery Networks</b> 
-<br> In Submission 
-
-<b> Scalable Approximate Graph Mining with Pattern Decomposition</b> 
+<b> Arya: Scalable Approximate Graph Mining with Decomposition-based Sampling</b> 
 <br> In Submission
+
+<b> Cornus: Atomic Commit for Cloud DBMS with Storage Disaggregation </b> 
+<br> Zhihan Guo, Xinyu Zeng, **Kan Wu**, Wuh-Chwen Hwang, Ziwei Ren, Xiangyao Yu, Mahesh Balakrishnan, Philip A. Bernstein 
+<br><b style="color:rgb(64, 115, 158)">VLDB'2023 (Under Revision)</b> <a href="https://arxiv.org/pdf/2102.10185.pdf">[*preprint*]</a> 
 
 <b> NyxCache: Flexible and Efficient Multi-tenant Persistent-Memory Caching  </b> 
 <br> **Kan Wu**, Kaiwei Tu, Yuvraj Patel, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau 
@@ -101,6 +102,7 @@ Teaching Assistant, Operating System(CS537), UW-Madison, Spring 2018
 Shadow PC, Eurosys 2022 <br>
 Reviewer, ACM Transactions on Storage (TOS) 2021 <br>
 Student Editorial Board, Journal of Systems Research 2021,2022 <br>
+Reviewer, Frontiers of Computer Science, 2022 <br>
 External Reviewer, NSDI 2020 <br>
 External Reviewer, FAST 2018, 2022 <br>
 

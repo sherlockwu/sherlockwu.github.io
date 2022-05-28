@@ -39,11 +39,12 @@ Operating Systems, Storage Systems, Cloud Computing and Databases.
 
 <b> Cornus: Atomic Commit for Cloud DBMS with Storage Disaggregation </b> 
 <br> Zhihan Guo, Xinyu Zeng, **Kan Wu**, Wuh-Chwen Hwang, Ziwei Ren, Xiangyao Yu, Mahesh Balakrishnan, Philip A. Bernstein 
-<br><b style="color:rgb(64, 115, 158)">VLDB'2023 (Under Revision)</b> <a href="https://arxiv.org/pdf/2102.10185.pdf">[*preprint*]</a> 
+<br><b style="color:rgb(64, 115, 158)">VLDB'2023 (Under Revision)</b>: 49th International Conference on Very Large Data Bases <a href="https://arxiv.org/pdf/2102.10185.pdf">[*preprint*]</a> 
 
 <b> NyxCache: Flexible and Efficient Multi-tenant Persistent-Memory Caching  </b> 
 <br> **Kan Wu**, Kaiwei Tu, Yuvraj Patel, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau 
-<br><b style="color:rgb(64, 115, 158)">FAST'2022</b>: 20th USENIX Conference on File and Storage Technologies <a href="https://www.usenix.org/system/files/fast22-wu.pdf">[*paper*]</a> <a href="https://www.usenix.org/system/files/fast22_slides_wu.pdf">[*slides*]</a> <a href="">[*code coming*]</a>
+<br><b style="color:rgb(64, 115, 158)">FAST'2022</b>: 20th USENIX Conference on File and Storage Technologies <a href="https://www.usenix.org/system/files/fast22-wu.pdf">[*paper*]</a> <a href="https://www.usenix.org/system/files/fast22_slides_wu.pdf">[*slides*]</a> <a href="https://www.usenix.org/conference/fast22/presentation/wu">[*video*]</a> <a href="">[*code coming*]</a>
+
 
 
 
@@ -102,15 +103,16 @@ Teaching Assistant, Operating System(CS537), UW-Madison, Spring 2018
 Shadow PC, Eurosys 2022 <br>
 Reviewer, ACM Transactions on Storage (TOS) 2021 <br>
 Student Editorial Board, Journal of Systems Research 2021,2022 <br>
-Reviewer, Frontiers of Computer Science, 2022 <br>
+Reviewer, Frontiers of Computer Science 2022 <br>
 External Reviewer, NSDI 2020 <br>
 External Reviewer, FAST 2018, 2022 <br>
 
 
 ## Invited / Conference Talks
+<br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google SRG 2022
 <br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google Madison 2022
 <br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ VMware Research 2022
-<br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ CMU, PDL 2022
+<br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ CMU PDL 2022
 <br>Multi-tenant Persistent Memory Caching @ FAST 2022
 <br>Caching for Modern Storage Hierarchies @ ChinaSys 2021 
 <br>Caching for Modern Storage Hierarchies @ Microsoft Gray System Lab 2021 

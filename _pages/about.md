@@ -28,13 +28,13 @@ Operating Systems, Storage Systems, Cloud Computing and Databases.
 
 
 ## Publications 
-<b> Alchemy: Field-granularity Caching for Persistent Memory OLTP Databases</b> 
+<b> Field-granularity Caching for Persistent Memory OLTP Databases</b> 
 <br> In Submission (Title Altered to Avoid Conflicts)
 
-<b> SLAP: Adapting Learned Cache Admission Policies to Dynamic Cache Capacities in Production Content-Delivery Networks</b> 
+<b> Adapting Learned Cache Admission Policies to Dynamic Cache Capacities in Production Content-Delivery Networks</b> 
 <br> In Submission 
 
-<b> Arya: Scalable Approximate Graph Mining with Decomposition-based Sampling</b> 
+<b> Scalable Approximate Graph Mining with Decomposition-based Sampling</b> 
 <br> In Submission
 
 <b> Cornus: Atomic Commit for Cloud DBMS with Storage Disaggregation </b> 
@@ -44,8 +44,6 @@ Operating Systems, Storage Systems, Cloud Computing and Databases.
 <b> NyxCache: Flexible and Efficient Multi-tenant Persistent-Memory Caching  </b> 
 <br> **Kan Wu**, Kaiwei Tu, Yuvraj Patel, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau 
 <br><b style="color:rgb(64, 115, 158)">FAST'2022</b>: 20th USENIX Conference on File and Storage Technologies <a href="https://www.usenix.org/system/files/fast22-wu.pdf">[*paper*]</a> <a href="https://www.usenix.org/system/files/fast22_slides_wu.pdf">[*slides*]</a> <a href="https://www.usenix.org/conference/fast22/presentation/wu">[*video*]</a> <a href="">[*code coming*]</a>
-
-
 
 
 <b> The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>

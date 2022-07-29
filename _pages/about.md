@@ -10,13 +10,12 @@ redirect_from:
 
 ## Biography
 
-I am a final-year Ph.D. candidate at Department of Computer Sciences, University of Wisconsin-Madison. My advisors are awesome [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
-I'm interested in memory/storage systems, databases, and cloud computing. 
+I am a Ph.D. student at Department of Computer Sciences, University of Wisconsin-Madison. I work with awesome [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
 I got my B.E. from University of Science and Technology of China (USTC, 2016). 
 
-In Fall 2022, I'm joining [Systems Research@Google](https://cloud.google.com/blog/topics/systems/google-creates-new-systems-research-group) (SRG). 
+I'm joining [Systems Research@Google](https://cloud.google.com/blog/topics/systems/google-creates-new-systems-research-group) (SRG), Fall 2022. 
 
-> <br><span style="color:rgb(64, 115, 158)">[07/28 2022]</span> RIP to Intel Optane Persistent Memory Products 
+<br><span style="color:rgb(64, 115, 158)">[07/28 2022]</span> RIP to Intel Optane Persistent Memory Products 
 
 <!---
 # Latest
@@ -27,22 +26,21 @@ style="color:rgb(64, 115, 158)"
 -->
 
 ## Research
-My PhD research focuses on emerging storage/memory techniques (e.g., new devices: Flash, PMEM; new architecture: storage hierarchy, disaggregated storage).
+I'm broadly interested in systems and cloud. Recently, I design systems for new storage **devices** (e.g., Flash, PMEM) and new storage **architecture** (e.g., tiering, disaggregated storage).
 
-Systems for New Storage Devices
-- Search Engine on Tiny Memory and Large Flash Systems [WiSER, FAST'20](https://www.usenix.org/conference/fast20/presentation/he)
-- Performance Isolation, Fairness, and Sharing on Persistent Memory [NyxCache, FAST'22](https://www.usenix.org/conference/fast22/presentation/wu)
-- Characterizing Ultra Low Latency SSDs [Optane-Unwritten Contract, HotStorage'19](https://www.usenix.org/sites/default/files/conference/protected-files/hotstorage19_slides-wu.pdf)
+### Systems for New Storage Devices
+- Search Engine on Tiny Memory and Large Flash Systems \[[WiSER, FAST'20](https://www.usenix.org/conference/fast20/presentation/he)\]
+- Performance Isolation, Fairness, and Sharing on Persistent Memory \[[NyxCache, FAST'22](https://www.usenix.org/conference/fast22/presentation/wu)\]
+- Characterizing Ultra Low Latency SSDs \[[Optane-UnwrittenContract, HotStorage'19](https://www.usenix.org/sites/default/files/conference/protected-files/hotstorage19_slides-wu.pdf)\]
 
-
-Systems for New Storage Architecture
+### Systems for New Storage Architecture
 - Non-hierarchical Caching for Modern Storage Hierarchies [Orthus, FAST'21](https://www.usenix.org/system/files/fast21-wu-kan.pdf)
 - Efficient Atomic Commit with Disaggregated Shared Log [Cornus, VLDB'23](href="https://arxiv.org/pdf/2102.10185.pdf)
 - Reducing Hotspot Contention with Early Lock Release [Bamboo, SIGMOD'21](https://scarletguo.github.io/files/rdm447-guoA.pdf)
 - Field-granularity Caching for OLTP Databases [Alchemy, InSub]()
 
 
-Data Analytics and Machine Learning for System
+### Data Analytics Systems and Machine Learning for System
 - Scalable Graph Mining with Approximate Pattern Decomposition [Arya, InSub]()
 - Learned Cache Admission Polcies for Dynamic-Sized Caches [SLAP, InSub]()
 

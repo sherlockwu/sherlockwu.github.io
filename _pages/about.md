@@ -15,7 +15,7 @@ I got my B.E. from University of Science and Technology of China (USTC, 2016).
 
 I will be joining [Systems Research@Google](https://cloud.google.com/blog/topics/systems/google-creates-new-systems-research-group) (SRG), Fall 2022. 
 
-<br><span style="color:rgb(64, 115, 158)">[07/28 2022]</span> RIP to Intel Optane Persistent Memory Products 
+<br><span style="color:rgb(64, 115, 158)">[07/28 2022]</span> RIP to Intel Optane Persistent Memory. Cool techniques don't always lead to good products.
 
 <!---
 # Latest

@@ -13,15 +13,10 @@ redirect_from:
 I am a final-year Ph.D. candidate at Department of Computer Sciences, University of Wisconsin-Madison. My advisors are awesome [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
 I'm interested in memory/storage systems, databases, and cloud computing. 
 I got my B.E. from University of Science and Technology of China (USTC, 2016). 
-<!---
-During my undergraduate, I worked with [Patrick P. C. Lee](http://www.cse.cuhk.edu.hk/~pclee/www/index.html), Chinese University of Hong Kong.
-
-Most recently, I research **evolving system stack for Persistent Memory**, with a special focus on caching, multi-tenancy, and distributed systems.
--->
 
 In Fall 2022, I'm joining [Systems Research@Google](https://cloud.google.com/blog/topics/systems/google-creates-new-systems-research-group) (SRG). 
 
-<br><span style="color:rgb(64, 115, 158)">[07/28 2022]</span> RIP to Intel Optane Persistent Memory Products 
+> <br><span style="color:rgb(64, 115, 158)">[07/28 2022]</span> RIP to Intel Optane Persistent Memory Products 
 
 <!---
 # Latest
@@ -32,15 +27,24 @@ style="color:rgb(64, 115, 158)"
 -->
 
 ## Research
-I'm broadly interested in systems. 
+My PhD research focuses on emerging storage/memory techniques (e.g., new devices: Flash, PMEM; new architecture: storage hierarchy, disaggregated storage).
 
-<b> Emerging Memory Techniques </b> 
+Systems for New Storage Devices
+- Search Engine on Tiny Memory and Large Flash Systems [WiSER, FAST'20](https://www.usenix.org/conference/fast20/presentation/he)
+- Performance Isolation, Fairness, and Sharing on Persistent Memory [NyxCache, FAST'22](https://www.usenix.org/conference/fast22/presentation/wu)
+- Characterizing Ultra Low Latency SSDs [Optane-Unwritten Contract, HotStorage'19](https://www.usenix.org/sites/default/files/conference/protected-files/hotstorage19_slides-wu.pdf)
 
 
-<b> Emerging Memory Architecture/Hierarchy </b> 
+Systems for New Storage Architecture
+- Non-hierarchical Caching for Modern Storage Hierarchies [Orthus, FAST'21](https://www.usenix.org/system/files/fast21-wu-kan.pdf)
+- Efficient Atomic Commit with Disaggregated Shared Log [Cornus, VLDB'23](href="https://arxiv.org/pdf/2102.10185.pdf)
+- Reducing Hotspot Contention with Early Lock Release [Bamboo, SIGMOD'21](https://scarletguo.github.io/files/rdm447-guoA.pdf)
+- Field-granularity Caching for OLTP Databases [Alchemy, InSub]()
 
-<b> Data Analytics, Machine learning for System </b>
 
+Data Analytics and Machine Learning for System
+- Scalable Graph Mining with Approximate Pattern Decomposition [Arya, InSub]()
+- Learned Cache Admission Polcies for Dynamic-Sized Caches [SLAP, InSub]()
 
 
 ## Publications 
@@ -61,11 +65,9 @@ I'm broadly interested in systems.
 <br> **Kan Wu**, Kaiwei Tu, Yuvraj Patel, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau 
 <br><b style="color:rgb(64, 115, 158)">FAST'2022</b>: 20th USENIX Conference on File and Storage Technologies <a href="https://www.usenix.org/system/files/fast22-wu.pdf">[*paper*]</a> <a href="https://www.usenix.org/system/files/fast22_slides_wu.pdf">[*slides*]</a> <a href="https://www.usenix.org/conference/fast22/presentation/wu">[*video*]</a> <a href="">[*code coming*]</a>
 
-
 <b> The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
 <br>**Kan Wu**, Zhihan Guo, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau 
-<br><b style="color:rgb(64, 115, 158)">FAST'2021</b>: 19th USENIX Conference on File and Storage Technologies <a href="https://www.usenix.org/system/files/fast21-wu-kan.pdf">[*paper*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-slides.pdf">[*slides*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-video.mp4">[*video*]</a> <a href="https://github.com/josehu07/open-cas-linux-mf
-">[*code*]</a>
+<br><b style="color:rgb(64, 115, 158)">FAST'2021</b>: 19th USENIX Conference on File and Storage Technologies <a href="https://www.usenix.org/system/files/fast21-wu-kan.pdf">[*paper*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-slides.pdf">[*slides*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-video.mp4">[*video*]</a> <a href="https://github.com/josehu07/open-cas-linux-mf">[*code*]</a>
 
 <b> Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</b> 
 <br> Zhihan Guo, **Kan Wu**, Cong Yan, Xiangyao Yu 
@@ -89,7 +91,6 @@ I'm broadly interested in systems.
 
 
 
-
 ## Experience
 
 <!--
@@ -107,12 +108,6 @@ I'm broadly interested in systems.
 <b>Research Assistant</b><br>Chinese University of Hong Kong<br>2016.01 - 2016.05
 
 
-
-
-## Teaching
-Teaching Assistant, Operating System(CS537), UW-Madison, Spring 2018
-
-
 ## Professional Services
 Shadow PC, Eurosys 2022 <br>
 Reviewer, ACM Transactions on Storage (TOS) 2021 <br>
@@ -120,6 +115,9 @@ Student Editorial Board, Journal of Systems Research 2021,2022 <br>
 Reviewer, Frontiers of Computer Science 2022 <br>
 External Reviewer, NSDI 2020 <br>
 External Reviewer, FAST 2018, 2022 <br>
+
+## Teaching
+Teaching Assistant, Operating System(CS537), UW-Madison, Spring 2018
 
 
 ## Invited / Conference Talks

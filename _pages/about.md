@@ -10,10 +10,18 @@ redirect_from:
 
 ## Biography
 
-I am a Ph.D. student at Department of Computer Sciences, University of Wisconsin-Madison. My advisors are great [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
-I'm interested in storage systems, databases, and cloud computing. Most recently, I research **evolving system stack for Persistent Memory**, with a special focus on caching, multi-tenancy, and distributed systems.
+I am a final-year Ph.D. candidate at Department of Computer Sciences, University of Wisconsin-Madison. My advisors are awesome [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
+I'm interested in memory/storage systems, databases, and cloud computing. 
+I got my B.E. from University of Science and Technology of China (USTC, 2016). 
+<!---
+During my undergraduate, I worked with [Patrick P. C. Lee](http://www.cse.cuhk.edu.hk/~pclee/www/index.html), Chinese University of Hong Kong.
 
-I got my B.E. from University of Science and Technology of China (USTC, 2016). During my undergraduate, I worked with [Patrick P. C. Lee](http://www.cse.cuhk.edu.hk/~pclee/www/index.html), Chinese University of Hong Kong.
+Most recently, I research **evolving system stack for Persistent Memory**, with a special focus on caching, multi-tenancy, and distributed systems.
+-->
+
+In Fall 2022, I'm joining [Systems Research@Google](https://cloud.google.com/blog/topics/systems/google-creates-new-systems-research-group) (SRG). 
+
+<br><span style="color:rgb(64, 115, 158)">[07/28 2022]</span> RIP to Intel Optane Persistent Memory Products 
 
 <!---
 # Latest
@@ -23,8 +31,16 @@ I got my B.E. from University of Science and Technology of China (USTC, 2016). D
 style="color:rgb(64, 115, 158)"
 -->
 
-## Research Interests
-Operating Systems, Storage Systems, Cloud Computing and Databases.
+## Research
+I'm broadly interested in systems. 
+
+<b> Emerging Memory Techniques </b> 
+
+
+<b> Emerging Memory Architecture/Hierarchy </b> 
+
+<b> Data Analytics, Machine learning for System </b>
+
 
 
 ## Publications 

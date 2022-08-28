@@ -10,7 +10,7 @@ redirect_from:
 
 ## Biography
 
-I am a researcher at [Systems Research@Google](https://cloud.google.com/blog/topics/systems/google-creates-new-systems-research-group) (SRG).
+I am a researcher at [SystemsResearch@Google](https://cloud.google.com/blog/topics/systems/google-creates-new-systems-research-group) (SRG).
 My research interests include operating systems, storage, and distributed systems.
 
 I received my Ph.D. from the University of Wisconsin-Madison (Computer Sciences, 2022), where I worked with awesome [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
@@ -58,8 +58,8 @@ I'm broadly interested in systems. Recently, I build systems for new storage **d
 <b> Scalable Approximate Graph Mining with Decomposition-based Sampling</b> 
 <br> In Submission
 
-
 <b> Evolving System Stack for Persistent Memory: Device Characterization, Caching, and Sharing Perspectives</b> 
+<br> Kan Wu
 <br><b style="color:rgb(64, 115, 158)">Ph.D. Thesis <a href="https://sherlockwu.github.io/files/kan_thesis_final_draft.pdf">[*pdf*]</a> 
 
 <b> Cornus: Atomic Commit for Cloud DBMS with Storage Disaggregation </b> 
@@ -98,10 +98,11 @@ I'm broadly interested in systems. Recently, I build systems for new storage **d
 
 ## Experience
 
-<!--
+<br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/google-logo.png" width="80px" >
+<b>System Research Engineer</b><br>SystemsResearch@Google<br>2022.09 - Now
+
 <img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/uwm-logo.png" width="80px" >
-<b>Research Assistant</b><br><a href="https://madsystems.cs.wisc.edu">UW-Madison Systems Group</a><br>2018 - Now
--->
+<b>Research Assistant</b><br><a href="https://madsystems.cs.wisc.edu">UW-Madison Systems Group</a><br>2016 - 2022
 
 <br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/ms-logo.png" width="80px" >
 <b>Research Assistant</b><br>Microsoft Gray System Lab<br>2018.09 - 2021.09

@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kan Wu"
   avatar           : "profile-2.png"
-  bio              : "Ph.D \n@ UW-Madison" #"Your biography for the left-hand sidebar"
-  location         : "CS7354 @ CS Department"
+  bio              : "System Researcher \n@ Google" #"Your biography for the left-hand sidebar"
+  location         : "MP3, Sunnyvale"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=p8gr3OEAAAAJ"
-  email            : "kanwu \"at\" cs.wisc.edu"
+  email            : "kanwu.wisc \"at\" gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://research.cs.wisc.edu/adsl/"
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sherlockwu"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :

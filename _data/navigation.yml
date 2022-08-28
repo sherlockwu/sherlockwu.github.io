@@ -5,7 +5,7 @@ main:
   #   url: /biography/
 
   - title: "Publications"
-    url: "https://sherlockwu.github.io#publications"
+    url: "publication"
 
   - title: "Experience"
     url: "https://sherlockwu.github.io#experience"   

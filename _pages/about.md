@@ -74,7 +74,8 @@ External Reviewer, NSDI 2020 <br>
 External Reviewer, FAST 2018, 2022 <br>
 
 ## Teaching
-Teaching Assistant, Operating System(CS537), UW-Madison, Spring 2018
+Teaching Assistant, Operating System(CS537), UW-Madison, 2018
+Teaching Assistant, Distributed System(CS739), UW-Madison, 2018
 
 ## Invited / Conference Talks
 <br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google SRG 2022

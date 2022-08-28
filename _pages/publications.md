@@ -16,10 +16,10 @@ author_profile: true
 {% endfor %} -->
 
 ## Publications 
-<b> Field-granularity Caching for Persistent Memory OLTP Databases</b> 
+<b> Field-granularity Caching for Persistent Memory Transactional Databases</b> 
 <br> In Submission (Title Altered to Avoid Conflicts)
 
-<b> Adapting Learned Cache Admission Policies to Dynamic Cache Capacities in Production Content-Delivery Networks</b> 
+<b> Learned Cache Admission for Dynamic Cache Capacities in Content-Delivery Networks</b> 
 <br> In Submission 
 
 <b> Scalable Approximate Graph Mining with Decomposition-based Sampling</b> 

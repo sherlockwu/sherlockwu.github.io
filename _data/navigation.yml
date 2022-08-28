@@ -3,9 +3,8 @@ main:
 
   # - title: "Biography"
   #   url: /biography/
-
   - title: "Publications"
-    url: "/publication/"
+    url: "/publications/"
 
   - title: "Experience"
     url: "https://sherlockwu.github.io#experience"   

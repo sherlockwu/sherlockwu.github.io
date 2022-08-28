@@ -15,7 +15,7 @@ My research interests include operating systems, storage, and distributed system
 
 I received my Ph.D. from the University of Wisconsin-Madison (Computer Sciences, 2022), where I worked with awesome [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
 I also received my master's degree from UW-Madison (2020).
-I got my B.E. from University of Science and Technology of China (USTC, 2016). 
+I got my B.E. from University of Science and Technology of China (1211, 2016). 
 
 
 <br><span style="color:rgb(64, 115, 158)">[07/28 2022]</span> RIP to Intel Optane Persistent Memory. (A lesson: cool techniques don't always lead to good products.)
@@ -75,7 +75,6 @@ External Reviewer, FAST 2018, 2022 <br>
 
 ## Teaching
 Teaching Assistant, Operating System(CS537), UW-Madison, Spring 2018
-
 
 ## Invited / Conference Talks
 <br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google SRG 2022

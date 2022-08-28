@@ -10,10 +10,13 @@ redirect_from:
 
 ## Biography
 
-I am a Ph.D. student at Department of Computer Sciences, University of Wisconsin-Madison. I work with awesome [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
+I am a researcher at [Systems Research@Google](https://cloud.google.com/blog/topics/systems/google-creates-new-systems-research-group) (SRG).
+My research interests include operating systems, storage, and distributed systems.
+
+I received my Ph.D. from the University of Wisconsin-Madison (Computer Sciences, 2022), where I worked with awesome [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
+I also received my master's degree from UW-Madison (2020).
 I got my B.E. from University of Science and Technology of China (USTC, 2016). 
 
-I will be joining [Systems Research@Google](https://cloud.google.com/blog/topics/systems/google-creates-new-systems-research-group) (SRG), Fall 2022. 
 
 <br><span style="color:rgb(64, 115, 158)">[07/28 2022]</span> RIP to Intel Optane Persistent Memory. (A lesson: cool techniques don't always lead to good products.)
 
@@ -54,6 +57,10 @@ I'm broadly interested in systems. Recently, I build systems for new storage **d
 
 <b> Scalable Approximate Graph Mining with Decomposition-based Sampling</b> 
 <br> In Submission
+
+
+<b> Evolving System Stack for Persistent Memory: Device Characterization, Caching, and Sharing Perspectives</b> 
+<br><b style="color:rgb(64, 115, 158)">Ph.D. Thesis <a href="https://sherlockwu.github.io/files/kan_thesis_final_draft.pdf">[*pdf*]</a> 
 
 <b> Cornus: Atomic Commit for Cloud DBMS with Storage Disaggregation </b> 
 <br> Zhihan Guo, Xinyu Zeng, **Kan Wu**, Wuh-Chwen Hwang, Ziwei Ren, Xiangyao Yu, Mahesh Balakrishnan, Philip A. Bernstein 

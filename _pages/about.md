@@ -10,12 +10,12 @@ redirect_from:
 
 ## Biography
 
-I am a researcher at [SystemsResearch@Google](https://cloud.google.com/blog/topics/systems/google-creates-new-systems-research-group) (SRG).
+I am a system research engineer at [SystemsResearch@Google](https://cloud.google.com/blog/topics/systems/google-creates-new-systems-research-group) (SRG).
 My research interests include operating systems, storage, and distributed systems.
 
-I received my Ph.D. from the University of Wisconsin-Madison (Computer Sciences, 2022), where I worked with awesome [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
+I received my Ph.D. from the University of Wisconsin-Madison (2022), where I worked with awesome [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
 I also received my master's degree from UW-Madison (2020).
-I got my B.E. from University of Science and Technology of China (1211, 2016). 
+I received my B.E. from University of Science and Technology of China (USTC, 2016). 
 
 
 <br><span style="color:rgb(64, 115, 158)">[07/28 2022]</span> RIP to Intel Optane Persistent Memory. (A lesson: cool techniques don't always lead to good products.)
@@ -29,7 +29,7 @@ style="color:rgb(64, 115, 158)"
 -->
 
 ## Research
-I'm broadly interested in systems. Recently, I build systems for new storage **devices** (e.g., Flash, PMEM) and new storage **architecture** (e.g., tiering, disaggregated storage).
+I'm broadly interested in systems. Recently, I built systems for new storage **devices** (such as Flash and PMEM) and new storage **architecture** (such as tiering and disaggregated storage/memory). I worked on topics such as caching, multi-tenancy, databases.
 
 ### Systems for New Storage Devices
 - Search Engine on Tiny Memory and Large Flash Systems \[[WiSER, FAST'20](https://www.usenix.org/conference/fast20/presentation/he)\]
@@ -40,6 +40,7 @@ I'm broadly interested in systems. Recently, I build systems for new storage **d
 - Non-hierarchical Caching for Modern Storage Hierarchies \[[Orthus, FAST'21](https://www.usenix.org/conference/fast21/presentation/wu-kan)\]
 - Efficient Atomic Commit with Disaggregated Shared Log \[[Cornus, VLDB'23](https://arxiv.org/pdf/2102.10185.pdf)\]
 - Reducing Hotspot Contention with Early Lock Release \[[Bamboo, SIGMOD'21](https://scarletguo.github.io/files/rdm447-guoA.pdf)\]
+- Semantically-smart Disaggregate Memory \[[IMP, InSub]()\]
 - Field-granularity Caching for OLTP Databases \[[Alchemy, InSub]()\]
 
 

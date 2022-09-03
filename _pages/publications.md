@@ -16,14 +16,18 @@ author_profile: true
 {% endfor %} -->
 
 ## Publications 
+
+<b> IMP: Disaggregated Memory Compute Offloading with Informed Memory Pool and Selective Execution</b> 
+<br> In Submission
+
 <b> Field-granularity Caching for Persistent Memory Transactional Databases</b> 
 <br> In Submission (Title Altered to Avoid Conflicts)
 
 <b> Learned Cache Admission for Dynamic Cache Capacities in Content-Delivery Networks</b> 
-<br> In Submission 
+<br> In Submission (Title Altered to Avoid Conflicts)
 
 <b> Scalable Approximate Graph Mining with Decomposition-based Sampling</b> 
-<br> In Submission
+<br> In Submission (Title Altered to Avoid Conflicts)
 
 <b> Evolving System Stack for Persistent Memory: Device Characterization, Caching, and Sharing Perspectives</b> 
 <br> Kan Wu

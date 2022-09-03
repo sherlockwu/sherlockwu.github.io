@@ -40,7 +40,7 @@ I'm broadly interested in systems. Recently, I built systems for new storage **d
 - Non-hierarchical Caching for Modern Storage Hierarchies \[[Orthus, FAST'21](https://www.usenix.org/conference/fast21/presentation/wu-kan)\]
 - Efficient Atomic Commit with Disaggregated Shared Log \[[Cornus, VLDB'23](https://arxiv.org/pdf/2102.10185.pdf)\]
 - Reducing Hotspot Contention with Early Lock Release \[[Bamboo, SIGMOD'21](https://scarletguo.github.io/files/rdm447-guoA.pdf)\]
-- Semantically-smart Disaggregate Memory \[[IMP, InSub]()\]
+- Semantically-smart Disaggregated Memory \[[IMP, InSub]()\]
 - Field-granularity Caching for OLTP Databases \[[Alchemy, InSub]()\]
 
 

@@ -35,7 +35,7 @@ author_profile: true
 
 <b> Cornus: Atomic Commit for Cloud DBMS with Storage Disaggregation </b> 
 <br> Zhihan Guo, Xinyu Zeng, **Kan Wu**, Wuh-Chwen Hwang, Ziwei Ren, Xiangyao Yu, Mahesh Balakrishnan, Philip A. Bernstein 
-<br><b style="color:rgb(64, 115, 158)">VLDB'2023 (Under Revision)</b>: 49th International Conference on Very Large Data Bases <a href="https://arxiv.org/pdf/2102.10185.pdf">[*preprint*]</a> 
+<br><b style="color:rgb(64, 115, 158)">VLDB'2023</b>: 49th International Conference on Very Large Data Bases <a href="https://arxiv.org/pdf/2102.10185.pdf">[*preprint*]</a> 
 
 <b> NyxCache: Flexible and Efficient Multi-tenant Persistent-Memory Caching  </b> 
 <br> **Kan Wu**, Kaiwei Tu, Yuvraj Patel, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau 

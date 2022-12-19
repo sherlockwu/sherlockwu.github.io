@@ -43,7 +43,7 @@ I'm broadly interested in systems. Recently, I built systems for new storage **d
 
 
 ### Data Analytics Systems and Machine Learning for System
-- Scalable Graph Mining with Approximate Pattern Decomposition \[[Arya, NSID'23]()\]
+- Scalable Graph Mining with Approximate Pattern Decomposition \[[Arya, NSDI'23]()\]
 - Learned Cache Admission Polcies for Dynamic-Sized Caches \[[SLAP, InSub]()\]
 
 ## Experience

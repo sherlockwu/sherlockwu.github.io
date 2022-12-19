@@ -32,7 +32,7 @@ author_profile: true
 
 <b> Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling </b> 
 <br> Zeying Zhu\*, **Kan Wu\*(co-first author)**, Zaoxing Liu 
-<br><b style="color:rgb(64, 115, 158)">NSDI'2023</b>: 20th USENIX Symposium on Networked Systems Design and Implementation (to appear)
+<br><b style="color:rgb(64, 115, 158)">NSDI'2023</b>: 20th USENIX Symposium on Networked Systems Design and Implementation
 
 <b> Evolving System Stack for Persistent Memory: Device Characterization, Caching, and Sharing Perspectives</b> 
 <br> Kan Wu

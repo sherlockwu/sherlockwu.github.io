@@ -32,20 +32,21 @@ style="color:rgb(64, 115, 158)"
 I'm broadly interested in systems. Recently, I built systems for new storage **devices** (such as Flash and PMEM) and new storage **architecture** (such as tiering and disaggregated storage/memory). I worked on topics such as caching, multi-tenancy, databases.
 
 ### Systems for New Storage Devices
-- Search Engine on Tiny Memory and Large Flash Systems \[[WiSER, FAST'20](https://www.usenix.org/conference/fast20/presentation/he)\]
-- Performance Isolation, Fairness, and Sharing on Persistent Memory \[[NyxCache, FAST'22](https://www.usenix.org/conference/fast22/presentation/wu)\]
 - Characterizing Ultra Low Latency SSDs \[[Optane-UnwrittenContract, HotStorage'19](https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf)\]
+- Full-text Search Engine on Tiny Memory and Large Flash Systems \[[WiSER, FAST'20](https://www.usenix.org/conference/fast20/presentation/he)\]
+- Performance Isolation, Fairness, and Sharing on Persistent Memory \[[NyxCache, FAST'22](https://www.usenix.org/conference/fast22/presentation/wu)\]
+- External Sorting on Byte-addressable Storage \[[WiscSort, VLDB'23]()\]
 
 ### Systems for New Storage Architecture
 - Non-hierarchical Caching for Modern Storage Hierarchies \[[Orthus, FAST'21](https://www.usenix.org/conference/fast21/presentation/wu-kan)\]
-- Efficient Atomic Commit with Disaggregated Shared Log \[[Cornus, VLDB'23](https://arxiv.org/pdf/2102.10185.pdf)\]
 - Reducing Hotspot Contention with Early Lock Release \[[Bamboo, SIGMOD'21](https://scarletguo.github.io/files/rdm447-guoA.pdf)\]
+- Efficient Atomic Commit with Disaggregated Shared Log \[[Cornus, VLDB'23](https://arxiv.org/pdf/2102.10185.pdf)\]
 - Semantically-smart Disaggregated Memory \[[IMP, InSub]()\]
 - Field-granularity Caching for OLTP Databases \[[Alchemy, InSub]()\]
 
 
 ### Data Analytics Systems and Machine Learning for System
-- Scalable Graph Mining with Approximate Pattern Decomposition \[[Arya, InSub]()\]
+- Scalable Graph Mining with Approximate Pattern Decomposition \[[Arya, NSID'23]()\]
 - Learned Cache Admission Polcies for Dynamic-Sized Caches \[[SLAP, InSub]()\]
 
 ## Experience
@@ -79,6 +80,8 @@ Teaching Assistant, Operating System(CS537), UW-Madison, 2018 <br>
 Teaching Assistant, Distributed System(CS739), UW-Madison, 2018
 
 ## Invited / Conference Talks
+<br>Towards Auto Cache Tuning For HTAP Systems @ HTAP Summit 2022
+<br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google SRG 2022
 <br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google SRG 2022
 <br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google Madison 2022
 <br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ VMware Research 2022

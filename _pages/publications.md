@@ -36,7 +36,7 @@ author_profile: true
 
 <b> Evolving System Stack for Persistent Memory: Device Characterization, Caching, and Sharing Perspectives</b> 
 <br> Kan Wu
-<br><b style="color:rgb(64, 115, 158)">Ph.D. Thesis </b> <a href="https://sherlockwu.github.io/files/kan_thesis_final_draft.pdf">[*pdf*]</a> 
+<br><b style="color:rgb(64, 115, 158)">Ph.D. Thesis </b>: University of Wisconsin-Madison <a href="https://sherlockwu.github.io/files/kan_thesis_final_draft.pdf">[*pdf*]</a> 
 
 <b> Cornus: Atomic Commit for Cloud DBMS with Storage Disaggregation </b> 
 <br> Zhihan Guo, Xinyu Zeng, **Kan Wu**, Wuh-Chwen Hwang, Ziwei Ren, Xiangyao Yu, Mahesh Balakrishnan, Philip A. Bernstein 

@@ -20,7 +20,7 @@ author_profile: true
 <b> IMP: Disaggregated Memory Compute Offloading with Informed Memory Pool</b> 
 <br> In Submission
 
-<b> Field-granularity Caching for Persistent Memory Transactional Databases</b> 
+<b> Field-granularity Caching for Tiered Memory Transactional Databases</b> 
 <br> In Submission (Title Altered to Avoid Conflicts)
 
 <b> Learned Cache Admission for Dynamic Cache Capacities in Content-Delivery Networks</b> 
@@ -28,11 +28,11 @@ author_profile: true
 
 <b> WiscSort: External Sorting for Byte Addressable Storage </b> 
 <br> Vinay Banakar, **Kan Wu**, Yuvraj Patel, Kimberly Keeton, Andrea Arpaci-Dusseau, and Remzi Arpaci-Dusseau
-<br><b style="color:rgb(64, 115, 158)">VLDB'2023</b>: 20th USENIX Symposium on Networked Systems Design and Implementation (under revision)
+<br><b style="color:rgb(64, 115, 158)">VLDB'2023</b>: 49th International Conference on Very Large Data Bases (under revision)
 
 <b> Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling </b> 
 <br> Zeying Zhu\*, **Kan Wu\*(co-first author)**, Zaoxing Liu 
-<br><b style="color:rgb(64, 115, 158)">NSDI'2023</b>: 49th International Conference on Very Large Data Bases (to appear)
+<br><b style="color:rgb(64, 115, 158)">NSDI'2023</b>: 20th USENIX Symposium on Networked Systems Design and Implementation (to appear)
 
 <b> Evolving System Stack for Persistent Memory: Device Characterization, Caching, and Sharing Perspectives</b> 
 <br> Kan Wu

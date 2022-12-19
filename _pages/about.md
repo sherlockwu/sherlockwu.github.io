@@ -17,9 +17,6 @@ I received my Ph.D. from the University of Wisconsin-Madison (2022), where I wor
 I also received my master's degree from UW-Madison (2020).
 I received my B.E. from University of Science and Technology of China (USTC, 2016). 
 
-
-<br><span style="color:rgb(64, 115, 158)">[07/28 2022]</span> RIP to Intel Optane Persistent Memory. (A lesson: cool techniques don't always lead to good products.)
-
 <!---
 # Latest
 <span style="color:rgb(64, 115, 158)">[Dec. 2021]&#128293;</span> NyxCache, a multi-tenant KV-cache framework on persistent memory, will appear at FAST 2022!
@@ -29,10 +26,10 @@ style="color:rgb(64, 115, 158)"
 -->
 
 ## Research
-I'm broadly interested in systems. Recently, I built systems for new storage **devices** (such as Flash and PMEM) and new storage **architecture** (such as tiering and disaggregated storage/memory). I worked on topics such as caching, multi-tenancy, databases.
+I'm broadly interested in systems. Recently, I built systems for new storage **devices** (such as Flash and PMEM) and new storage **architecture** (such as tiering and disaggregated storage/memory). I work on topics such as caching, multi-tenancy, and data intensive applications.
 
 ### Systems for New Storage Devices
-- Characterizing Ultra Low Latency SSDs \[[Optane-UnwrittenContract, HotStorage'19](https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf)\]
+- Characterizing Ultra Low Latency SSDs \[[UnwrittenContract, HotStorage'19](https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf)\]
 - Full-text Search Engine on Tiny Memory and Large Flash Systems \[[WiSER, FAST'20](https://www.usenix.org/conference/fast20/presentation/he)\]
 - Performance Isolation, Fairness, and Sharing on Persistent Memory \[[NyxCache, FAST'22](https://www.usenix.org/conference/fast22/presentation/wu)\]
 - External Sorting on Byte-addressable Storage \[[WiscSort, VLDB'23]()\]

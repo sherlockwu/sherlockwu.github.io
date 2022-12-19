@@ -27,12 +27,12 @@ author_profile: true
 <br> In Submission (Title Altered to Avoid Conflicts)
 
 <b> WiscSort: External Sorting for Byte Addressable Storage </b> 
-<br> Vinay Banakar, Kan Wu, Yuvraj Patel, Kimberly Keeton, Andrea Arpaci-Dusseau, and Remzi Arpaci-Dusseau
-<br><b style="color:rgb(64, 115, 158)">VLDB'2023</b>: 20th USENIX Symposium on Networked Systems Design and Implementation (to appear)
+<br> Vinay Banakar, **Kan Wu**, Yuvraj Patel, Kimberly Keeton, Andrea Arpaci-Dusseau, and Remzi Arpaci-Dusseau
+<br><b style="color:rgb(64, 115, 158)">VLDB'2023</b>: 20th USENIX Symposium on Networked Systems Design and Implementation (under revision)
 
 <b> Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling </b> 
 <br> Zeying Zhu\*, **Kan Wu\*(co-first author)**, Zaoxing Liu 
-<br><b style="color:rgb(64, 115, 158)">NSDI'2023</b>: 49th International Conference on Very Large Data Bases (under revision)
+<br><b style="color:rgb(64, 115, 158)">NSDI'2023</b>: 49th International Conference on Very Large Data Bases (to appear)
 
 <b> Evolving System Stack for Persistent Memory: Device Characterization, Caching, and Sharing Perspectives</b> 
 <br> Kan Wu

@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Kan Wu"
-  avatar           : "profile-2.png"
+  avatar           : "profile-3.png"
   bio              : "System Researcher \n@ Google" #"Your biography for the left-hand sidebar"
-  location         : "MP3, Sunnyvale"
+  location         : "Google, Sunnyvale"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=p8gr3OEAAAAJ"

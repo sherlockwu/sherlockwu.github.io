@@ -10,7 +10,7 @@ redirect_from:
 
 ## Biography
 
-I am a system research engineer at [SystemsResearch@Google](https://cloud.google.com/blog/topics/systems/google-creates-new-systems-research-group) (SRG).
+I am a systems research engineer at [SystemsResearch@Google](https://cloud.google.com/blog/topics/systems/google-creates-new-systems-research-group) (SRG).
 My research interests include operating systems, storage, and distributed systems.
 
 I received my Ph.D. from the University of Wisconsin-Madison (2022), where I worked with awesome [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
@@ -26,7 +26,7 @@ style="color:rgb(64, 115, 158)"
 -->
 
 ## Research
-I'm broadly interested in systems. Recently, I built systems for new storage **devices** (such as Flash and PMEM) and new storage **architecture** (such as tiering and disaggregated storage/memory). I work on topics such as caching, multi-tenancy, and data intensive applications.
+I'm broadly interested in systems. I built systems for new storage **devices** (such as Flash and PMEM) and new storage **architecture** (such as tiering and disaggregated storage/memory). I work on topics such as caching, multi-tenancy, and data intensive applications.
 
 ### Systems for New Storage Devices
 - Characterizing Ultra Low Latency SSDs \[[UnwrittenContract, HotStorage'19](https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf)\]
@@ -78,7 +78,6 @@ Teaching Assistant, Distributed System(CS739), UW-Madison, 2018
 
 ## Invited / Conference Talks
 <br>Towards Auto Cache Tuning For HTAP Systems @ HTAP Summit 2022
-<br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google SRG 2022
 <br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google SRG 2022
 <br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google Madison 2022
 <br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ VMware Research 2022

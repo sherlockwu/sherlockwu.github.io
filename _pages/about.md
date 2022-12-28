@@ -49,7 +49,7 @@ I'm broadly interested in systems. I built systems for new storage **devices** (
 ## Experience
 
 <br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/google-logo.png" width="80px" >
-<b>System Research Engineer</b><br>SystemsResearch@Google<br>2022.09 - Now
+<b>Systems Research Engineer</b><br>SystemsResearch@Google<br>2022.09 - Now
 
 <img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/uwm-logo.png" width="80px" >
 <b>Research Assistant</b><br><a href="https://madsystems.cs.wisc.edu">UW-Madison Systems Group</a><br>2016 - 2022

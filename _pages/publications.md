@@ -27,7 +27,7 @@ author_profile: true
 <br> In Submission (Title Altered to Avoid Conflicts)
 
 <b> WiscSort: External Sorting for Byte Addressable Storage </b> 
-<br> Vinay Banakar, **Kan Wu**, Yuvraj Patel, Kimberly Keeton, Andrea Arpaci-Dusseau, and Remzi Arpaci-Dusseau
+<br> Vinay Banakar, **Kan Wu**, Yuvraj Patel, Kimberly Keeton, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
 <br><b style="color:rgb(64, 115, 158)">VLDB'2023</b>: 49th International Conference on Very Large Data Bases (under revision)
 
 <b> Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling </b> 
@@ -47,7 +47,7 @@ author_profile: true
 <br><b style="color:rgb(64, 115, 158)">FAST'2022</b>: 20th USENIX Conference on File and Storage Technologies <a href="https://www.usenix.org/system/files/fast22-wu.pdf">[*paper*]</a> <a href="https://www.usenix.org/system/files/fast22_slides_wu.pdf">[*slides*]</a> <a href="https://www.usenix.org/conference/fast22/presentation/wu">[*video*]</a> <a href="">[*code coming*]</a>
 
 <b> The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</b>
-<br>**Kan Wu**, Zhihan Guo, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau 
+<br>**Kan Wu**, Zhihan Guo, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau 
 <br><b style="color:rgb(64, 115, 158)">FAST'2021</b>: 19th USENIX Conference on File and Storage Technologies <a href="https://www.usenix.org/system/files/fast21-wu-kan.pdf">[*paper*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-slides.pdf">[*slides*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-video.mp4">[*video*]</a> <a href="https://github.com/josehu07/open-cas-linux-mf">[*code*]</a>
 
 <b> Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</b> 

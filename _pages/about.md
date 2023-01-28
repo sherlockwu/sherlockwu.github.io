@@ -10,7 +10,7 @@ redirect_from:
 
 ## Biography
 
-I am a systems research engineer at [SystemsResearch@Google](https://cloud.google.com/blog/topics/systems/google-creates-new-systems-research-group) (SRG).
+I work at [SystemsResearch@Google](https://cloud.google.com/blog/topics/systems/google-creates-new-systems-research-group) (SRG).
 My research interests include operating systems, storage, and distributed systems.
 
 I received my Ph.D. from the University of Wisconsin-Madison (2022), where I worked with awesome [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
@@ -28,23 +28,23 @@ style="color:rgb(64, 115, 158)"
 ## Research
 I'm broadly interested in systems. I built systems for new storage **devices** (such as Flash and PMEM) and new storage **architecture** (such as tiering and disaggregated storage/memory). I work on topics such as caching, multi-tenancy, and data intensive applications.
 
-### Systems for New Storage Devices
+### Systems for New Storage/Memory Devices
 - Characterizing Ultra Low Latency SSDs \[[UnwrittenContract, HotStorage'19](https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf)\]
-- Full-text Search Engine on Tiny Memory and Large Flash Systems \[[WiSER, FAST'20](https://www.usenix.org/conference/fast20/presentation/he)\]
 - Performance Isolation, Fairness, and Sharing on Persistent Memory \[[NyxCache, FAST'22](https://www.usenix.org/conference/fast22/presentation/wu)\]
 - External Sorting on Byte-addressable Storage \[[WiscSort, VLDB'23]()\]
 
-### Systems for New Storage Architecture
+### Systems for New Storage/Memory Architecture
+- Search Engine on Tiny Memory and Large Flash Systems \[[WiSER, FAST'20](https://www.usenix.org/conference/fast20/presentation/he)\]
 - Non-hierarchical Caching for Modern Storage Hierarchies \[[Orthus, FAST'21](https://www.usenix.org/conference/fast21/presentation/wu-kan)\]
-- Reducing Hotspot Contention with Early Lock Release \[[Bamboo, SIGMOD'21](https://scarletguo.github.io/files/rdm447-guoA.pdf)\]
-- Efficient Atomic Commit with Disaggregated Shared Log \[[Cornus, VLDB'23](https://arxiv.org/pdf/2102.10185.pdf)\]
+- Efficient Atomic Commit with Disaggregated Shared Log \[[Cornus, VLDB'22](https://arxiv.org/pdf/2102.10185.pdf)\]
 - Semantically-smart Disaggregated Memory \[[IMP, InSub]()\]
 - Field-granularity Caching for OLTP Databases \[[Alchemy, InSub]()\]
 
 
-### Data Analytics Systems and Machine Learning for System
+### Data-intensive Applications and Machine Learning for System
+- Reducing Hotspot Contention with Early Lock Release \[[Bamboo, SIGMOD'21](https://scarletguo.github.io/files/rdm447-guoA.pdf)\]
 - Scalable Graph Mining with Approximate Pattern Decomposition \[[Arya, NSDI'23]()\]
-- Learned Cache Admission Polcies for Dynamic-Sized Caches \[[SLAP, InSub]()\]
+- Learned Cache Admission Polcies for Dynamic-Sized Caches \[[SLAP, IPDPS'23]()\]
 
 ## Experience
 
@@ -65,6 +65,7 @@ I'm broadly interested in systems. I built systems for new storage **devices** (
 
 
 ## Professional Services
+Reviewer, VLDBJ 2023 <br>
 Shadow PC, Eurosys 2022 <br>
 Reviewer, ACM Transactions on Storage (TOS) 2021 <br>
 Student Editorial Board, Journal of Systems Research 2021,2022 <br>

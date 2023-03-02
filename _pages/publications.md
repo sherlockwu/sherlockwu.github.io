@@ -17,7 +17,7 @@ author_profile: true
 
 ## Publications 
 
-<b> IMP: Disaggregated Memory Compute Offloading with Informed Memory Pool</b> 
+<span style="color:blue"> IMP: Disaggregated Memory Compute Offloading with Informed Memory Pool </span>
 <br> In Submission
 
 <b> Field-granularity Caching for Tiered Memory Transactional Databases</b> 

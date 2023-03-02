@@ -32,21 +32,21 @@ I have a broad interest in systems. My recent research aims to improve memory ef
 
 
 ### Emerging Storage/Memory Devices
-- \[[HotStorage'19, UnwrittenContract](https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf)\] Characterizing Ultra Low Latency SSDs 
-- \[[FAST'22, NyxCache](https://www.usenix.org/conference/fast22/presentation/wu)\] Performance Isolation, Fairness, and Sharing on Persistent Memory 
-- \[[VLDB'23, WiscSort]()\] External Sorting on Byte-addressable Storage 
+- Characterizing Ultra Low Latency SSDs \[[UnwrittenContract, HotStorage'19](https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf)\]
+- Performance Isolation, Fairness, and Sharing on Persistent Memory \[[NyxCache, FAST'22](https://www.usenix.org/conference/fast22/presentation/wu)\]
+- External Sorting on Byte-addressable Storage \[[WiscSort, VLDB'23]()\] 
 
 ### Tiering/Disaggregation
-- \[[FAST'20, WiSER](https://www.usenix.org/conference/fast20/presentation/he)\] Search Engine on Tiny Memory and Large Flash Systems 
-- \[[FAST'21, Orthus](https://www.usenix.org/conference/fast21/presentation/wu-kan)\] Non-hierarchical Caching for Modern Storage Hierarchies 
-- \[[VLDB'22, Cornus](https://arxiv.org/pdf/2102.10185.pdf)\] Efficient Atomic Commit with Disaggregated Shared Log 
-- \[[IPDPS'23, SLAP]()\] Learned Cache Admission Polcies for Dynamic-Sized CDN Caches 
-- \[[InSub, IMP]()\] Semantically-smart Disaggregated Memory 
-- \[[InSub, Alchemy]()\] Field-granularity Caching for OLTP Databases
+- Search Engine on Tiny Memory and Large Flash Systems \[[WiSER, FAST'20](https://www.usenix.org/conference/fast20/presentation/he)\]
+- Non-hierarchical Caching for Modern Storage Hierarchies \[[Orthus, FAST'21](https://www.usenix.org/conference/fast21/presentation/wu-kan)\] 
+- Efficient Atomic Commit with Disaggregated Shared Log \[[Cornus, VLDB'22](https://arxiv.org/pdf/2102.10185.pdf)\]
+- Learned Cache Admission Polcies for Dynamic-Sized CDN Caches \[[SLAP, IPDPS'23]()\]
+- Semantically-smart Disaggregated Memory \[[IMP, InSub]()\]
+- Field-granularity Caching for OLTP Databases \[[Alchemy, InSub]()\]
 
 ### Data-intensive Applications
-- \[[SIGMOD'21, Bamboo](https://scarletguo.github.io/files/rdm447-guoA.pdf)\] Reducing Hotspot Contention with Early Lock Release 
-- \[[NSDI'23, Arya]()\] Scalable Graph Mining with Approximate Pattern Decomposition 
+- Reducing Hotspot Contention with Early Lock Release \[[Bamboo, SIGMOD'21](https://scarletguo.github.io/files/rdm447-guoA.pdf)\]
+- Scalable Graph Mining with Approximate Pattern Decomposition \[[Arya, NSDI'23]()\]
 
 ## Experience
 

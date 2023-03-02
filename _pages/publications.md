@@ -17,14 +17,14 @@ author_profile: true
 
 ## Publications 
 
-<span style="color:blue"> IMP: Disaggregated Memory Compute Offloading with Informed Memory Pool </span>
-<br> In Submission
+<span style="color:rgb(64, 115, 158)"> IMP: Disaggregated Memory Compute Offloading with Informed Memory Pool </span>
+<br> In Submission (Title Altered to Avoid Conflicts)
 
 <b> Field-granularity Caching for Tiered Memory Transactional Databases</b> 
 <br> In Submission (Title Altered to Avoid Conflicts)
 
 <b> Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling </b> 
-<br> Zeying Zhu\*, **Kan Wu\*(co-first author)**, Zaoxing Liu 
+<br> **Kan Wu\*(co-first author)**, Zeying Zhu\*, Zaoxing Liu 
 <br><b style="color:rgb(64, 115, 158)">NSDI'2023</b>: 20th USENIX Symposium on Networked Systems Design and Implementation
 
 <b> SLAP: An Adaptive, Learned Admission Policy for Content Delivery Network Caching</b> 

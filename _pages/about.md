@@ -26,35 +26,37 @@ style="color:rgb(64, 115, 158)"
 -->
 
 ## Research
-I have a broad interest in systems. My recent research aims to improve memory efficiency of hyperscalers and flatten their memory costs. It extends my PhD work on building systems for emerging storage architecture (including tiering and disaggregation) and devices (such as Flash and Optane).
+I have a broad interest in systems. My recent research aims to improve memory efficiency of hyperscalers and flatten their memory costs. It extends my PhD work on building systems for emerging storage architecture (tiering and disaggregation) and devices (Flash and Optane).
 
 **Key Words:** Memory Management, Caching/Tiering, Multi-tenancy, Data-intensive Applications.
 
 
 ### Emerging Storage/Memory Devices
-- \[[UnwrittenContract, HotStorage'19](https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf)\] Characterizing Ultra Low Latency SSDs 
-- \[[NyxCache, FAST'22](https://www.usenix.org/conference/fast22/presentation/wu)\] Performance Isolation, Fairness, and Sharing on Persistent Memory 
-- \[[WiscSort, VLDB'23]()\] External Sorting on Byte-addressable Storage 
+- \[[HotStorage'19, UnwrittenContract](https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf)\] Characterizing Ultra Low Latency SSDs 
+- \[[FAST'22, NyxCache](https://www.usenix.org/conference/fast22/presentation/wu)\] Performance Isolation, Fairness, and Sharing on Persistent Memory 
+- \[[VLDB'23, WiscSort]()\] External Sorting on Byte-addressable Storage 
 
 ### Tiering/Disaggregation
-- \[[WiSER, FAST'20](https://www.usenix.org/conference/fast20/presentation/he)\] Search Engine on Tiny Memory and Large Flash Systems 
-- Non-hierarchical Caching for Modern Storage Hierarchies \[[Orthus, FAST'21](https://www.usenix.org/conference/fast21/presentation/wu-kan)\]
-- Efficient Atomic Commit with Disaggregated Shared Log \[[Cornus, VLDB'22](https://arxiv.org/pdf/2102.10185.pdf)\]
-- Learned Cache Admission Polcies for Dynamic-Sized CDN Caches \[[SLAP, IPDPS'23]()\]
-- Semantically-smart Disaggregated Memory \[[IMP, InSub]()\]
-- Field-granularity Caching for OLTP Databases \[[Alchemy, InSub]()\]
+- \[[FAST'20, WiSER](https://www.usenix.org/conference/fast20/presentation/he)\] Search Engine on Tiny Memory and Large Flash Systems 
+- \[[FAST'21, Orthus](https://www.usenix.org/conference/fast21/presentation/wu-kan)\] Non-hierarchical Caching for Modern Storage Hierarchies 
+- \[[VLDB'22, Cornus](https://arxiv.org/pdf/2102.10185.pdf)\] Efficient Atomic Commit with Disaggregated Shared Log 
+- \[[IPDPS'23, SLAP]()\] Learned Cache Admission Polcies for Dynamic-Sized CDN Caches 
+- \[[InSub, IMP]()\] Semantically-smart Disaggregated Memory 
+- \[[InSub, Alchemy]()\] Field-granularity Caching for OLTP Databases
 
 ### Data-intensive Applications
-- Reducing Hotspot Contention with Early Lock Release \[[Bamboo, SIGMOD'21](https://scarletguo.github.io/files/rdm447-guoA.pdf)\]
-- Scalable Graph Mining with Approximate Pattern Decomposition \[[Arya, NSDI'23]()\]
+- \[[SIGMOD'21, Bamboo](https://scarletguo.github.io/files/rdm447-guoA.pdf)\] Reducing Hotspot Contention with Early Lock Release 
+- \[[NSDI'23, Arya]()\] Scalable Graph Mining with Approximate Pattern Decomposition 
 
 ## Experience
 
 <br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/google-logo.png" width="80px" >
 <b>Systems Research Engineer</b><br>SystemsResearch@Google<br>2022.09 - Now
 
+<!---
 <img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/uwm-logo.png" width="80px" >
 <b>Research Assistant</b><br><a href="https://madsystems.cs.wisc.edu">UW-Madison Systems Group</a><br>2016 - 2022
+--->
 
 <br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/ms-logo.png" width="80px" >
 <b>Research Assistant</b><br>Microsoft Gray System Lab<br>2018.09 - 2021.09
@@ -67,7 +69,7 @@ I have a broad interest in systems. My recent research aims to improve memory ef
 
 
 ## Professional Services
-Reviewer, VLDBJ 2023 <br>
+Reviewer, VLDB Journal 2023 <br>
 Shadow PC, Eurosys 2022 <br>
 Reviewer, ACM Transactions on Storage (TOS) 2021 <br>
 Student Editorial Board, Journal of Systems Research 2021,2022 <br>
@@ -80,7 +82,7 @@ Teaching Assistant, Operating System(CS537), UW-Madison, 2018 <br>
 Teaching Assistant, Distributed System(CS739), UW-Madison, 2018
 
 ## Invited / Conference Talks
-<br>Towards Auto Cache Tuning For HTAP Systems @ HTAP Summit 2022
+Towards Auto Cache Tuning For HTAP Systems @ HTAP Summit 2022
 <br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google SRG 2022
 <br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google Madison 2022
 <br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ VMware Research 2022

@@ -28,7 +28,7 @@ author_profile: true
 <br><b style="color:rgb(64, 115, 158)">NSDI'2023</b>: 20th USENIX Symposium on Networked Systems Design and Implementation
 
 <span style="color:rgb(64, 115, 158)"> [11] SLAP: An Adaptive, Learned Admission Policy for Content Delivery Network Caching</span> 
-<br> Ke Liu, Kan Wu*, Hua Wang, Ke Zhou, Ji Zhang, Cong Li
+<br> Ke Liu, *Kan Wu*, Hua Wang, Ke Zhou, Ji Zhang, Cong Li
 <br><b style="color:rgb(64, 115, 158)">IPDPS'2023</b>: 37th International Parallel and Distributed Processing Symposium 
 
 <span style="color:rgb(64, 115, 158)"> [10] WiscSort: External Sorting for Byte Addressable Storage </span>

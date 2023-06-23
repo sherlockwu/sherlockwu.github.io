@@ -25,7 +25,7 @@ author_profile: true
 
 <span style="color:rgb(64, 115, 158)"> [12] Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling </span> 
 <br> *Kan Wu\*(co-first author)*, Zeying Zhu\*, Zaoxing Liu 
-<br><b style="color:rgb(64, 115, 158)">NSDI'2023</b>: 20th USENIX Symposium on Networked Systems Design and Implementation
+<br><b style="color:rgb(64, 115, 158)">NSDI'2023</b>: 20th USENIX Symposium on Networked Systems Design and Implementation <a href="https://www.usenix.org/system/files/nsdi23-zhu.pdf">[*paper*]</a> 
 
 <span style="color:rgb(64, 115, 158)"> [11] SLAP: An Adaptive, Learned Admission Policy for Content Delivery Network Caching</span> 
 <br> Ke Liu, *Kan Wu*, Hua Wang, Ke Zhou, Ji Zhang, Cong Li
@@ -33,7 +33,7 @@ author_profile: true
 
 <span style="color:rgb(64, 115, 158)"> [10] WiscSort: External Sorting for Byte Addressable Storage </span>
 <br> Vinay Banakar, *Kan Wu*, Yuvraj Patel, Kimberly Keeton, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
-<br><b style="color:rgb(64, 115, 158)">VLDB'2023</b>: 49th International Conference on Very Large Data Bases (under revision)
+<br><b style="color:rgb(64, 115, 158)">VLDB'2023</b>: 49th International Conference on Very Large Data Bases
 
 <span style="color:rgb(64, 115, 158)"> [9] Evolving System Stack for Persistent Memory: Device Characterization, Caching, and Sharing Perspectives</span>
 <br> *Kan Wu*
@@ -45,7 +45,7 @@ author_profile: true
 
 <span style="color:rgb(64, 115, 158)"> [7] Cornus: Atomic Commit for Cloud DBMS with Storage Disaggregation </span> 
 <br> Zhihan Guo, Xinyu Zeng, *Kan Wu*, Wuh-Chwen Hwang, Ziwei Ren, Xiangyao Yu, Mahesh Balakrishnan, Philip A. Bernstein 
-<br><b style="color:rgb(64, 115, 158)">VLDB'2022</b>: 48th International Conference on Very Large Data Bases <a href="https://arxiv.org/pdf/2102.10185.pdf">[*pdf*]</a> 
+<br><b style="color:rgb(64, 115, 158)">VLDB'2022</b>: 48th International Conference on Very Large Data Bases <a href="https://arxiv.org/pdf/2102.10185.pdf">[*paper*]</a> 
 
 <span style="color:rgb(64, 115, 158)"> [6] The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</span>
 <br>*Kan Wu*, Zhihan Guo, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau 

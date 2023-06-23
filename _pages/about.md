@@ -34,7 +34,7 @@ I have a broad interest in systems. My recent research aims to improve memory ef
 ### Emerging Storage/Memory Devices
 - Characterizing Ultra Low Latency SSDs \[[UnwrittenContract, HotStorage'19](https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf)\]
 - Performance Isolation, Fairness, and Sharing on Persistent Memory \[[NyxCache, FAST'22](https://www.usenix.org/conference/fast22/presentation/wu)\]
-- External Sorting on Byte-addressable Storage \[[WiscSort, VLDB'23]()\] 
+- External Sorting on Byte-addressable Storage \[[WiscSort, VLDB'23]()\]
 
 ### Tiering/Disaggregation
 - Search Engine on Tiny Memory and Large Flash Systems \[[WiSER, FAST'20](https://www.usenix.org/conference/fast20/presentation/he)\]
@@ -46,7 +46,7 @@ I have a broad interest in systems. My recent research aims to improve memory ef
 
 ### Data-intensive Applications
 - Reducing Hotspot Contention with Early Lock Release \[[Bamboo, SIGMOD'21](https://scarletguo.github.io/files/rdm447-guoA.pdf)\]
-- Scalable Graph Mining with Approximate Pattern Decomposition \[[Arya, NSDI'23]()\]
+- Scalable Graph Mining with Approximate Pattern Decomposition \[[Arya, NSDI'23](https://www.usenix.org/system/files/nsdi23-zhu.pdf)\]
 
 ## Experience
 
@@ -76,20 +76,21 @@ Student Editorial Board, Journal of Systems Research 2021,2022 <br>
 Reviewer, Frontiers of Computer Science 2022 <br>
 External Reviewer, NSDI 2020 <br>
 External Reviewer, FAST 2018, 2022 <br>
+External Reviewer, SIGMOD 2023 <br>
 
 ## Teaching
 Teaching Assistant, Operating System(CS537), UW-Madison, 2018 <br>
 Teaching Assistant, Distributed System(CS739), UW-Madison, 2018
 
 ## Invited / Conference Talks
-Towards Auto Cache Tuning For HTAP Systems @ HTAP Summit 2022
-<br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google SRG 2022
-<br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google Madison 2022
-<br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ VMware Research 2022
-<br>Evolving System Stack for PMEM - Caching, Sharing Perspectives @ CMU PDL 2022
-<br>Multi-tenant Persistent Memory Caching @ FAST 2022
-<br>Caching for Modern Storage Hierarchies @ ChinaSys 2021 
-<br>Caching for Modern Storage Hierarchies @ Microsoft Gray System Lab 2021 
-<br>Optimizing Caching on Modern Storage Devices with Orthus @ FAST 2021 
-<br>Unwritten Contract of Optane SSD @ HotStorage 2019 
-<br>Optane SSD Caching for Microsoft SQL Server @ DaMoN 2019
+Towards Auto Cache Tuning For HTAP Systems @ HTAP Summit 2022 <br>
+Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google SRG 2022 <br>
+Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google Madison 2022 <br>
+Evolving System Stack for PMEM - Caching, Sharing Perspectives @ VMware Research 2022 <br>
+Evolving System Stack for PMEM - Caching, Sharing Perspectives @ CMU PDL 2022 <br>
+Multi-tenant Persistent Memory Caching @ FAST 2022 <br>
+Caching for Modern Storage Hierarchies @ ChinaSys 2021  <br>
+Caching for Modern Storage Hierarchies @ Microsoft Gray System Lab 2021 <br> 
+Optimizing Caching on Modern Storage Devices with Orthus @ FAST 2021  <br>
+Unwritten Contract of Optane SSD @ HotStorage 2019  <br>
+Optane SSD Caching for Microsoft SQL Server @ DaMoN 2019 <br>

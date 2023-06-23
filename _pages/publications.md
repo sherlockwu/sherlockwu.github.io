@@ -33,7 +33,8 @@ author_profile: true
 
 <span style="color:rgb(64, 115, 158)"> [10] WiscSort: External Sorting for Byte Addressable Storage </span>
 <br> Vinay Banakar, *Kan Wu*, Yuvraj Patel, Kimberly Keeton, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
-<br><b style="color:rgb(64, 115, 158)">VLDB'2023</b>: 49th International Conference on Very Large Data Bases
+<br><b style="color:rgb(64, 115, 158)">VLDB'2023</b>: 49th International Conference on Very Large Data Bases <a href="https://www.vldb.org/pvldb/vol16/p2103-banakar.pdf">[*paper*]</a>
+
 
 <span style="color:rgb(64, 115, 158)"> [9] Evolving System Stack for Persistent Memory: Device Characterization, Caching, and Sharing Perspectives</span>
 <br> *Kan Wu*

@@ -34,7 +34,7 @@ I have a broad interest in systems. My recent research aims to improve memory ef
 ### Emerging Storage/Memory Devices
 - Characterizing Ultra Low Latency SSDs \[[UnwrittenContract, HotStorage'19](https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf)\]
 - Performance Isolation, Fairness, and Sharing on Persistent Memory \[[NyxCache, FAST'22](https://www.usenix.org/conference/fast22/presentation/wu)\]
-- External Sorting on Byte-addressable Storage \[[WiscSort, VLDB'23]()\]
+- External Sorting on Byte-addressable Storage \[[WiscSort, VLDB'23](https://www.vldb.org/pvldb/vol16/p2103-banakar.pdf)\]
 
 ### Tiering/Disaggregation
 - Search Engine on Tiny Memory and Large Flash Systems \[[WiSER, FAST'20](https://www.usenix.org/conference/fast20/presentation/he)\]

@@ -10,7 +10,7 @@ redirect_from:
 
 ## Biography
 
-I work at [SystemsResearch@Google](https://cloud.google.com/blog/topics/systems/google-creates-new-systems-research-group) (SRG).
+I work at [SystemsResearch@Google](https://techsysinfra.google/research/) (SRG).
 My research interests include operating systems, storage, and distributed systems.
 
 I received my Ph.D. from the University of Wisconsin-Madison (2022), where I worked with awesome [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 

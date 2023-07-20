@@ -69,12 +69,12 @@ I have a broad interest in systems. My recent research aims to improve memory ef
 
 
 ## Professional Services
-Student Research Committee, SOSP 2023 <br>
+Student Research Committee, Artifact Evaluation Committee, SOSP 2023 <br>
 Reviewer, VLDB Journal 2023 <br>
-Reviewer, ACM Transactions on Storage (TOS) 2021 2022<br>
+Reviewer, ACM Transactions on Storage (TOS) 2021, 2022<br>
 Reviewer, Frontiers of Computer Science 2022 <br>
 Shadow PC, Eurosys 2022 <br>
-Student Editorial Board, Journal of Systems Research 2021,2022 <br>
+Student Editorial Board, Journal of Systems Research 2021, 2022 <br>
 External Reviewer, FAST 2018, NSDI 2020, FAST 2022, SIGMOD 2023 <br>
 
 ## Teaching

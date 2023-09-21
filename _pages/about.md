@@ -39,8 +39,8 @@ I have a broad interest in systems. My recent research aims to improve memory ef
 ### Tiering/Disaggregation
 - Search Engine on Tiny Memory and Large Flash Systems \[[WiSER, FAST'20](https://www.usenix.org/conference/fast20/presentation/he)\]
 - Non-hierarchical Caching for Modern Storage Hierarchies \[[Orthus, FAST'21](https://www.usenix.org/conference/fast21/presentation/wu-kan)\] 
-- Efficient Atomic Commit with Disaggregated Shared Log \[[Cornus, VLDB'22](https://arxiv.org/pdf/2102.10185.pdf)\]
-- Learned Cache Admission Polcies for Dynamic-Sized CDN Caches \[[SLAP, IPDPS'23]()\]
+- Efficient Atomic Commit with Disaggregated Shared Log \[[Cornus, VLDB'22](https://www.vldb.org/pvldb/vol16/p379-guo.pdf)\]
+- Learned Cache Admission Polcies for Dynamic-Sized CDN Caches \[[SLAP, IPDPS'23](https://ieeexplore.ieee.org/document/10177483)\]
 - Semantically-smart Disaggregated Memory \[[IMP, InSub]()\]
 - Field-granularity Caching for OLTP Databases \[[Alchemy, InSub]()\]
 
@@ -69,9 +69,9 @@ I have a broad interest in systems. My recent research aims to improve memory ef
 
 
 ## Professional Services
-Student Research Committee, Artifact Evaluation Committee, SOSP 2023 <br>
+Student Research Committee, Poster Committee, Artifact Evaluation Committee, SOSP 2023 <br>
 Reviewer, VLDB Journal 2023 <br>
-Reviewer, ACM Transactions on Storage (TOS) 2021, 2022<br>
+Reviewer, ACM Transactions on Storage (TOS) 2021, 2022, 2023<br>
 Reviewer, Frontiers of Computer Science 2022 <br>
 Shadow PC, Eurosys 2022 <br>
 Student Editorial Board, Journal of Systems Research 2021, 2022 <br>

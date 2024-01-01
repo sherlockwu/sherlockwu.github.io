@@ -10,12 +10,10 @@ redirect_from:
 
 ## Biography
 
-I work at [SystemsResearch@Google](https://techsysinfra.google/research/) (SRG).
-My research interests include operating systems, storage, and distributed systems.
+I work at the [SystemsResearch@Google](https://techsysinfra.google/research/) (SRG). My recent research aims to improve memory efficiency for machine learning (e.g., LLM) and non-ML workloads, especially for large-scale systems.
 
 I received my Ph.D. from the University of Wisconsin-Madison (2022), where I worked with awesome [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
-I also received my master's degree from UW-Madison (2020).
-I received my B.E. from University of Science and Technology of China (USTC, 2016). 
+I received my B.E. from the University of Science and Technology of China (USTC, 2016). 
 
 <!---
 # Latest
@@ -26,10 +24,7 @@ style="color:rgb(64, 115, 158)"
 -->
 
 ## Research
-I have a broad interest in systems. My recent research aims to improve memory efficiency of hyperscalers and flatten their memory costs. It extends my PhD work on building systems for emerging storage architecture (tiering and disaggregation) and devices (Flash and Optane).
-
-**Key Words:** Memory Management, Caching/Tiering, Multi-tenancy, Data-intensive Applications.
-
+I have a broad interest in systems. My past publications have mainly focused on caching/tiering, memory management, and data-intensive applications.
 
 ### Emerging Storage/Memory Devices
 - Characterizing Ultra Low Latency SSDs \[[UnwrittenContract, HotStorage'19](https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf)\]
@@ -42,7 +37,6 @@ I have a broad interest in systems. My recent research aims to improve memory ef
 - Efficient Atomic Commit with Disaggregated Shared Log \[[Cornus, VLDB'22](https://www.vldb.org/pvldb/vol16/p379-guo.pdf)\]
 - Learned Cache Admission Polcies for Dynamic-Sized CDN Caches \[[SLAP, IPDPS'23](https://ieeexplore.ieee.org/document/10177483)\]
 - Semantically-smart Disaggregated Memory \[[IMP, InSub]()\]
-- Field-granularity Caching for OLTP Databases \[[Alchemy, InSub]()\]
 
 ### Data-intensive Applications
 - Reducing Hotspot Contention with Early Lock Release \[[Bamboo, SIGMOD'21](https://scarletguo.github.io/files/rdm447-guoA.pdf)\]
@@ -69,14 +63,14 @@ I have a broad interest in systems. My recent research aims to improve memory ef
 
 
 ## Professional Services
+Program Committee, ATC'2024 <br>
+Program Committee/ Local Chair, HotStorage'2024 <br>
 Proceedings Chair, SOSP 2024 <br>
-Program Committee, ATC 2024 <br>
-Program Committee, Local Chair, HotStorage 2024 <br>
-Student Research Committee, Poster Committee, Artifact Evaluation Committee, SOSP 2023 <br>
-Reviewer, VLDB Journal 2023 <br>
-Reviewer, ACM Transactions on Storage (TOS) 2021, 2022, 2023<br>
-Reviewer, Frontiers of Computer Science 2022 <br>
-Student Editorial Board, Journal of Systems Research 2021, 2022 <br>
+Student Research Committee/ Poster Committee/ Artifact Evaluation Committee, SOSP'2023 <br>
+Reviewer, VLDB Journal'2023 <br>
+Reviewer, ACM Transactions on Storage (TOS)'2021, 2022, 2023<br>
+Reviewer, Frontiers of Computer Science'2022 <br>
+Student Editorial Board, Journal of Systems Research'2021, 2022 <br>
 Shadow PC, Eurosys 2022 <br>
 <!-- External Reviewer, FAST 2018, NSDI 2020, FAST 2022, SIGMOD 2023 <br> -->
 
@@ -85,6 +79,7 @@ Teaching Assistant, Operating System(CS537), UW-Madison, 2018 <br>
 Teaching Assistant, Distributed System(CS739), UW-Madison, 2018
 
 ## Invited / Conference Talks
+Reflecting on PMEM, The Start of Modern Memory Hierarchies Research @ USTC 2023 <br>
 Towards Auto Cache Tuning For HTAP Systems @ HTAP Summit 2022 <br>
 Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google SRG 2022 <br>
 Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google Madison 2022 <br>

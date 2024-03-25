@@ -25,7 +25,7 @@ author_profile: true
 <br><b style="color:rgb(64, 115, 158)">TACO'2024</b>: ACM Transactions on Architecture and Code Optimization <a href="https://dl.acm.org/doi/pdf/10.1145/3646550">[*paper*]</a>
 
 <span style="color:rgb(64, 115, 158)"> [12] Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling </span> 
-<br> <ins>Kan Wu</ins>(co-first author), Zeying Zhu\*, Zaoxing Liu 
+<br> <ins>Kan Wu</ins>\*(co-first author), Zeying Zhu\*, Zaoxing Liu 
 <br><b style="color:rgb(64, 115, 158)">NSDI'2023</b>: 20th USENIX Symposium on Networked Systems Design and Implementation <a href="https://www.usenix.org/system/files/nsdi23-zhu.pdf">[*paper*]</a> 
 
 <span style="color:rgb(64, 115, 158)"> [11] SLAP: An Adaptive, Learned Admission Policy for Content Delivery Network Caching</span> 
@@ -33,7 +33,7 @@ author_profile: true
 <br><b style="color:rgb(64, 115, 158)">IPDPS'2023</b>: 37th International Parallel and Distributed Processing Symposium <a href="https://ieeexplore.ieee.org/abstract/document/10177483">[*paper*]</a>
 
 <span style="color:rgb(64, 115, 158)"> [10] WiscSort: External Sorting for Byte Addressable Storage </span>
-<br> Vinay Ba/insnakar, <ins>Kan Wu<>, Yuvraj Patel, Kimberly Keeton, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
+<br> Vinay Banakar, <ins>Kan Wu</ins>, Yuvraj Patel, Kimberly Keeton, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
 <br><b style="color:rgb(64, 115, 158)">VLDB'2023</b>: 49th International Conference on Very Large Data Bases <a href="https://www.vldb.org/pvldb/vol16/p2103-banakar.pdf">[*paper*]</a>
 
 <span style="color:rgb(64, 115, 158)"> [9] Evolving System Stack for Persistent Memory: Device Characterization, Caching, and Sharing Perspectives</span>
@@ -45,7 +45,7 @@ author_profile: true
 <br><b style="color:rgb(64, 115, 158)">FAST'2022</b>: 20th USENIX Conference on File and Storage Technologies <a href="https://www.usenix.org/system/files/fast22-wu.pdf">[*paper*]</a> <a href="https://www.usenix.org/system/files/fast22_slides_wu.pdf">[*slides*]</a> <a href="https://www.usenix.org/conference/fast22/presentation/wu">[*video*]</a>
 
 <span style="color:rgb(64, 115, 158)"> [7] Cornus: Atomic Commit for Cloud DBMS with Storage Disaggregation </span> 
-<br> Zhihan Guo, Xinyu Zeng, <ins/ins>Kan Wu<>, Wuh-Chwen Hwang, Ziwei Ren, Xiangyao Yu, Mahesh Balakrishnan, Philip A. Bernstein 
+<br> Zhihan Guo, Xinyu Zeng, <ins>Kan Wu</ins>, Wuh-Chwen Hwang, Ziwei Ren, Xiangyao Yu, Mahesh Balakrishnan, Philip A. Bernstein 
 <br><b style="color:rgb(64, 115, 158)">VLDB'2022</b>: 48th International Conference on Very Large Data Bases <a href="https://arxiv.org/pdf/2102.10185.pdf">[*paper*]</a> 
 
 <span style="color:rgb(64, 115, 158)"> [6] The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</span>

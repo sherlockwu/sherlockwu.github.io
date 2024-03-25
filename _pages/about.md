@@ -10,7 +10,7 @@ redirect_from:
 
 ## Biography
 
-I work at the [SystemsResearch@Google](https://techsysinfra.google/research/) (SRG). My recent research aims to improve memory efficiency for machine learning (e.g., LLM) and non-ML workloads, especially for large-scale systems.
+I work at the [SystemsResearch@Google](https://techsysinfra.google/research/) (SRG). My research aims to improve memory efficiency for large-scale machine learning (e.g., LLM) and non-ML workloads.
 
 I received my Ph.D. from the University of Wisconsin-Madison (2022), where I worked with awesome [Andrea Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/) and [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/). 
 I received my B.E. from the University of Science and Technology of China (USTC, 2016). 
@@ -35,7 +35,7 @@ I have a broad interest in systems. My past publications have mainly focused on 
 - Search Engine on Tiny Memory and Large Flash Systems \[[WiSER, FAST'20](https://www.usenix.org/conference/fast20/presentation/he)\]
 - Non-hierarchical Caching for Modern Storage Hierarchies \[[Orthus, FAST'21](https://www.usenix.org/conference/fast21/presentation/wu-kan)\] 
 - Efficient Atomic Commit with Disaggregated Shared Log \[[Cornus, VLDB'22](https://www.vldb.org/pvldb/vol16/p379-guo.pdf)\]
-- Learned Cache Admission Polcies for Dynamic-Sized CDN Caches \[[SLAP, IPDPS'23](https://ieeexplore.ieee.org/document/10177483)\]
+- Learned Cache Admission Polcies for Dynamic-Sized CDN Caches \[[SLAP, IPDPS'23, TACO'24](https://ieeexplore.ieee.org/document/10177483)\]
 - Semantically-smart Disaggregated Memory \[[IMP, InSub]()\]
 
 ### Data-intensive Applications
@@ -65,10 +65,10 @@ I have a broad interest in systems. My past publications have mainly focused on 
 ## Professional Services
 Program Committee, ATC'2024 <br>
 Program Committee/ Local Chair, HotStorage'2024 <br>
-Proceedings Chair, SOSP 2024 <br>
-Student Research Committee/ Poster Committee/ Artifact Evaluation Committee, SOSP'2023 <br>
+Proceedings Chair, SOSP'2024 <br>
+Student Research Committee, Poster Committee, Artifact Evaluation Committee, SOSP'2023 <br>
 Reviewer, VLDB Journal'2023 <br>
-Reviewer, ACM Transactions on Storage (TOS)'2021, 2022, 2023<br>
+Reviewer, ACM Transactions on Storage (TOS)'2021, 2022, 2023, 2024<br>
 Reviewer, Frontiers of Computer Science'2022 <br>
 Student Editorial Board, Journal of Systems Research'2021, 2022 <br>
 Shadow PC, Eurosys 2022 <br>

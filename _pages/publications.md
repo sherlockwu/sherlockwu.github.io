@@ -22,7 +22,7 @@ author_profile: true
 
 <span style="color:rgb(64, 115, 158)"> [13] SLAP: Segmented Reuse-Time-Lable Based Admission Policy for Content Delivery Network Caching </span> 
 <br> Ke Liu, <ins>Kan Wu</ins>, Hua Wang, Ke Zhou, Peng Wang, Ji Zhang, Cong Li
-<br><b style="color:rgb(64, 115, 158)">TACO'2024</b>: ACM Transactions on Architecture and Code Optimization
+<br><b style="color:rgb(64, 115, 158)">TACO'2024</b>: ACM Transactions on Architecture and Code Optimization <a href="https://dl.acm.org/doi/pdf/10.1145/3646550">[*paper*]</a>
 
 <span style="color:rgb(64, 115, 158)"> [12] Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling </span> 
 <br> <ins>Kan Wu</ins>(co-first author), Zeying Zhu\*, Zaoxing Liu 
@@ -30,7 +30,7 @@ author_profile: true
 
 <span style="color:rgb(64, 115, 158)"> [11] SLAP: An Adaptive, Learned Admission Policy for Content Delivery Network Caching</span> 
 <br> Ke Liu, <ins>Kan Wu</ins>, Hua Wang, Ke Zhou, Ji Zhang, Cong Li
-<br><b style="color:rgb(64, 115, 158)">IPDPS'2023</b>: 37th International Parallel and Distributed Processing Symposium 
+<br><b style="color:rgb(64, 115, 158)">IPDPS'2023</b>: 37th International Parallel and Distributed Processing Symposium <a href="https://ieeexplore.ieee.org/abstract/document/10177483">[*paper*]</a>
 
 <span style="color:rgb(64, 115, 158)"> [10] WiscSort: External Sorting for Byte Addressable Storage </span>
 <br> Vinay Ba/insnakar, <ins>Kan Wu<>, Yuvraj Patel, Kimberly Keeton, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau

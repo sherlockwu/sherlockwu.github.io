@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ## Biography
-I'm a system researcher at Google. I'm excited to work in [SystemsResearch@Google](https://techsysinfra.google/research/), collaborating with teams across Cloud and DeepMind. And I report to [David Culler](https://en.wikipedia.org/wiki/David_Culler) and [Hank Levy](https://en.wikipedia.org/wiki/Hank_Levy_(computer_scientist)).
+I'm a system researcher at Google. I'm excited to work in [SystemsResearch@Google](https://techsysinfra.google/research/), collaborating with groups across Google Cloud and DeepMind. My work is supported by managers [David Culler](https://en.wikipedia.org/wiki/David_Culler) and [Hank Levy](https://en.wikipedia.org/wiki/Hank_Levy_(computer_scientist)).
 
-Before Google, I obtained my Ph.D. from the University of Wisconsin-Madison in 2022. My Phd advisors are [Andrea](http://pages.cs.wisc.edu/~dusseau/) and [Remzi](http://pages.cs.wisc.edu/~remzi/) Arpaci-Dusseau. I received my bachelor's degree from the University of Science and Technology of China (USTC) in 2016.
+Before Google, I completed my Ph.D. at the University of Wisconsin-Madison in 2022, advised by [Andrea](http://pages.cs.wisc.edu/~dusseau/) and [Remzi](http://pages.cs.wisc.edu/~remzi/) Arpaci-Dusseau. I obtained my bachelor's degree from the University of Science and Technology of China (USTC) in 2016.
 
 
 <!---
@@ -23,16 +23,14 @@ style="color:rgb(64, 115, 158)"
 -->
 
 ## Research
-My research at Google focus on two "LM" issues hyperscalers pain in the ass:
-- Language Model: serving efficiency, using model features (like activation sparsity), system optimizations (for long context), and hardware
-- Large Memory: memory efficiency for Google fleet, through easy to specialization and deploy.
+My research at Google addresses two LM challenges hyperscalers face:
+- **Language Model** I optimize serving efficiency by leveraging model features (like activation sparsity) and maximizing system and hardware efficiency.
+- **Large Memory** I optimize memory efficiency through enabiling tiering that are easy to specialize and deploy.
 
-And I contribute to Google's [gemma.cpp](https://github.com/google/gemma.cpp) open codebase.
-
+Additionally, I contribute to Google's open-source [Gemma.cpp](https://github.com/google/gemma.cpp) project.
 
 ## Publications
-In my PhD, I wrote series of stories/papers on memory efficiency. I write papers at my Google job, too. (but it takes time to pop up on this page)
-
+* In my Ph.D., I wrote a series of stories (aka papers) on memory efficiency. Now, I’m working on new stories at Google—but they might take a bit to appear here!
 
 <!-- <span style="color:rgb(64, 115, 158)"> IMP: Disaggregated Memory Compute Offloading with Informed Memory Pool </span>
 <br> In Submission (Title Altered to Avoid Conflicts)
@@ -103,7 +101,7 @@ In my PhD, I wrote series of stories/papers on memory efficiency. I write papers
 <b>Affiliate Research Assistant</b><br>Microsoft Gray System Lab<br>2018 - 2021
 
 <br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/vw-logo.png" width="80px" >
-<b>Software Engineering Intern</b><br>VMware, vSAN<br>2019 Summer
+<b>Software Engineering Intern</b><br>VMware<br>2019 Summer
 
 <br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/cuhk-logo.png" width="80px" >
 <b>Research Assistant</b><br>Chinese University of Hong Kong<br>2016
@@ -113,11 +111,11 @@ In my PhD, I wrote series of stories/papers on memory efficiency. I write papers
 USENIX FAST'25 PC <br>
 USENIX ATC'25 PC <br>
 USENIX ATC'24 PC <br>
-SOSP'24 Proceedings Chair <br>
 USENIX HotStorage'24 PC <br>
+SOSP'24 Proceedings Chair <br>
 SOSP'23 Student Research Committee, Poster Committee <br>
-VLDBJ'2023 reviewer <br>
 ACM TOS'2021, 2022, 2023, 2024 reviewer<br>
+VLDBJ'2023 reviewer <br>
 
 <!-- ## Teaching
 Teaching Assistant, Operating System(CS537), UW-Madison, 2018 <br>

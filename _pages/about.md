@@ -24,14 +24,14 @@ style="color:rgb(64, 115, 158)"
 
 ## Research
 My research at Google addresses two LM challenges hyperscalers face:
-- **Language Model** I optimize serving efficiency by leveraging model features (like activation sparsity) and maximizing system and hardware efficiency.
-- **Large Memory** I optimize memory efficiency through enabiling tiering that are easy to specialize and deploy.
+- **Language Model.** I optimize serving efficiency by leveraging model features (like activation sparsity) and maximizing system and hardware efficiency.
+- **Large Memory.** I optimize memory efficiency across the Google fleet through enabling tiering that are easy to specialize and deploy.
 
-Additionally, I contribute to Google's open-source [Gemma.cpp](https://github.com/google/gemma.cpp) project.
+I contribute to Google's open-source [gemma.cpp](https://github.com/google/gemma.cpp) project.
+
+In my PhD, I wrote a series of stories (aka papers) on memory efficiency. Now, I’m working on new ones at Google—but, you know, system papers take time.
 
 ## Publications
-* In my Ph.D., I wrote a series of stories (aka papers) on memory efficiency. Now, I’m working on new stories at Google—but they might take a bit to appear here!
-
 <!-- <span style="color:rgb(64, 115, 158)"> IMP: Disaggregated Memory Compute Offloading with Informed Memory Pool </span>
 <br> In Submission (Title Altered to Avoid Conflicts)
  -->
@@ -104,7 +104,7 @@ Additionally, I contribute to Google's open-source [Gemma.cpp](https://github.co
 <b>Software Engineering Intern</b><br>VMware<br>2019 Summer
 
 <br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/cuhk-logo.png" width="80px" >
-<b>Research Assistant</b><br>Chinese University of Hong Kong<br>2016
+<b>Undergrad Research Assistant</b><br>Chinese University of Hong Kong<br>2016
 
 
 ## Service

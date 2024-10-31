@@ -6,8 +6,8 @@ main:
   # - title: "Publications"
   #   url: "/publications/"
 
-  - title: "Experience"
-    url: "https://sherlockwu.github.io#experience"   
+  # - title: "Experience"
+  #   url: "https://sherlockwu.github.io#experience"   
 
   #- title: "Teaching"
   #  url: "https://sherlockwu.github.io#teaching" 

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Biography
+<!-- ## Biography -->
 I'm a system researcher at Google. I'm excited to work in [SystemsResearch@Google](https://techsysinfra.google/research/), collaborating with groups across Google Cloud and DeepMind. My work is supported by managers [David Culler](https://en.wikipedia.org/wiki/David_Culler) and [Hank Levy](https://en.wikipedia.org/wiki/Hank_Levy_(computer_scientist)).
 
 Before Google, I completed my Ph.D. at the University of Wisconsin-Madison in 2022, advised by [Andrea](http://pages.cs.wisc.edu/~dusseau/) and [Remzi](http://pages.cs.wisc.edu/~remzi/) Arpaci-Dusseau. I obtained my bachelor's degree from the University of Science and Technology of China (USTC) in 2016.

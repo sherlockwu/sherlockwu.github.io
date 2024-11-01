@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <!-- ## Biography -->
-I'm a system researcher at Google. I'm excited to work in [SystemsResearch@Google](https://techsysinfra.google/research/), collaborating with groups across Google Cloud and DeepMind. My work is supported by managers [David Culler](https://en.wikipedia.org/wiki/David_Culler) and [Hank Levy](https://en.wikipedia.org/wiki/Hank_Levy_(computer_scientist)).
+I'm a system researcher at Google. I'm excited to work in [SystemsResearch@Google](https://techsysinfra.google/research/), collaborating with groups across Google Cloud and DeepMind. My work is supported by my managers [David Culler](https://en.wikipedia.org/wiki/David_Culler) and [Hank Levy](https://en.wikipedia.org/wiki/Hank_Levy_(computer_scientist)).
 
-Before Google, I completed my Ph.D. at the University of Wisconsin-Madison in 2022, advised by [Andrea](http://pages.cs.wisc.edu/~dusseau/) and [Remzi](http://pages.cs.wisc.edu/~remzi/) Arpaci-Dusseau. I obtained my bachelor's degree from the University of Science and Technology of China (USTC) in 2016.
+Previously, I completed my Ph.D. at the University of Wisconsin-Madison in 2022, advised by [Andrea](http://pages.cs.wisc.edu/~dusseau/) and [Remzi](http://pages.cs.wisc.edu/~remzi/) Arpaci-Dusseau. I obtained my bachelor's degree from the University of Science and Technology of China (USTC) in 2016.
 
 
 <!---
@@ -29,13 +29,13 @@ My research at Google addresses two LM challenges hyperscalers face:
 
 I contribute to Google's open-source [gemma.cpp](https://github.com/google/gemma.cpp) project.
 
-In my PhD, I wrote a series of stories (aka papers) on memory efficiency. Now, I’m working on new ones at Google—but, you know, system papers take time.
+In my PhD, I wrote a series of stories (aka papers) on memory efficiency. Now, I’m working on new ones at Google—but, you know, system stories take time.
 
 ## Publications
 <!-- <span style="color:rgb(64, 115, 158)"> IMP: Disaggregated Memory Compute Offloading with Informed Memory Pool </span>
 <br> In Submission (Title Altered to Avoid Conflicts)
  -->
-<span style="color:rgb(64, 115, 158)"> SLAP: Segmented Reuse-Time-Lable Based Admission Policy for Content Delivery Network Caching </span> 
+<span style="color:rgb(64, 115, 158)"> SLAP: Segmented Reuse-Time-Label Based Admission Policy for Content Delivery Network Caching </span> 
 <br> Ke Liu, <ins>Kan Wu</ins>, Hua Wang, Ke Zhou, Peng Wang, Ji Zhang, Cong Li
 <br><b style="color:rgb(64, 115, 158)">TACO'2024</b>: ACM Transactions on Architecture and Code Optimization <a href="https://dl.acm.org/doi/pdf/10.1145/3646550">[*paper*]</a>
 

@@ -24,17 +24,19 @@ style="color:rgb(64, 115, 158)"
 
 ## Research
 My research at Google addresses two LM challenges hyperscalers face:
-- **Language Model.** I optimize serving efficiency by leveraging model features (like activation sparsity) and maximizing system and hardware efficiency.
-- **Large Memory.** I optimize memory efficiency across the Google fleet through enabling tiering that are easy to specialize and deploy.
+- **Language Model.** I optimize serving system/hardware efficiency by leveraging workload characeteristics and model characteristics (like activation sparsity).
+- **Large Memory.** I optimize Google fleet memory efficiency through memory tiering that are closely specialized for applications and easy to deploy at scale.
 
-I contribute to Google's open-source [gemma.cpp](https://github.com/google/gemma.cpp) project.
-
-In my PhD, I wrote a series of stories (aka papers) on memory efficiency. Now, I’m working on new ones at Google—but, you know, system stories take time.
+I contribute to Google's open-source [gemma.cpp](https://github.com/google/gemma.cpp) serving project, and LLVM.
 
 ## Publications
 <!-- <span style="color:rgb(64, 115, 158)"> IMP: Disaggregated Memory Compute Offloading with Informed Memory Pool </span>
 <br> In Submission (Title Altered to Avoid Conflicts)
  -->
+<span style="color:rgb(64, 115, 158)"> FineMem: Breaking the Allocation Overhead vs. Memory Waste Dilemma in Fine-Grained Disaggregated Memory Management </span> 
+<br> Xiaoyang Wang, Yongkun Li, <ins>Kan Wu</ins>, Wenzhe Zhu, Yuqi Li, Yinlong Xu
+<br><b style="color:rgb(64, 115, 158)">OSDI'2025</b>: 19th USENIX Symposium on Operating Systems Design and Implementation <a href="">[*to appear*]</a>
+
 <span style="color:rgb(64, 115, 158)"> SLAP: Segmented Reuse-Time-Label Based Admission Policy for Content Delivery Network Caching </span> 
 <br> Ke Liu, <ins>Kan Wu</ins>, Hua Wang, Ke Zhou, Peng Wang, Ji Zhang, Cong Li
 <br><b style="color:rgb(64, 115, 158)">TACO'2024</b>: ACM Transactions on Architecture and Code Optimization <a href="https://dl.acm.org/doi/pdf/10.1145/3646550">[*paper*]</a>

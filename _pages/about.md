@@ -33,6 +33,12 @@ I contribute to Google's open-source [gemma.cpp](https://github.com/google/gemma
 <!-- <span style="color:rgb(64, 115, 158)"> IMP: Disaggregated Memory Compute Offloading with Informed Memory Pool </span>
 <br> In Submission (Title Altered to Avoid Conflicts)
  -->
+
+
+<span style="color:rgb(64, 115, 158)"> PageFlex: Flexible and Efficient User-space Delegation of Linux Paging Policies with eBPF </span> 
+<br> Anil Yelam, <ins>Kan Wu</ins>\*(corresponding author), Zhiyuan Guo, Rajath Shashidhara, Stanko Novakovic, Suli Yang, Wei Xu, Alex C. Snoeren, Kimberly Keeton
+<br><b style="color:rgb(64, 115, 158)">ATC'2025</b>: 2025 USENIX Annual Technical Conference <a href="">[*to appear*]</a>
+
 <span style="color:rgb(64, 115, 158)"> FineMem: Breaking the Allocation Overhead vs. Memory Waste Dilemma in Fine-Grained Disaggregated Memory Management </span> 
 <br> Xiaoyang Wang, Yongkun Li, <ins>Kan Wu</ins>, Wenzhe Zhu, Yuqi Li, Yinlong Xu
 <br><b style="color:rgb(64, 115, 158)">OSDI'2025</b>: 19th USENIX Symposium on Operating Systems Design and Implementation <a href="">[*to appear*]</a>

@@ -9,32 +9,40 @@ redirect_from:
 ---
 
 <!-- ## Biography -->
-I'm a system researcher at Google. I work in [SystemsResearch@Google](https://techsysinfra.google/research/), collaborating with groups across Google Cloud and DeepMind. My work is supported by my managers [David Culler](https://en.wikipedia.org/wiki/David_Culler) and [Hank Levy](https://en.wikipedia.org/wiki/Hank_Levy_(computer_scientist)).
+
+
+
+
+I'm interested in Machine Learning Systems, Caching, and Distributed Systems.
+
+I was a researcher at Google, part of [SystemsResearch@Google](https://techsysinfra.google/research/), where I worked on Language Model Serving and Memory Management. I worked closely with [David Culler](https://en.wikipedia.org/wiki/David_Culler) and [Hank Levy](https://en.wikipedia.org/wiki/Hank_Levy_(computer_scientist)), and collaborating with teams across Cloud and DeepMind.
+
 
 Previously, I completed my Ph.D. at the University of Wisconsin-Madison in 2022, advised by [Andrea](http://pages.cs.wisc.edu/~dusseau/) and [Remzi](http://pages.cs.wisc.edu/~remzi/) Arpaci-Dusseau. I obtained my bachelor's degree from the University of Science and Technology of China (USTC) in 2016.
 
 
-<!---
-# Latest
-<span style="color:rgb(64, 115, 158)">[Dec. 2021]&#128293;</span> NyxCache, a multi-tenant KV-cache framework on persistent memory, will appear at FAST 2022!
-<br><span style="color:rgb(64, 115, 158)">[Mar. 2021]</span> Bamboo, a concurrency control protocol which reduces contention of hotspots, has been accepted to SIGMOD 2021! 
-<br><span style="color:rgb(64, 115, 158)">[Dec. 2020]&#128293;</span> Non-Hierarchical Caching, a generic method to optimize caching for Persistent Memory hierarchies, has been accepted to FAST 2021!
-style="color:rgb(64, 115, 158)"
--->
-
 ## Research
-My research at Google addresses two LM challenges hyperscalers face:
-- **Language Model.** I optimize serving system/hardware efficiency by leveraging workload characeteristics and model characteristics (like activation sparsity).
-- **Large Memory.** I optimize Google fleet memory efficiency through memory tiering that are closely specialized for applications and easy to deploy at scale.
+At Google, my research addressed two challenges for hyperscalers:
+- **Language Model Efficiency:** Optimizing serving systems by leveraging workload characteristics and model properties like activation sparsity
+- **Memory Management:** Improving fleet-wide memory efficiency through specialized memory tiering solutions
 
-I contribute to Google's open-source [gemma.cpp](https://github.com/google/gemma.cpp) serving project, and LLVM.
+I contributed to Google's open-source [gemma.cpp](https://github.com/google/gemma.cpp) serving project, and LLVM.
+
+## Experience
+
+<br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/google-logo.png" width="80px" >
+<b>Senior Software Engineer</b><br>SystemsResearch@Google<br>2022 - 2025
+
+<br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/ms-logo.png" width="80px" >
+<b>Affiliate Research Assistant</b><br>Microsoft Gray System Lab<br>2018 - 2021
+
+<br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/vw-logo.png" width="80px" >
+<b>Software Engineering Intern</b><br>VMware<br>2019 Summer
+
+<br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/cuhk-logo.png" width="80px" >
+<b>Undergrad Research Assistant</b><br>Chinese University of Hong Kong<br>2016
 
 ## Publications
-<!-- <span style="color:rgb(64, 115, 158)"> IMP: Disaggregated Memory Compute Offloading with Informed Memory Pool </span>
-<br> In Submission (Title Altered to Avoid Conflicts)
- -->
-
-
 <span style="color:rgb(64, 115, 158)"> PageFlex: Flexible and Efficient User-space Delegation of Linux Paging Policies with eBPF </span> 
 <br> Anil Yelam, <ins>Kan Wu</ins>\*(corresponding author), Zhiyuan Guo, Rajath Shashidhara, Stanko Novakovic, Suli Yang, Wei Xu, Alex C. Snoeren, Kimberly Keeton
 <br><b style="color:rgb(64, 115, 158)">ATC'2025</b>: 2025 USENIX Annual Technical Conference <a href="">[*to appear*]</a>
@@ -95,26 +103,6 @@ I contribute to Google's open-source [gemma.cpp](https://github.com/google/gemma
 <br><ins>Kan Wu</ins>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, Rathijit Sen, Kwanghyun Park
 <br><b style="color:rgb(64, 115, 158)">DaMoN, SIGMOD'2019</b>: ACM SIGMOD International Conference on Management of Data <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
 
-## Experience
-
-<br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/google-logo.png" width="80px" >
-<b>Senior Software Engineer</b><br>SystemsResearch@Google<br>2022 - Now
-
-<!---
-<img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/uwm-logo.png" width="80px" >
-<b>Research Assistant</b><br><a href="https://madsystems.cs.wisc.edu">UW-Madison Systems Group</a><br>2016 - 2022
---->
-
-<br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/ms-logo.png" width="80px" >
-<b>Affiliate Research Assistant</b><br>Microsoft Gray System Lab<br>2018 - 2021
-
-<br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/vw-logo.png" width="80px" >
-<b>Software Engineering Intern</b><br>VMware<br>2019 Summer
-
-<br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/cuhk-logo.png" width="80px" >
-<b>Undergrad Research Assistant</b><br>Chinese University of Hong Kong<br>2016
-
-
 ## Service
 USENIX FAST'25 PC <br>
 USENIX ATC'25 PC <br>
@@ -125,10 +113,6 @@ SOSP'23 Student Research Committee, Poster Committee <br>
 ACM TOS'2021, 2022, 2023, 2024 reviewer<br>
 VLDBJ'2023 reviewer <br>
 
-<!-- ## Teaching
-Teaching Assistant, Operating System(CS537), UW-Madison, 2018 <br>
-Teaching Assistant, Distributed System(CS739), UW-Madison, 2018
- -->
 <!-- ## Invited / Conference Talks
 Reflecting on PMEM, The Start of Modern Memory Hierarchies Research @ USTC 2023 <br>
 Towards Auto Cache Tuning For HTAP Systems @ HTAP Summit 2022 <br>

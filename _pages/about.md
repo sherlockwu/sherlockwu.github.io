@@ -66,9 +66,9 @@ I contributed to Google's open-source [gemma.cpp](https://github.com/google/gemm
 <br> Vinay Banakar, <ins>Kan Wu</ins>, Yuvraj Patel, Kimberly Keeton, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
 <br><b style="color:rgb(64, 115, 158)">VLDB'2023</b>: 49th International Conference on Very Large Data Bases <a href="https://www.vldb.org/pvldb/vol16/p2103-banakar.pdf">[*paper*]</a>
 
-<span style="color:rgb(64, 115, 158)"> Evolving System Stack for Persistent Memory: Device Characterization, Caching, and Sharing Perspectives</span>
+<!-- <span style="color:rgb(64, 115, 158)"> Evolving System Stack for Persistent Memory: Device Characterization, Caching, and Sharing Perspectives</span>
 <br> <ins>Kan Wu</ins>
-<br><b style="color:rgb(64, 115, 158)">Ph.D. Thesis </b>: University of Wisconsin-Madison <a href="https://sherlockwu.github.io/files/kan_thesis_final_draft.pdf">[*paper*]</a> 
+<br><b style="color:rgb(64, 115, 158)">Ph.D. Thesis </b>: University of Wisconsin-Madison <a href="https://sherlockwu.github.io/files/kan_thesis_final_draft.pdf">[*paper*]</a>  -->
 
 <span style="color:rgb(64, 115, 158)"> NyxCache: Flexible and Efficient Multi-tenant Persistent-Memory Caching  </span> 
 <br> <ins>Kan Wu</ins>, Kaiwei Tu, Yuvraj Patel, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau 

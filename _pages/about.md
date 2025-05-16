@@ -15,10 +15,9 @@ redirect_from:
 
 I'm interested in Machine Learning Systems, Caching, and Distributed Systems.
 
-I was a researcher at Google, part of [SystemsResearch@Google](https://techsysinfra.google/research/), where I worked on Language Model Serving and Memory Management. I worked closely with [David Culler](https://en.wikipedia.org/wiki/David_Culler) and [Hank Levy](https://en.wikipedia.org/wiki/Hank_Levy_(computer_scientist)), and collaborating with teams across Cloud and DeepMind.
+I was a researcher at [SystemsResearch@Google](https://techsysinfra.google/research/), where I worked on Language Model Serving and Memory Management. I worked closely with [David Culler](https://en.wikipedia.org/wiki/David_Culler) and [Hank Levy](https://en.wikipedia.org/wiki/Hank_Levy_(computer_scientist)), and collaborating with teams across Cloud and DeepMind.
 
-
-Previously, I completed my Ph.D. at the University of Wisconsin-Madison in 2022, advised by [Andrea](http://pages.cs.wisc.edu/~dusseau/) and [Remzi](http://pages.cs.wisc.edu/~remzi/) Arpaci-Dusseau. I obtained my bachelor's degree from the University of Science and Technology of China (USTC) in 2016.
+I completed my Ph.D. at the University of Wisconsin-Madison in 2022, advised by [Andrea](http://pages.cs.wisc.edu/~dusseau/) and [Remzi](http://pages.cs.wisc.edu/~remzi/) Arpaci-Dusseau. I obtained my bachelor's degree from the University of Science and Technology of China (USTC) in 2016.
 
 
 ## Research

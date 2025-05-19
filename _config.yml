@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter @flyflyf04862062
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kan Wu"
   avatar           : "profile-3.jpg"
-  bio              : "Google" #"Your biography for the left-hand sidebar"
+  bio              : "" #"Your biography for the left-hand sidebar"
   location         : "Bay Area, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "@flyflyf04862062"
   vine             :
   weibo            :
   xing             :

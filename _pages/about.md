@@ -29,8 +29,8 @@ I contributed to Google's open-source [gemma.cpp](https://github.com/google/gemm
 
 ## Experience
 
-<br><img style="float: left; box-shadow: 4px 8px 8px #888; margin-right: 15px;" src="images/logo/xai-logo.png" width="80px" >
-<b>Member of Technical Staff</b><br>xAIe<br>2025 - Now
+<br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/xai-logo.png" width="80px" >
+<b>Member of Technical Staff</b><br>xAI<br>2025 - Now
 
 <br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/google-logo.png" width="80px" >
 <b>Senior Software Engineer</b><br>SystemsResearch@Google<br>2022 - 2025

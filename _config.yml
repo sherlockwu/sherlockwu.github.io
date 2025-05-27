@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kan Wu"
   avatar           : "profile-3.jpg"
-  bio              : "" #"Your biography for the left-hand sidebar"
+  bio              : "xAI" #"Your biography for the left-hand sidebar"
   location         : "Bay Area, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

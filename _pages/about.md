@@ -10,22 +10,11 @@ redirect_from:
 
 <!-- ## Biography -->
 
+I'm a Member of Technical Staff at xAI. I work on Language Model serving. I'm interested in Machine Learning Systems, Caching, and Distributed Systems.
 
-
-
-I'm a member of technical staff at xAI. I'm interested in Machine Learning Systems, Caching, and Distributed Systems.
-
-I was a researcher at [SystemsResearch@Google](https://techsysinfra.google/research/), where I worked on Language Model Serving and Memory Management. I worked closely with [David Culler](https://en.wikipedia.org/wiki/David_Culler) and [Hank Levy](https://en.wikipedia.org/wiki/Hank_Levy_(computer_scientist)), and collaborating with teams across Cloud and DeepMind.
+I was a researcher at [SystemsResearch@Google](https://techsysinfra.google/research/). I worked on Language Model Serving and Memory Management. I worked with [David Culler](https://en.wikipedia.org/wiki/David_Culler) and [Hank Levy](https://en.wikipedia.org/wiki/Hank_Levy_(computer_scientist)), and collaborating with teams across Cloud and DeepMind. I contributed to [Gemma 3n](https://developers.googleblog.com/en/introducing-gemma-3n/), [gemma.cpp](https://github.com/google/gemma.cpp), and [LLVM](https://llvm.org/).
 
 I completed my Ph.D. at the University of Wisconsin-Madison in 2022, advised by [Andrea](http://pages.cs.wisc.edu/~dusseau/) and [Remzi](http://pages.cs.wisc.edu/~remzi/) Arpaci-Dusseau. I obtained my bachelor's degree from the University of Science and Technology of China (USTC) in 2016.
-
-
-## Research
-At Google, my research addressed two challenges for hyperscalers:
-- **Language Model Efficiency:** Optimizing serving systems by leveraging workload characteristics and model properties like activation sparsity
-- **Memory Management:** Improving fleet-wide memory efficiency through specialized memory tiering solutions
-
-I contributed to Google's open-source [gemma.cpp](https://github.com/google/gemma.cpp) serving project, and LLVM.
 
 ## Experience
 
@@ -45,6 +34,10 @@ I contributed to Google's open-source [gemma.cpp](https://github.com/google/gemm
 <b>Undergrad Research Assistant</b><br>Chinese University of Hong Kong<br>2016
 
 ## Publications
+<span style="color:rgb(64, 115, 158)"> Getting the MOST out of your Storage Hierarchy with Mirror-Optimized Storage Tiering </span> 
+<br> Kaiwei Tu, <ins>Kan Wu</ins>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
+<br><b style="color:rgb(64, 115, 158)">FAST'2026</b>: 24th USENIX Conference on File and Storage Technologies <a href="">[*to appear*]</a>
+
 <span style="color:rgb(64, 115, 158)"> PageFlex: Flexible and Efficient User-space Delegation of Linux Paging Policies with eBPF </span> 
 <br> Anil Yelam, <ins>Kan Wu</ins>\*(corresponding author), Zhiyuan Guo, Rajath Shashidhara, Stanko Novakovic, Suli Yang, Wei Xu, Alex C. Snoeren, Kimberly Keeton
 <br><b style="color:rgb(64, 115, 158)">ATC'2025</b>: 2025 USENIX Annual Technical Conference <a href="">[*to appear*]</a>
@@ -106,6 +99,7 @@ I contributed to Google's open-source [gemma.cpp](https://github.com/google/gemm
 <br><b style="color:rgb(64, 115, 158)">DaMoN, SIGMOD'2019</b>: ACM SIGMOD International Conference on Management of Data <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
 
 ## Service
+DIMES'25 PC <br>
 USENIX FAST'25 PC <br>
 USENIX ATC'25 PC <br>
 USENIX ATC'24 PC <br>

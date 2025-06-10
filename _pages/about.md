@@ -35,7 +35,7 @@ I completed my Ph.D. at the University of Wisconsin-Madison in 2022, advised by 
 
 ## Publications
 <span style="color:rgb(64, 115, 158)"> Spark Transformer: Reactivating Sparsity in FFN and Attention </span>
-<br> Chong You*, <ins>Kan Wu</ins>\*(co-first author), Zhipeng Jia*, Lin Chen*, Srinadh Bhojanapalli, Jiaxian Guo, Utku Evci, Jan Wassenberg, Praneeth Netrapalli, Jeremiah J. Willcock, Suvinay Subramanian, Felix Chern, Alek Andreev, Shreya Pathak, Felix Yu, Prateek Jain, David E. Culler, Henry M. Levy, Sanjiv Kumar
+<br> Chong You\*, <ins>Kan Wu</ins>\*(co-first author), Zhipeng Jia\*, Lin Chen\*, Srinadh Bhojanapalli, Jiaxian Guo, Utku Evci, Jan Wassenberg, Praneeth Netrapalli, Jeremiah J. Willcock, Suvinay Subramanian, Felix Chern, Alek Andreev, Shreya Pathak, Felix Yu, Prateek Jain, David E. Culler, Henry M. Levy, Sanjiv Kumar
 <br><b style="color:rgb(64, 115, 158)">ArXiv 2025</b>: [*Preprint*] <a href="https://arxiv.org/abs/2506.06644">
 
 <span style="color:rgb(64, 115, 158)"> Getting the MOST out of your Storage Hierarchy with Mirror-Optimized Storage Tiering </span> 

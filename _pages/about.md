@@ -34,6 +34,10 @@ I completed my Ph.D. at the University of Wisconsin-Madison in 2022, advised by 
 <b>Undergrad Research Assistant</b><br>Chinese University of Hong Kong<br>2016
 
 ## Publications
+<span style="color:rgb(64, 115, 158)"> Spark Transformer: Reactivating Sparsity in FFN and Attention </span>
+<br> Chong You*, <ins>Kan Wu</ins>\*(co-first author), Zhipeng Jia*, Lin Chen*, Srinadh Bhojanapalli, Jiaxian Guo, Utku Evci, Jan Wassenberg, Praneeth Netrapalli, Jeremiah J. Willcock, Suvinay Subramanian, Felix Chern, Alek Andreev, Shreya Pathak, Felix Yu, Prateek Jain, David E. Culler, Henry M. Levy, Sanjiv Kumar
+<br><b style="color:rgb(64, 115, 158)">arXiv</b>: arXiv:2506.06644 <a href="https://arxiv.org/abs/2506.06644">[*paper*]</a>
+
 <span style="color:rgb(64, 115, 158)"> Getting the MOST out of your Storage Hierarchy with Mirror-Optimized Storage Tiering </span> 
 <br> Kaiwei Tu, <ins>Kan Wu</ins>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
 <br><b style="color:rgb(64, 115, 158)">FAST'2026</b>: 24th USENIX Conference on File and Storage Technologies <a href="">[*to appear*]</a>
@@ -97,6 +101,10 @@ I completed my Ph.D. at the University of Wisconsin-Madison in 2022, advised by 
 <span style="color:rgb(64, 115, 158)"> Exploiting Intel Optane SSD for Microsoft SQL Server</span>
 <br><ins>Kan Wu</ins>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, Rathijit Sen, Kwanghyun Park
 <br><b style="color:rgb(64, 115, 158)">DaMoN, SIGMOD'2019</b>: ACM SIGMOD International Conference on Management of Data <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
+
+<span style="color:rgb(64, 115, 158)"> Spark Transformer: Reactivating Sparsity in FFN and Attention </span>
+<br> Chong You, <ins>Kan Wu</ins>, Zhipeng Jia, Lin Chen, Srinadh Bhojanapalli, Jiaxian Guo, Utku Evci, Jan Wassenberg, Praneeth Netrapalli, Jeremiah J. Willcock, Suvinay Subramanian, Felix Chern, Alek Andreev, Shreya Pathak, Felix Yu, Prateek Jain, David E. Culler, Henry M. Levy, Sanjiv Kumar
+<br><b style="color:rgb(64, 115, 158)">arXiv'2025</b>: arXiv:2506.06644 <a href="https://arxiv.org/abs/2506.06644">[*paper*]</a>
 
 ## Service
 DIMES'25 PC <br>

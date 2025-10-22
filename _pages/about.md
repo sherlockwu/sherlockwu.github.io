@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- ## Biography -->
 
-I'm a Member of Technical Staff at xAI. I work on Language Model serving. 
+I'm a Member of Technical Staff at xAI. I work on Language Model inference. 
 
 I'm interested in Machine Learning Systems, Caching, and Distributed Systems. I was a researcher at [SystemsResearch@Google](https://techsysinfra.google/research/). I worked on Language Model Serving and Memory Management. I worked with [David Culler](https://en.wikipedia.org/wiki/David_Culler) and [Hank Levy](https://en.wikipedia.org/wiki/Hank_Levy_(computer_scientist)), and collaborating with teams across Cloud and DeepMind. I contributed to [Gemma 3n](https://developers.googleblog.com/en/introducing-gemma-3n/), [gemma.cpp](https://github.com/google/gemma.cpp), and [LLVM](https://llvm.org/).
 
@@ -40,15 +40,15 @@ I completed my Ph.D. at the University of Wisconsin-Madison in 2022, advised by 
 
 <span style="color:rgb(64, 115, 158)"> Getting the MOST out of your Storage Hierarchy with Mirror-Optimized Storage Tiering </span> 
 <br> Kaiwei Tu, <ins>Kan Wu</ins>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
-<br><b style="color:rgb(64, 115, 158)">FAST'2026</b>: 24th USENIX Conference on File and Storage Technologies <a href="">[*to appear*]</a>
+<br><b style="color:rgb(64, 115, 158)">FAST'2026</b>: 24th USENIX Conference on File and Storage Technologies <a href="https://www.usenix.org/conf%C3%A9rence/fast26/presentation/tu">[*paper*]</a>
 
 <span style="color:rgb(64, 115, 158)"> PageFlex: Flexible and Efficient User-space Delegation of Linux Paging Policies with eBPF </span> 
 <br> Anil Yelam, <ins>Kan Wu</ins>\*(corresponding author), Zhiyuan Guo, Rajath Shashidhara, Stanko Novakovic, Suli Yang, Wei Xu, Alex C. Snoeren, Kimberly Keeton
-<br><b style="color:rgb(64, 115, 158)">ATC'2025</b>: 2025 USENIX Annual Technical Conference <a href="">[*to appear*]</a>
+<br><b style="color:rgb(64, 115, 158)">ATC'2025</b>: 2025 USENIX Annual Technical Conference <a href="https://www.usenix.org/conference/atc25/presentation/yelam">[*paper*]</a>
 
 <span style="color:rgb(64, 115, 158)"> FineMem: Breaking the Allocation Overhead vs. Memory Waste Dilemma in Fine-Grained Disaggregated Memory Management </span> 
 <br> Xiaoyang Wang, Yongkun Li, <ins>Kan Wu</ins>, Wenzhe Zhu, Yuqi Li, Yinlong Xu
-<br><b style="color:rgb(64, 115, 158)">OSDI'2025</b>: 19th USENIX Symposium on Operating Systems Design and Implementation <a href="">[*to appear*]</a>
+<br><b style="color:rgb(64, 115, 158)">OSDI'2025</b>: 19th USENIX Symposium on Operating Systems Design and Implementation <a href="https://www.usenix.org/system/files/osdi25-wang-xiaoyang.pdf">[*paper*]</a>
 
 <span style="color:rgb(64, 115, 158)"> SLAP: Segmented Reuse-Time-Label Based Admission Policy for Content Delivery Network Caching </span> 
 <br> Ke Liu, <ins>Kan Wu</ins>, Hua Wang, Ke Zhou, Peng Wang, Ji Zhang, Cong Li
@@ -109,10 +109,10 @@ DIMES'25 PC <br>
 USENIX FAST'25 PC <br>
 USENIX ATC'25 PC <br>
 USENIX ATC'24 PC <br>
-USENIX HotStorage'24 PC <br>
+USENIX HotStorage'24 PC, Local Chair <br>
 SOSP'24 Proceedings Chair <br>
 SOSP'23 Student Research Committee, Poster Committee <br>
-ACM TOS'2021, 2022, 2023, 2024 reviewer<br>
+ACM TOS'2021-2025 reviewer<br>
 VLDBJ'2023 reviewer <br>
 
 <!-- ## Invited / Conference Talks

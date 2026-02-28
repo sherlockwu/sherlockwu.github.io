@@ -83,7 +83,7 @@ author:
   name             : "Kan Wu"
   avatar           : "profile-3.jpg"
   bio              : "xAI" #"Your biography for the left-hand sidebar"
-  location         : "Bay Area, US"
+  location         :
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=p8gr3OEAAAAJ"

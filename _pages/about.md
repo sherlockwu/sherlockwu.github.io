@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 <!-- ## Biography -->
-I lead applied inference at xAI. My work spans several key areas:
+I lead applied inference at xAI. My work spans:
 
 - **Large-scale inference infra**: load balancing, service-level specialization, auto-scaling
 - **SGLang development**: reliability, tail performance, observability, constrained decoding, and priority-based scheduling/caching
 - **Speculative decoding**: training and inference optimizations
-- **Products**: major Grok model releases, Grokipedia, X Search, and batch API, etc
+- **Products**: Grok model releases, Grokipedia, X Search, and batch API, etc
 
 Before xAI, I was a researcher at [SystemsResearch@Google](https://techsysinfra.google/research/). My main contributions included [Gemma 3n](https://developers.googleblog.com/en/introducing-gemma-3n/) and Google data center memory tiering. 
 

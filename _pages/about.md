@@ -9,11 +9,18 @@ redirect_from:
 ---
 
 <!-- ## Biography -->
-Currently, I lead applied inference at xAI. My work covers large-scale inference infrastructure—load balancing, service-level specialization, and auto-scaling—and SGLang engine development for reliability, tail performance, observability, and priority-based scheduling/caching. I also work on speculative decoding training/inference and constrained decoding. I contribute to major Grok model releases and products including Grokipedia, X Search, and batch API.
+I lead applied inference at xAI. My work spans several key areas:
 
-Before xAI, I was a researcher at [SystemsResearch@Google](https://techsysinfra.google/research/). My main contributions included [Gemma 3n](https://developers.googleblog.com/en/introducing-gemma-3n/) and Google data center memory tiering. I worked on language model sparsity (attention and FFN), long context serving, and operating system memory management. I was fortunate to work with many amazing researchers: [David Culler](https://en.wikipedia.org/wiki/David_Culler), [Hank Levy](https://en.wikipedia.org/wiki/Hank_Levy_(computer_scientist)), [Kim Keeton](https://en.wikipedia.org/wiki/Kimberly_Keeton), [Arvind](https://sites.google.com/cs.washington.edu/arvind), Zhipeng, Chong, Amy, etc. I contributed to [gemma.cpp](https://github.com/google/gemma.cpp) and [LLVM](https://llvm.org/).
+- **Large-scale inference infrastructure**: load balancing, service-level specialization, and auto-scaling
+- **SGLang engine development**: reliability, tail performance, observability, constrained decoding, and priority-based scheduling/caching
+- **Speculative decoding**: training and inference optimizations
+- **Product contributions**: major Grok model releases and products including Grokipedia, X Search, and batch API
 
-I came from a general system infrastructure background. I completed my Ph.D. at the University of Wisconsin-Madison in 2022, advised by [Andrea](http://pages.cs.wisc.edu/~dusseau/) and [Remzi](http://pages.cs.wisc.edu/~remzi/) Arpaci-Dusseau, working on caching and storage. I obtained my bachelor's degree from the University of Science and Technology of China (USTC) in 2016.
+Before xAI, I was a researcher at [SystemsResearch@Google](https://techsysinfra.google/research/). My main contributions included [Gemma 3n](https://developers.googleblog.com/en/introducing-gemma-3n/) and Google data center memory tiering. 
+
+My research focused on language model sparsity, long context serving efficiency, and operating system memory management. I was fortunate to collaborate with many amazing researchers, including [David Culler](https://en.wikipedia.org/wiki/David_Culler), [Hank Levy](https://en.wikipedia.org/wiki/Hank_Levy_(computer_scientist)), [Kim Keeton](https://en.wikipedia.org/wiki/Kimberly_Keeton), and [Arvind](https://sites.google.com/cs.washington.edu/arvind). I also contributed to open source projects such as [gemma.cpp](https://github.com/google/gemma.cpp) and [LLVM](https://llvm.org/).
+
+I come from a general systems background. I completed my Ph.D. at the University of Wisconsin-Madison in 2022, where I worked on caching and storage with [Andrea](http://pages.cs.wisc.edu/~dusseau/) and [Remzi](http://pages.cs.wisc.edu/~remzi/) Arpaci-Dusseau. I obtained my bachelor's degree from the University of Science and Technology of China (USTC) in 2016.
 
 ## Experience
 

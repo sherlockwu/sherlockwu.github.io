@@ -16,7 +16,7 @@ I lead applied inference at xAI. My work spans:
 - **Speculative decoding**: training and inference optimizations
 - **Products**: Grok model releases, Grokipedia, X Search, and batch API, etc
 
-Before xAI, I was a researcher at [SystemsResearch@Google](https://techsysinfra.google/research/). My main contributions included [Gemma 3n](https://developers.googleblog.com/en/introducing-gemma-3n/) and Google data center memory tiering. 
+Before xAI, I was a researcher at [SystemsResearch@Google](https://techsysinfra.google/research/). My main contributions included [Gemma 3n](https://deepmind.google/models/gemma/gemma-3n/) and Google data center memory tiering. 
 
 My research focused on language model sparsity, long context serving efficiency, and operating system memory management. I was fortunate to collaborate with many amazing researchers, including [David Culler](https://en.wikipedia.org/wiki/David_Culler), [Hank Levy](https://en.wikipedia.org/wiki/Hank_Levy_(computer_scientist)), [Kim Keeton](https://en.wikipedia.org/wiki/Kimberly_Keeton), and [Arvind](https://sites.google.com/cs.washington.edu/arvind), etc. I also contributed to open source projects such as [gemma.cpp](https://github.com/google/gemma.cpp) and [LLVM](https://llvm.org/).
 

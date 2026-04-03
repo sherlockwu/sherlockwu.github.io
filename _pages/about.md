@@ -40,6 +40,14 @@ I come from a general systems background. I completed my Ph.D. at the University
 <b>Undergrad Research Assistant</b><br>Chinese University of Hong Kong<br>2016
 
 ## Publications
+<span style="color:rgb(64, 115, 158)"> MDK: rethinking the data center memory reclamation problem </span>
+<br> Shaurya Patel, Suli Yang, Yawen Wang, <ins>Kan Wu</ins>, Alexandra Fedorova, Margo Seltzer, Kimberly Keeton
+<br><b style="color:rgb(64, 115, 158)">OSDI'2026</b>: 17th USENIX Symposium on Operating Systems Design and Implementation
+
+<span style="color:rgb(64, 115, 158)"> Getting the MOST out of your Storage Hierarchy with Mirror-Optimized Storage Tiering </span>
+<br> Vinay Banakar, Suli Yang, <ins>Kan Wu</ins>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, Kimberly Keeton
+<br><b style="color:rgb(64, 115, 158)">OSDI'2026</b>: 17th USENIX Symposium on Operating Systems Design and Implementation
+
 <span style="color:rgb(64, 115, 158)"> Spark Transformer: Reactivating Sparsity in FFN and Attention </span>
 <br> Chong You\*, <ins>Kan Wu</ins>\*(co-first author), Zhipeng Jia\*, Lin Chen\*, Srinadh Bhojanapalli, Jiaxian Guo, Utku Evci, Jan Wassenberg, Praneeth Netrapalli, Jeremiah J. Willcock, Suvinay Subramanian, Felix Chern, Alek Andreev, Shreya Pathak, Felix Yu, Prateek Jain, David E. Culler, Henry M. Levy, Sanjiv Kumar
 <br><b style="color:rgb(64, 115, 158)">NeurIPS'2025</b>: Conference on Neural Information Processing Systems <a href="https://arxiv.org/abs/2506.06644"> [*paper*]  </a>

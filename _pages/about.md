@@ -224,6 +224,6 @@ I hold a Ph.D. in Computer Sciences from the University of Wisconsin-Madison (20
 ## Service
 <a id="service"></a>
 
-Program committee (USENIX unless noted): OSDI'26, MLSys'26, DIMES'25, FAST'25, ATC'25, ATC'24, HotStorage'24.
+Program committee: OSDI'26, MLSys'26, DIMES'25, FAST'25, ATC'25, ATC'24, HotStorage'24.
 
 Also: USENIX HotStorage'24 Local Chair, SOSP'24 Proceedings Chair, SOSP'23 Student Research Committee & Poster Committee, ACM TOS'21&ndash;26 reviewer, VLDBJ'23 reviewer.

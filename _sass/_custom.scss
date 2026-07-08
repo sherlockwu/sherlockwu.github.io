@@ -1,0 +1,139 @@
+/* ==========================================================================
+   Custom homepage styles (about.md)
+   ========================================================================== */
+
+.page__content {
+  h2 {
+    margin-top: 2em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid $border-color;
+  }
+}
+
+/* Experience timeline
+   ========================================================================== */
+
+.experience-list {
+  margin: 1.25em 0 2em;
+}
+
+.experience-item {
+  display: flex;
+  align-items: center;
+  gap: 1.25em;
+  padding: 0.9em 0;
+  border-bottom: 1px solid $border-color;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.experience-logo {
+  flex: 0 0 auto;
+  width: 56px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+}
+
+.experience-info {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.experience-role {
+  font-weight: bold;
+  color: $text-color;
+}
+
+.experience-org {
+  color: $primary-color;
+}
+
+.experience-dates {
+  float: right;
+  color: $light-gray;
+  font-size: 0.9em;
+  white-space: nowrap;
+}
+
+/* Publications
+   ========================================================================== */
+
+.pub-list {
+  margin: 1.25em 0 2em;
+  padding: 0;
+  list-style: none;
+}
+
+.pub-item {
+  padding: 0.9em 0;
+  border-bottom: 1px solid $border-color;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.pub-title {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 0.2em;
+}
+
+.pub-authors {
+  display: block;
+  color: $dark-gray;
+  margin-bottom: 0.2em;
+}
+
+.pub-badge {
+  display: inline-block;
+  background-color: mix(#fff, $warning-color, 85%);
+  color: mix(#000, $warning-color, 30%);
+  border-radius: 4px;
+  padding: 0.2em 0.7em;
+  font-size: 0.85em;
+  font-weight: bold;
+  margin-top: 0.3em;
+  text-decoration: none;
+
+  &:hover {
+    background-color: mix(#fff, $warning-color, 70%);
+    color: mix(#000, $warning-color, 30%);
+  }
+}
+
+.pub-venue {
+  display: inline-block;
+  background-color: mix(#fff, $info-color, 85%);
+  color: mix(#000, $info-color, 25%);
+  border-radius: 4px;
+  padding: 0.1em 0.5em;
+  font-size: 0.85em;
+  font-weight: bold;
+  margin-right: 0.5em;
+}
+
+.pub-links {
+  margin-top: 0.3em;
+}
+
+.pub-link {
+  font-size: 0.8em;
+  color: $light-gray;
+  margin-right: 0.75em;
+  text-decoration: underline;
+
+  &:hover {
+    color: $link-color;
+  }
+}

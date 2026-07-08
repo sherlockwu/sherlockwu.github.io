@@ -1,28 +1,14 @@
 # main links links
 main:
 
-  # - title: "Biography"
-  #   url: /biography/
-  # - title: "Publications"
-  #   url: "/publications/"
+  - title: "About"
+    url: "/#about"
 
-  # - title: "Experience"
-  #   url: "https://sherlockwu.github.io#experience"   
+  - title: "Experience"
+    url: "/#experience"
 
-  #- title: "Teaching"
-  #  url: "https://sherlockwu.github.io#teaching" 
+  - title: "Publications"
+    url: "/#publications"
 
-  # - title: "Education"
-  #   url: "education"   
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Service"
+    url: "/#service"

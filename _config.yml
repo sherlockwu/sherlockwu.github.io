@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kan Wu"
+title                    : "Kan Wu 吴衎"
 title_separator          : "-"
-name                     : &name "Kan Wu"
+name                     : &name "Kan Wu 吴衎"
 description              : &description "Systems Researcher"
 url                      : "https://sherlockwu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kan Wu"
+  name             : "Kan Wu 吴衎"
   avatar           : "profile-3.jpg"
-  bio              : "xAI" #"Your biography for the left-hand sidebar"
+  bio              : "SpaceXAI" #"Your biography for the left-hand sidebar"
   location         :
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -90,7 +90,7 @@ author:
   email            : "kanwu.wisc \"at\" gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://techsysinfra.google/research/"
-  cv               : "/files/cv-kanwu-0309.pdf"
+  cv               : "/files/cv-kanwu-0630.pdf"
   bitbucket        :
   codepen          :
   dribbble         :

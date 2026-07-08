@@ -1,3 +1,7 @@
 _site/
 
 .DS_Store
+
+# local bundler install (created by preview.sh, not needed in repo)
+vendor/
+.bundle/

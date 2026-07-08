@@ -8,137 +8,222 @@ redirect_from:
   - /about.html
 ---
 
-<!-- ## Biography -->
-I lead applied inference at xAI. My work spans:
+<a id="about"></a>
 
-- **Large-scale inference infra**: load balancing, service-level specialization, auto-scaling
-- **SGLang development**: reliability, tail performance, observability, constrained decoding, and priority-based scheduling/caching
-- **Speculative decoding**: training and inference optimizations
-- **Products**: Grok model releases, Grokipedia, X Search, and batch API, etc
+I'm a systems generalist interested in systems for AI.
 
-Before xAI, I was a researcher at [SystemsResearch@Google](https://techsysinfra.google/research/). My main contributions included [Gemma 3n](https://deepmind.google/models/gemma/gemma-3n/) and Google data center memory tiering. 
+I work at [SpaceXAI](https://x.ai/) (formerly xAI), where I'm part of [Inference](https://grok.com/) and [Grok Imagine](https://grok.com/imagine). I also led Applied Inference, responsible for large-scale inference infrastructure. My work spans:
 
-My research focused on language model sparsity, long context serving efficiency, and operating system memory management. I was fortunate to collaborate with many amazing researchers, including [David Culler](https://en.wikipedia.org/wiki/David_Culler), [Hank Levy](https://en.wikipedia.org/wiki/Hank_Levy_(computer_scientist)), [Kim Keeton](https://en.wikipedia.org/wiki/Kimberly_Keeton), [Arvind Krishnamurthy](https://sites.google.com/cs.washington.edu/arvind), etc. I also contributed to open source projects such as [gemma.cpp](https://github.com/google/gemma.cpp) and [LLVM](https://llvm.org/).
+- **Training**: Grok Imagine upsampler — SFT, RL, and data
+- **Training for inference efficiency**: Grok speculative decoding
+- **Inference**: SGLang, scheduling, constrained decoding, load balancing, auto-scaling, and various products (API, search models, Grokipedia)
 
-I come from a general systems background. I completed my Ph.D. at the University of Wisconsin-Madison in 2022, where I worked on caching and storage with [Andrea](http://pages.cs.wisc.edu/~dusseau/) and [Remzi](http://pages.cs.wisc.edu/~remzi/) Arpaci-Dusseau. I obtained my bachelor's degree from the University of Science and Technology of China (USTC) in 2016.
+Before xAI, I was a researcher at [SystemsResearch@Google](https://techsysinfra.google/research/), working on language model sparsity, long-context serving, and memory tiering — contributions include [Gemma 3n](https://deepmind.google/models/gemma/gemma-3n/) and Google's data center memory tiering systems.
+
+I hold a Ph.D. in Computer Sciences from the University of Wisconsin-Madison (2022, advised by Andrea and Remzi Arpaci-Dusseau) and a B.S. from USTC (2016). I'm also an open source contributor to [SGLang](https://github.com/sgl-project/sglang), [xgrammar](https://github.com/mlc-ai/xgrammar), and [LLVM](https://llvm.org/).
 
 ## Experience
+<a id="experience"></a>
 
-<br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/xai-logo.png" width="80px" >
-<b>Member of Technical Staff</b><br>xAI<br>2025.5 - Now
+<div class="experience-list">
 
-<br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/google-logo.png" width="80px" >
-<b>Senior Software Engineer</b><br>SystemsResearch@Google<br>2022.9 - 2025.5
+<div class="experience-item">
+  <div class="experience-logo"><img src="images/logo/xai-logo.png" alt="xAI logo"></div>
+  <div class="experience-info">
+    <span class="experience-dates">2025.5 &ndash; Now</span>
+    <span class="experience-role">Member of Technical Staff</span><br>
+    <span class="experience-org">SpaceXAI (formerly xAI)</span>
+  </div>
+</div>
 
-<br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/ms-logo.png" width="80px" >
-<b>Affiliate Research Assistant</b><br>Microsoft Gray System Lab<br>2018 - 2021
+<div class="experience-item">
+  <div class="experience-logo"><img src="images/logo/google-logo.png" alt="Google logo"></div>
+  <div class="experience-info">
+    <span class="experience-dates">2022.9 &ndash; 2025.5</span>
+    <span class="experience-role">Senior Software Engineer</span><br>
+    <span class="experience-org">SystemsResearch@Google</span>
+  </div>
+</div>
 
-<br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/vw-logo.png" width="80px" >
-<b>Software Engineering Intern</b><br>VMware<br>2019 Summer
+<div class="experience-item">
+  <div class="experience-logo"><img src="images/logo/ms-logo.png" alt="Microsoft logo"></div>
+  <div class="experience-info">
+    <span class="experience-dates">2018 &ndash; 2021</span>
+    <span class="experience-role">Affiliate Research Assistant</span><br>
+    <span class="experience-org">Microsoft Gray System Lab</span>
+  </div>
+</div>
 
-<br><img style="float: left; box-shadow: 4px 4px 8px #888; margin-right: 15px;" src="images/logo/cuhk-logo.png" width="80px" >
-<b>Undergrad Research Assistant</b><br>Chinese University of Hong Kong<br>2016
+<div class="experience-item">
+  <div class="experience-logo"><img src="images/logo/vw-logo.png" alt="VMware logo"></div>
+  <div class="experience-info">
+    <span class="experience-dates">2019 Summer</span>
+    <span class="experience-role">Software Engineering Intern</span><br>
+    <span class="experience-org">VMware</span>
+  </div>
+</div>
+
+<div class="experience-item">
+  <div class="experience-logo"><img src="images/logo/cuhk-logo.png" alt="CUHK logo"></div>
+  <div class="experience-info">
+    <span class="experience-dates">2016</span>
+    <span class="experience-role">Undergrad Research Assistant</span><br>
+    <span class="experience-org">Chinese University of Hong Kong</span>
+  </div>
+</div>
+
+</div>
 
 ## Publications
-<span style="color:rgb(64, 115, 158)"> MDK: rethinking the data center memory reclamation problem </span>
-<br> Shaurya Patel, Suli Yang, Yawen Wang, <ins>Kan Wu</ins>, Alexandra Fedorova, Margo Seltzer, Kimberly Keeton
-<br><b style="color:rgb(64, 115, 158)">OSDI'2026</b>: 17th USENIX Symposium on Operating Systems Design and Implementation
+<a id="publications"></a>
 
-<span style="color:rgb(64, 115, 158)"> Getting the MOST out of your Storage Hierarchy with Mirror-Optimized Storage Tiering </span>
-<br> Vinay Banakar, Suli Yang, <ins>Kan Wu</ins>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, Kimberly Keeton
-<br><b style="color:rgb(64, 115, 158)">OSDI'2026</b>: 17th USENIX Symposium on Operating Systems Design and Implementation
+<ul class="pub-list">
 
-<span style="color:rgb(64, 115, 158)"> Spark Transformer: Reactivating Sparsity in FFN and Attention </span>
-<br> Chong You\*, <ins>Kan Wu</ins>\*(co-first author), Zhipeng Jia\*, Lin Chen\*, Srinadh Bhojanapalli, Jiaxian Guo, Utku Evci, Jan Wassenberg, Praneeth Netrapalli, Jeremiah J. Willcock, Suvinay Subramanian, Felix Chern, Alek Andreev, Shreya Pathak, Felix Yu, Prateek Jain, David E. Culler, Henry M. Levy, Sanjiv Kumar
-<br><b style="color:rgb(64, 115, 158)">NeurIPS'2025</b>: Conference on Neural Information Processing Systems <a href="https://arxiv.org/abs/2506.06644"> [*paper*]  </a>
+<li class="pub-item">
+  <span class="pub-title">MDK: rethinking the data center memory reclamation problem</span>
+  <span class="pub-authors">Shaurya Patel, Suli Yang, Yawen Wang, <ins>Kan Wu</ins>, Alexandra Fedorova, Margo Seltzer, Kimberly Keeton</span>
+  <span class="pub-venue">OSDI 2026</span>17th USENIX Symposium on Operating Systems Design and Implementation
+  <div class="pub-links"><a class="pub-link" href="https://www.usenix.org/conference/osdi26/presentation/patel">paper</a></div>
+</li>
 
-<span style="color:rgb(64, 115, 158)"> Getting the MOST out of your Storage Hierarchy with Mirror-Optimized Storage Tiering </span> 
-<br> Kaiwei Tu, <ins>Kan Wu</ins>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
-<br><b style="color:rgb(64, 115, 158)">FAST'2026</b>: 24th USENIX Conference on File and Storage Technologies <a href="https://www.usenix.org/conf%C3%A9rence/fast26/presentation/tu">[*paper*]</a>
+<li class="pub-item">
+  <span class="pub-title">OBASE: Object-Based Address-Space Engineering to Improve Memory Tiering</span>
+  <span class="pub-authors">Vinay Banakar, Suli Yang, <ins>Kan Wu</ins>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, Kimberly Keeton</span>
+  <span class="pub-venue">OSDI 2026</span>17th USENIX Symposium on Operating Systems Design and Implementation
+  <div class="pub-links"><a class="pub-link" href="https://www.usenix.org/conference/osdi26/presentation/banakar">paper</a></div>
+</li>
 
-<span style="color:rgb(64, 115, 158)"> PageFlex: Flexible and Efficient User-space Delegation of Linux Paging Policies with eBPF </span> 
-<br> Anil Yelam, <ins>Kan Wu</ins>\*(corresponding author), Zhiyuan Guo, Rajath Shashidhara, Stanko Novakovic, Suli Yang, Wei Xu, Alex C. Snoeren, Kimberly Keeton
-<br><b style="color:rgb(64, 115, 158)">ATC'2025</b>: 2025 USENIX Annual Technical Conference <a href="https://www.usenix.org/conference/atc25/presentation/yelam">[*paper*]</a>
+<li class="pub-item">
+  <span class="pub-title">Spark Transformer: Reactivating Sparsity in FFN and Attention</span>
+  <span class="pub-authors">Chong You*, <ins>Kan Wu</ins>*(co-first author), Zhipeng Jia*, Lin Chen*, Srinadh Bhojanapalli, Jiaxian Guo, Utku Evci, Jan Wassenberg, Praneeth Netrapalli, Jeremiah J. Willcock, Suvinay Subramanian, Felix Chern, Alek Andreev, Shreya Pathak, Felix Yu, Prateek Jain, David E. Culler, Henry M. Levy, Sanjiv Kumar</span>
+  <span class="pub-venue">NeurIPS 2025</span>Conference on Neural Information Processing Systems
+  <div><a class="pub-badge" href="https://deepmind.google/models/gemma/gemma-3n/">Shipped in Gemma 3n</a></div>
+  <div class="pub-links"><a class="pub-link" href="https://arxiv.org/abs/2506.06644">paper</a></div>
+</li>
 
-<span style="color:rgb(64, 115, 158)"> FineMem: Breaking the Allocation Overhead vs. Memory Waste Dilemma in Fine-Grained Disaggregated Memory Management </span> 
-<br> Xiaoyang Wang, Yongkun Li, <ins>Kan Wu</ins>, Wenzhe Zhu, Yuqi Li, Yinlong Xu
-<br><b style="color:rgb(64, 115, 158)">OSDI'2025</b>: 19th USENIX Symposium on Operating Systems Design and Implementation <a href="https://www.usenix.org/system/files/osdi25-wang-xiaoyang.pdf">[*paper*]</a>
+<li class="pub-item">
+  <span class="pub-title">Getting the MOST out of your Storage Hierarchy with Mirror-Optimized Storage Tiering</span>
+  <span class="pub-authors">Kaiwei Tu, <ins>Kan Wu</ins>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau</span>
+  <span class="pub-venue">FAST 2026</span>24th USENIX Conference on File and Storage Technologies
+  <div class="pub-links"><a class="pub-link" href="https://www.usenix.org/conference/fast26/presentation/tu">paper</a></div>
+</li>
 
-<span style="color:rgb(64, 115, 158)"> SLAP: Segmented Reuse-Time-Label Based Admission Policy for Content Delivery Network Caching </span> 
-<br> Ke Liu, <ins>Kan Wu</ins>, Hua Wang, Ke Zhou, Peng Wang, Ji Zhang, Cong Li
-<br><b style="color:rgb(64, 115, 158)">TACO'2024</b>: ACM Transactions on Architecture and Code Optimization <a href="https://dl.acm.org/doi/pdf/10.1145/3646550">[*paper*]</a>
+<li class="pub-item">
+  <span class="pub-title">PageFlex: Flexible and Efficient User-space Delegation of Linux Paging Policies with eBPF</span>
+  <span class="pub-authors">Anil Yelam, <ins>Kan Wu</ins>*(corresponding author), Zhiyuan Guo, Rajath Shashidhara, Stanko Novakovic, Suli Yang, Wei Xu, Alex C. Snoeren, Kimberly Keeton</span>
+  <span class="pub-venue">ATC 2025</span>2025 USENIX Annual Technical Conference
+  <div class="pub-links"><a class="pub-link" href="https://www.usenix.org/conference/atc25/presentation/yelam">paper</a></div>
+</li>
 
-<span style="color:rgb(64, 115, 158)"> Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling </span> 
-<br> <ins>Kan Wu</ins>\*(co-first author), Zeying Zhu\*, Zaoxing Liu 
-<br><b style="color:rgb(64, 115, 158)">NSDI'2023</b>: 20th USENIX Symposium on Networked Systems Design and Implementation <a href="https://www.usenix.org/system/files/nsdi23-zhu.pdf">[*paper*]</a> 
+<li class="pub-item">
+  <span class="pub-title">FineMem: Breaking the Allocation Overhead vs. Memory Waste Dilemma in Fine-Grained Disaggregated Memory Management</span>
+  <span class="pub-authors">Xiaoyang Wang, Yongkun Li, <ins>Kan Wu</ins>, Wenzhe Zhu, Yuqi Li, Yinlong Xu</span>
+  <span class="pub-venue">OSDI 2025</span>19th USENIX Symposium on Operating Systems Design and Implementation
+  <div class="pub-links"><a class="pub-link" href="https://www.usenix.org/system/files/osdi25-wang-xiaoyang.pdf">paper</a></div>
+</li>
 
-<span style="color:rgb(64, 115, 158)"> SLAP: An Adaptive, Learned Admission Policy for Content Delivery Network Caching</span> 
-<br> Ke Liu, <ins>Kan Wu</ins>, Hua Wang, Ke Zhou, Ji Zhang, Cong Li
-<br><b style="color:rgb(64, 115, 158)">IPDPS'2023</b>: 37th International Parallel and Distributed Processing Symposium <a href="https://ieeexplore.ieee.org/abstract/document/10177483">[*paper*]</a>
+<li class="pub-item">
+  <span class="pub-title">SLAP: Segmented Reuse-Time-Label Based Admission Policy for Content Delivery Network Caching</span>
+  <span class="pub-authors">Ke Liu, <ins>Kan Wu</ins>, Hua Wang, Ke Zhou, Peng Wang, Ji Zhang, Cong Li</span>
+  <span class="pub-venue">TACO 2024</span>ACM Transactions on Architecture and Code Optimization
+  <div class="pub-links"><a class="pub-link" href="https://dl.acm.org/doi/pdf/10.1145/3646550">paper</a></div>
+</li>
 
-<span style="color:rgb(64, 115, 158)"> WiscSort: External Sorting for Byte Addressable Storage </span>
-<br> Vinay Banakar, <ins>Kan Wu</ins>, Yuvraj Patel, Kimberly Keeton, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
-<br><b style="color:rgb(64, 115, 158)">VLDB'2023</b>: 49th International Conference on Very Large Data Bases <a href="https://www.vldb.org/pvldb/vol16/p2103-banakar.pdf">[*paper*]</a>
+<li class="pub-item">
+  <span class="pub-title">Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling</span>
+  <span class="pub-authors"><ins>Kan Wu</ins>*(co-first author), Zeying Zhu*, Zaoxing Liu</span>
+  <span class="pub-venue">NSDI 2023</span>20th USENIX Symposium on Networked Systems Design and Implementation
+  <div class="pub-links"><a class="pub-link" href="https://www.usenix.org/system/files/nsdi23-zhu.pdf">paper</a></div>
+</li>
 
-<!-- <span style="color:rgb(64, 115, 158)"> Evolving System Stack for Persistent Memory: Device Characterization, Caching, and Sharing Perspectives</span>
-<br> <ins>Kan Wu</ins>
-<br><b style="color:rgb(64, 115, 158)">Ph.D. Thesis </b>: University of Wisconsin-Madison <a href="https://sherlockwu.github.io/files/kan_thesis_final_draft.pdf">[*paper*]</a>  -->
+<li class="pub-item">
+  <span class="pub-title">SLAP: An Adaptive, Learned Admission Policy for Content Delivery Network Caching</span>
+  <span class="pub-authors">Ke Liu, <ins>Kan Wu</ins>, Hua Wang, Ke Zhou, Ji Zhang, Cong Li</span>
+  <span class="pub-venue">IPDPS 2023</span>37th International Parallel and Distributed Processing Symposium
+  <div class="pub-links"><a class="pub-link" href="https://ieeexplore.ieee.org/abstract/document/10177483">paper</a></div>
+</li>
 
-<span style="color:rgb(64, 115, 158)"> NyxCache: Flexible and Efficient Multi-tenant Persistent-Memory Caching  </span> 
-<br> <ins>Kan Wu</ins>, Kaiwei Tu, Yuvraj Patel, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau 
-<br><b style="color:rgb(64, 115, 158)">FAST'2022</b>: 20th USENIX Conference on File and Storage Technologies <a href="https://www.usenix.org/system/files/fast22-wu.pdf">[*paper*]</a> <a href="https://www.usenix.org/system/files/fast22_slides_wu.pdf">[*slides*]</a> <a href="https://www.usenix.org/conference/fast22/presentation/wu">[*video*]</a>
+<li class="pub-item">
+  <span class="pub-title">WiscSort: External Sorting for Byte Addressable Storage</span>
+  <span class="pub-authors">Vinay Banakar, <ins>Kan Wu</ins>, Yuvraj Patel, Kimberly Keeton, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau</span>
+  <span class="pub-venue">VLDB 2023</span>49th International Conference on Very Large Data Bases
+  <div class="pub-links"><a class="pub-link" href="https://www.vldb.org/pvldb/vol16/p2103-banakar.pdf">paper</a></div>
+</li>
 
-<span style="color:rgb(64, 115, 158)"> Cornus: Atomic Commit for Cloud DBMS with Storage Disaggregation </span> 
-<br> Zhihan Guo, Xinyu Zeng, <ins>Kan Wu</ins>, Wuh-Chwen Hwang, Ziwei Ren, Xiangyao Yu, Mahesh Balakrishnan, Philip A. Bernstein 
-<br><b style="color:rgb(64, 115, 158)">VLDB'2022</b>: 48th International Conference on Very Large Data Bases <a href="https://arxiv.org/pdf/2102.10185.pdf">[*paper*]</a> 
+<li class="pub-item">
+  <span class="pub-title">NyxCache: Flexible and Efficient Multi-tenant Persistent-Memory Caching</span>
+  <span class="pub-authors"><ins>Kan Wu</ins>, Kaiwei Tu, Yuvraj Patel, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau</span>
+  <span class="pub-venue">FAST 2022</span>20th USENIX Conference on File and Storage Technologies
+  <div class="pub-links">
+    <a class="pub-link" href="https://www.usenix.org/system/files/fast22-wu.pdf">paper</a>
+    <a class="pub-link" href="https://www.usenix.org/system/files/fast22_slides_wu.pdf">slides</a>
+    <a class="pub-link" href="https://www.usenix.org/conference/fast22/presentation/wu">video</a>
+  </div>
+</li>
 
-<span style="color:rgb(64, 115, 158)"> The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</span>
-<br><ins>Kan Wu</ins>, Zhihan Guo, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau 
-<br><b style="color:rgb(64, 115, 158)">FAST'2021</b>: 19th USENIX Conference on File and Storage Technologies <a href="https://www.usenix.org/system/files/fast21-wu-kan.pdf">[*paper*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-slides.pdf">[*slides*]</a> <a href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-video.mp4">[*video*]</a> <a href="https://github.com/josehu07/open-cas-linux-mf">[*code*]</a>
+<li class="pub-item">
+  <span class="pub-title">Cornus: Atomic Commit for Cloud DBMS with Storage Disaggregation</span>
+  <span class="pub-authors">Zhihan Guo, Xinyu Zeng, <ins>Kan Wu</ins>, Wuh-Chwen Hwang, Ziwei Ren, Xiangyao Yu, Mahesh Balakrishnan, Philip A. Bernstein</span>
+  <span class="pub-venue">VLDB 2022</span>48th International Conference on Very Large Data Bases
+  <div class="pub-links"><a class="pub-link" href="https://arxiv.org/pdf/2102.10185.pdf">paper</a></div>
+</li>
 
-<span style="color:rgb(64, 115, 158)"> The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</span>
-<br><ins>Kan Wu</ins> et al. 
-<br><b style="color:rgb(64, 115, 158)">NVMW'2021</b>: 12th Non-Volatile Memories Workshop <a href="https://research.cs.wisc.edu/adsl/Publications/nvmw21-kan.pdf">[*paper*]</a> 
+<li class="pub-item">
+  <span class="pub-title">The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</span>
+  <span class="pub-authors"><ins>Kan Wu</ins>, Zhihan Guo, Guanzhou Hu, Kaiwei Tu, Ramnatthan Alagappan, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau</span>
+  <span class="pub-venue">FAST 2021</span>19th USENIX Conference on File and Storage Technologies
+  <div class="pub-links">
+    <a class="pub-link" href="https://www.usenix.org/system/files/fast21-wu-kan.pdf">paper</a>
+    <a class="pub-link" href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-slides.pdf">slides</a>
+    <a class="pub-link" href="https://research.cs.wisc.edu/adsl/Publications/fast21-kan-video.mp4">video</a>
+    <a class="pub-link" href="https://github.com/josehu07/open-cas-linux-mf">code</a>
+  </div>
+</li>
 
-<span style="color:rgb(64, 115, 158)"> Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</span>
-<br> Zhihan Guo, <ins>Kan Wu</ins>, Cong Yan, Xiangyao Yu 
-<br><b style="color:rgb(64, 115, 158)">SIGMOD'2021</b>: ACM SIGMOD International Conference on Management of Data <a href="https://scarletguo.github.io/files/rdm447-guoA.pdf">[*paper*]</a>
+<li class="pub-item">
+  <span class="pub-title">The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</span>
+  <span class="pub-authors"><ins>Kan Wu</ins> et al.</span>
+  <span class="pub-venue">NVMW 2021</span>12th Non-Volatile Memories Workshop
+  <div class="pub-links"><a class="pub-link" href="https://research.cs.wisc.edu/adsl/Publications/nvmw21-kan.pdf">paper</a></div>
+</li>
 
-<span style="color:rgb(64, 115, 158)"> Read as Needed: Building WiSER, a Flash-Optimized Search Engine</span>
-<br>Jun He, <ins>Kan Wu</ins>, Sudarsun Kannan, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
-<br><b style="color:rgb(64, 115, 158)">FAST'2020</b>: 18th USENIX Conference on File and Storage Technologies <a href="https://www.usenix.org/system/files/fast20-he.pdf">[*paper*]</a> 
+<li class="pub-item">
+  <span class="pub-title">Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</span>
+  <span class="pub-authors">Zhihan Guo, <ins>Kan Wu</ins>, Cong Yan, Xiangyao Yu</span>
+  <span class="pub-venue">SIGMOD 2021</span>ACM SIGMOD International Conference on Management of Data
+  <div class="pub-links"><a class="pub-link" href="https://scarletguo.github.io/files/rdm447-guoA.pdf">paper</a></div>
+</li>
 
-<span style="color:rgb(64, 115, 158)"> Towards an Unwritten Contract of Intel Optane SSD </span>
-<br><ins>Kan Wu</ins>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
-<br><b style="color:rgb(64, 115, 158)">HotStorage'2019</b>: 11th USENIX Workshop on Hot Topics in Storage and File Systems <a href="https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf">[*paper*]</a> <a href="https://www.usenix.org/sites/default/files/conference/protected-files/hotstorage19_slides-wu.pdf">[*slides*]</a> <a href="https://github.com/sherlockwu/OptaneBench">[*code*]</a>
+<li class="pub-item">
+  <span class="pub-title">Read as Needed: Building WiSER, a Flash-Optimized Search Engine</span>
+  <span class="pub-authors">Jun He, <ins>Kan Wu</ins>, Sudarsun Kannan, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau</span>
+  <span class="pub-venue">FAST 2020</span>18th USENIX Conference on File and Storage Technologies
+  <div class="pub-links"><a class="pub-link" href="https://www.usenix.org/system/files/fast20-he.pdf">paper</a></div>
+</li>
 
-<span style="color:rgb(64, 115, 158)"> Exploiting Intel Optane SSD for Microsoft SQL Server</span>
-<br><ins>Kan Wu</ins>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, Rathijit Sen, Kwanghyun Park
-<br><b style="color:rgb(64, 115, 158)">DaMoN, SIGMOD'2019</b>: ACM SIGMOD International Conference on Management of Data <a href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">[*paper*]</a> 
+<li class="pub-item">
+  <span class="pub-title">Towards an Unwritten Contract of Intel Optane SSD</span>
+  <span class="pub-authors"><ins>Kan Wu</ins>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau</span>
+  <span class="pub-venue">HotStorage 2019</span>11th USENIX Workshop on Hot Topics in Storage and File Systems
+  <div class="pub-links">
+    <a class="pub-link" href="https://research.cs.wisc.edu/adsl/Publications/hotstorage-contract19.pdf">paper</a>
+    <a class="pub-link" href="https://www.usenix.org/sites/default/files/conference/protected-files/hotstorage19_slides-wu.pdf">slides</a>
+    <a class="pub-link" href="https://github.com/sherlockwu/OptaneBench">code</a>
+  </div>
+</li>
+
+<li class="pub-item">
+  <span class="pub-title">Exploiting Intel Optane SSD for Microsoft SQL Server</span>
+  <span class="pub-authors"><ins>Kan Wu</ins>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, Rathijit Sen, Kwanghyun Park</span>
+  <span class="pub-venue">DaMoN, SIGMOD 2019</span>ACM SIGMOD International Conference on Management of Data
+  <div class="pub-links"><a class="pub-link" href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">paper</a></div>
+</li>
+
+</ul>
 
 ## Service
-USENIX OSDI'26 PC <br>
-MLSys'26 PC <br>
-DIMES'25 PC <br>
-USENIX FAST'25 PC <br>
-USENIX ATC'25 PC <br>
-USENIX ATC'24 PC <br>
-USENIX HotStorage'24 PC, Local Chair <br>
-SOSP'24 Proceedings Chair <br>
-SOSP'23 Student Research Committee, Poster Committee <br>
-ACM TOS'2021-2025 reviewer<br>
-VLDBJ'2023 reviewer <br>
+<a id="service"></a>
 
-<!-- ## Invited / Conference Talks
-Reflecting on PMEM, The Start of Modern Memory Hierarchies Research @ USTC 2023 <br>
-Towards Auto Cache Tuning For HTAP Systems @ HTAP Summit 2022 <br>
-Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google SRG 2022 <br>
-Evolving System Stack for PMEM - Caching, Sharing Perspectives @ Google Madison 2022 <br>
-Evolving System Stack for PMEM - Caching, Sharing Perspectives @ VMware Research 2022 <br>
-Evolving System Stack for PMEM - Caching, Sharing Perspectives @ CMU PDL 2022 <br>
-Multi-tenant Persistent Memory Caching @ FAST 2022 <br>
-Caching for Modern Storage Hierarchies @ ChinaSys 2021  <br>
-Caching for Modern Storage Hierarchies @ Microsoft Gray System Lab 2021 <br> 
-Optimizing Caching on Modern Storage Devices with Orthus @ FAST 2021  <br>
-Unwritten Contract of Optane SSD @ HotStorage 2019  <br>
-Optane SSD Caching for Microsoft SQL Server @ DaMoN 2019 <br> -->
+Program committee (USENIX unless noted): OSDI'26, MLSys'26, DIMES'25, FAST'25, ATC'25, ATC'24, HotStorage'24.
+
+Also: USENIX HotStorage'24 Local Chair, SOSP'24 Proceedings Chair, SOSP'23 Student Research Committee & Poster Committee, ACM TOS'21&ndash;26 reviewer, VLDBJ'23 reviewer.

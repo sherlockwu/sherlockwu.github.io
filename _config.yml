@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kan Wu 吴衎"
 title_separator          : "-"
 name                     : &name "Kan Wu 吴衎"
-description              : &description "Systems Researcher"
+description              : &description "Kan Wu (吴衎) — systems researcher at SpaceXAI working on applied inference, ML systems, and speculative decoding. Formerly SystemsResearch@Google. Ph.D., University of Wisconsin-Madison."
 url                      : "https://sherlockwu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sherlockwu/sherlockwu.github.io"
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "rX4Uu-oTsqn1XelR32fdaITQoJohJOHfX5WgBmyLpVw"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -66,9 +66,13 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person
+  name                   : "Kan Wu 吴衎"
   links: # An array of links to social media profiles
+    - "https://www.linkedin.com/in/kan-wu-001118b9"
+    - "https://twitter.com/flyflyf04862062"
+    - "https://scholar.google.com/citations?user=p8gr3OEAAAAJ"
+    - "https://github.com/sherlockwu"
 
 
 # Analytics

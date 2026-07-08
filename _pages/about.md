@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "Kan Wu (吴衎) is a systems researcher at SpaceXAI, working on applied inference, ML systems, and speculative decoding. Formerly SystemsResearch@Google. Ph.D., University of Wisconsin-Madison."
 author_profile: true
 redirect_from: 
   - /about/

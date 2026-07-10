@@ -221,3 +221,8 @@ I hold a Ph.D. in Computer Sciences from the University of Wisconsin-Madison (20
 Program committee: OSDI'26, MLSys'26, DIMES'25, FAST'25, ATC'25, ATC'24, HotStorage'24.
 
 Also: USENIX HotStorage'24 Local Chair, SOSP'24 Proceedings Chair, SOSP'23 Student Research Committee & Poster Committee, ACM TOS'21&ndash;26 reviewer, VLDBJ'23 reviewer.
+
+## Mentoring
+<a id="mentoring"></a>
+
+I've had the pleasure of mentoring and collaborating with several talented students: Vinay Banakar (University of Wisconsin-Madison), Anil Yelam (UC San Diego), Zhiyuan Guo (UC San Diego), Shaurya Patel (University of British Columbia), and Yixin Dong (Carnegie Mellon University).

@@ -18,4 +18,7 @@
   </ul>
 </div> -->
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>.</div>
+<div class="page__footer-copyright">
+  <span class="page__footer-copyright-name">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}</span>
+  <span class="page__footer-copyright-powered">{{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a></span>
+</div>

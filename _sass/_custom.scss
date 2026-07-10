@@ -10,6 +10,25 @@
   }
 }
 
+/* Footer
+   ========================================================================== */
+
+.page__footer-copyright {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3em;
+}
+
+.page__footer-copyright-name {
+  font-weight: bold;
+}
+
+.page__footer-copyright-powered {
+  color: $light-gray;
+  font-size: 0.9em;
+}
+
 /* Experience timeline
    ========================================================================== */
 

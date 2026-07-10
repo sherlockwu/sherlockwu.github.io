@@ -20,7 +20,7 @@ I work at [SpaceXAI](https://x.ai/) (formerly xAI), where I'm part of [Inference
 
 Before xAI, I was a researcher at [SystemsResearch@Google](https://techsysinfra.google/research/), working on language model sparsity, long-context serving, and memory tiering — contributions include [Gemma 3n](https://deepmind.google/models/gemma/gemma-3n/) and Google's data center memory tiering systems. I was fortunate to work with [David Culler](https://en.wikipedia.org/wiki/David_Culler), [Hank Levy](https://en.wikipedia.org/wiki/Hank_Levy_(computer_scientist)), [Kim Keeton](https://en.wikipedia.org/wiki/Kimberly_Keeton), and [Arvind Krishnamurthy](https://sites.google.com/cs.washington.edu/arvind).
 
-I hold a Ph.D. in Computer Sciences from the University of Wisconsin-Madison (2022, advised by [Andrea](http://pages.cs.wisc.edu/~dusseau/) and [Remzi](http://pages.cs.wisc.edu/~remzi/) Arpaci-Dusseau) and a B.S. from USTC (2016). I'm also an open source contributor to [SGLang](https://github.com/sgl-project/sglang), [xgrammar](https://github.com/mlc-ai/xgrammar), and [LLVM](https://llvm.org/).
+I hold a Ph.D. in Computer Sciences from the University of Wisconsin-Madison (2022, advised by [Andrea](http://pages.cs.wisc.edu/~dusseau/) and [Remzi](http://pages.cs.wisc.edu/~remzi/) Arpaci-Dusseau) and a B.S. from USTC (2016). I'm also an open source contributor to [SGLang](https://github.com/sgl-project/sglang), [xgrammar](https://github.com/mlc-ai/xgrammar), [gemma.cpp](https://github.com/google/gemma.cpp), and [LLVM](https://llvm.org/).
 
 ## Experience
 <a id="experience"></a>

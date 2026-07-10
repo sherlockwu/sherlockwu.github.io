@@ -10,7 +10,7 @@ redirect_from:
 
 <a id="about"></a>
 
-I'm a systems generalist interested in systems for AI.
+I'm a systems generalist interested in systems for AI, with experience across inference, training, and operating systems.
 
 I work at [SpaceXAI](https://x.ai/) (formerly xAI), where I'm part of [Inference](https://grok.com/) and [Grok Imagine](https://grok.com/imagine). I also led Applied Inference, responsible for large-scale inference infrastructure. My work spans:
 
@@ -94,18 +94,18 @@ I hold a Ph.D. in Computer Sciences from the University of Wisconsin-Madison (20
 </li>
 
 <li class="pub-item">
+  <span class="pub-title">Getting the MOST out of your Storage Hierarchy with Mirror-Optimized Storage Tiering</span>
+  <span class="pub-authors">Kaiwei Tu, <ins>Kan Wu</ins>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau</span>
+  <span class="pub-venue">FAST 2026</span>24th USENIX Conference on File and Storage Technologies
+  <div class="pub-links"><a class="pub-link" href="https://www.usenix.org/conference/fast26/presentation/tu">paper</a></div>
+</li>
+
+<li class="pub-item">
   <span class="pub-title">Spark Transformer: Reactivating Sparsity in FFN and Attention</span>
   <span class="pub-authors">Chong You*, <ins>Kan Wu</ins>*(co-first author), Zhipeng Jia*, Lin Chen*, Srinadh Bhojanapalli, Jiaxian Guo, Utku Evci, Jan Wassenberg, Praneeth Netrapalli, Jeremiah J. Willcock, Suvinay Subramanian, Felix Chern, Alek Andreev, Shreya Pathak, Felix Yu, Prateek Jain, David E. Culler, Henry M. Levy, Sanjiv Kumar</span>
   <span class="pub-venue">NeurIPS 2025</span>Conference on Neural Information Processing Systems
   <div><a class="pub-badge" href="https://deepmind.google/models/gemma/gemma-3n/">Shipped in Gemma 3n</a></div>
   <div class="pub-links"><a class="pub-link" href="https://arxiv.org/abs/2506.06644">paper</a></div>
-</li>
-
-<li class="pub-item">
-  <span class="pub-title">Getting the MOST out of your Storage Hierarchy with Mirror-Optimized Storage Tiering</span>
-  <span class="pub-authors">Kaiwei Tu, <ins>Kan Wu</ins>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau</span>
-  <span class="pub-venue">FAST 2026</span>24th USENIX Conference on File and Storage Technologies
-  <div class="pub-links"><a class="pub-link" href="https://www.usenix.org/conference/fast26/presentation/tu">paper</a></div>
 </li>
 
 <li class="pub-item">
@@ -119,7 +119,10 @@ I hold a Ph.D. in Computer Sciences from the University of Wisconsin-Madison (20
   <span class="pub-title">FineMem: Breaking the Allocation Overhead vs. Memory Waste Dilemma in Fine-Grained Disaggregated Memory Management</span>
   <span class="pub-authors">Xiaoyang Wang, Yongkun Li, <ins>Kan Wu</ins>, Wenzhe Zhu, Yuqi Li, Yinlong Xu</span>
   <span class="pub-venue">OSDI 2025</span>19th USENIX Symposium on Operating Systems Design and Implementation
-  <div class="pub-links"><a class="pub-link" href="https://www.usenix.org/system/files/osdi25-wang-xiaoyang.pdf">paper</a></div>
+  <div class="pub-links">
+    <a class="pub-link" href="https://www.usenix.org/system/files/osdi25-wang-xiaoyang.pdf">paper</a>
+    <a class="pub-link" href="https://github.com/ADSLMemoryDisaggregation/FineMem">code</a>
+  </div>
 </li>
 
 <li class="pub-item">
@@ -131,9 +134,12 @@ I hold a Ph.D. in Computer Sciences from the University of Wisconsin-Madison (20
 
 <li class="pub-item">
   <span class="pub-title">Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling</span>
-  <span class="pub-authors"><ins>Kan Wu</ins>*(co-first author), Zeying Zhu*, Zaoxing Liu</span>
+  <span class="pub-authors">Zeying Zhu*, <ins>Kan Wu</ins>*(co-first author), Zaoxing Liu</span>
   <span class="pub-venue">NSDI 2023</span>20th USENIX Symposium on Networked Systems Design and Implementation
-  <div class="pub-links"><a class="pub-link" href="https://www.usenix.org/system/files/nsdi23-zhu.pdf">paper</a></div>
+  <div class="pub-links">
+    <a class="pub-link" href="https://www.usenix.org/system/files/nsdi23-zhu.pdf">paper</a>
+    <a class="pub-link" href="https://github.com/Froot-NetSys/Arya">code</a>
+  </div>
 </li>
 
 <li class="pub-item">
@@ -180,12 +186,6 @@ I hold a Ph.D. in Computer Sciences from the University of Wisconsin-Madison (20
   </div>
 </li>
 
-<li class="pub-item">
-  <span class="pub-title">The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus</span>
-  <span class="pub-authors"><ins>Kan Wu</ins> et al.</span>
-  <span class="pub-venue">NVMW 2021</span>12th Non-Volatile Memories Workshop
-  <div class="pub-links"><a class="pub-link" href="https://research.cs.wisc.edu/adsl/Publications/nvmw21-kan.pdf">paper</a></div>
-</li>
 
 <li class="pub-item">
   <span class="pub-title">Releasing Locks As Early As You Can: Reducing Contention of Hotspots by Violating Two-Phase Locking</span>
@@ -212,12 +212,6 @@ I hold a Ph.D. in Computer Sciences from the University of Wisconsin-Madison (20
   </div>
 </li>
 
-<li class="pub-item">
-  <span class="pub-title">Exploiting Intel Optane SSD for Microsoft SQL Server</span>
-  <span class="pub-authors"><ins>Kan Wu</ins>, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, Rathijit Sen, Kwanghyun Park</span>
-  <span class="pub-venue">DaMoN, SIGMOD 2019</span>ACM SIGMOD International Conference on Management of Data
-  <div class="pub-links"><a class="pub-link" href="https://research.cs.wisc.edu/adsl/Publications/damon-optane19.pdf">paper</a></div>
-</li>
 
 </ul>
 

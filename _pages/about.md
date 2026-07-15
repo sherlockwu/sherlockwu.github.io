@@ -83,6 +83,7 @@ I hold a Ph.D. in Computer Sciences from the University of Wisconsin-Madison (20
   <span class="pub-title">MDK: Rethinking the Data Center Memory Reclamation Problem</span>
   <span class="pub-authors">Shaurya Patel, Suli Yang, Yawen Wang, <ins>Kan Wu</ins>, Alexandra Fedorova, Margo Seltzer, Kimberly Keeton</span>
   <span class="pub-venue">OSDI 2026</span>17th USENIX Symposium on Operating Systems Design and Implementation
+  <div><span class="pub-badge">Best Paper Honorable Mention</span></div>
   <div class="pub-links"><a class="pub-link" href="https://www.usenix.org/conference/osdi26/presentation/patel">paper</a></div>
 </li>
 
